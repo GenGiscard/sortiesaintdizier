@@ -18,29 +18,16 @@ OFFLINE = "--offline" in sys.argv
 RACINE = Path(__file__).parent
 SORTIE = RACINE / "docs" / "der.ics"
 
-# ---------------------------------------------------------------- profil ----
-# Pondérations du profil : proximité x1, originalité x2, adapté x3, social x4
-MOTS_INTERETS = {  # mot-clé (sans accents, minuscules) -> points de proximité
-    "chill": 1, "detente": 1, "guinguette": 2, "terrasse": 1,
-    "sport": 2, "course": 1, "velo": 1, "plage": 2,
-    "asie": 3, "asiatique": 3, "vietnam": 3, "vietnamien": 3,
-    "japon": 3, "japonais": 3, "manga": 2, "sushi": 2, "ramen": 2,
-    "photo": 2, "photographie": 2, "expo": 2, "exposition": 2,
-    "film": 2, "cinema": 2, "projection": 2, "art": 2, "mapping": 2,
-    "combat": 3, "mma": 3, "boxe": 3, "martiaux": 3, "muay": 3,
-    "bar": 2, "biere": 1, "cocktail": 1, "degustation": 1,
-    "nourriture": 2, "food": 2, "gastronomie": 2, "marche": 1, "brunch": 1,
-    "rencontre": 3, "celibataire": 3, "speed dating": 3, "dating": 3,
-}
-MOTS_SOCIAL = ["soiree", "dj", "concert", "festival", "bal", "fete", "guinguette",
-               "rencontre", "celibataire", "afterwork", "danse", "karaoke", "bar",
-               "social", "foule", "plage"]
-MOTS_ORIGINALITE = ["insolite", "premiere", "unique", "nocturne", "plein air",
-                    "escape", "immersif", "mapping", "cloture", "inedit"]
+# ------------------------------------------------- filtres (sans profil) ----
+# Pas de filtrage par centres d'intérêt : on garde tout ce qui est daté,
+# dans le rayon (~30 min) et sous le budget.
 EXCLUSIONS = ["reims", "troyes", "chaumont", "nancy", "metz", "epernay",
               "chalons-en-champagne", "verdun", "langres", "sedan", "nogent",
               "enfant 3", "sponsorise", "annule"]
 BUDGET_MAX = 50
+MAX_EVENEMENTS_WEB = 8   # plafond de sécurité par soir (au-delà, tri par heure)
+MIN_PAR_SOIR = 4         # complété par les activités permanentes si besoin
+NB_SEMAINES = 2          # semaine en cours + semaine suivante
 
 def sans_accents(s: str) -> str:
     return unicodedata.normalize("NFD", (s or "").lower()).encode("ascii", "ignore").decode()
@@ -159,63 +146,58 @@ def cadrer_horaire(start: str, end: str, jour: date):
     start, end = start or "20:00", end or None
     if start >= limite:
         return start, end
-    if end and end > limite:            # la plage couvre le seuil → on décale le début
+    if end and end > limite:
         return limite, end
     return None
 
-def candidats_du_jour(jour: date, events_web, permanentes, deja_utilise) -> list[dict]:
-    out = []
-    for ev in events_web:
-        if ev["date"] != jour or ev["name"] in deja_utilise:
-            continue
-        cadre = cadrer_horaire(ev["start"], ev["end"], jour)
-        if not cadre:
-            continue
-        s = score(ev["name"] + " " + ev.get("why", ""), permanent=False)
-        out.append({**ev, "start": cadre[0], "end": cadre[1] or "22:00", "score": s})
-    for p in permanentes:
-        if jour.weekday() not in p["days"] or p["name"] in deja_utilise:
-            continue
-        if p.get("from") and jour.isoformat() < p["from"]:
-            continue
-        if p.get("to") and jour.isoformat() > p["to"]:
-            continue
-        cadre = cadrer_horaire(p["start"], p.get("end"), jour)
-        if not cadre:
-            continue
-        s = score(p["name"] + " " + p.get("why", "") + " " + " ".join(p.get("tags", [])),
-                  permanent=True)
-        out.append({**p, "date": jour, "start": cadre[0], "end": cadre[1] or cadre[0],
-                    "score": s, "permanent": True})
-    return sorted(out, key=lambda c: -c["score"])
-
-NB_SEMAINES = 2   # semaine en cours + semaine suivante
-
 def planifier(events_web: list[dict]) -> dict[date, list[dict]]:
-    """4 activités max par soir, réparties en round-robin. La règle
-    anti-répétition (une activité ne sert qu'une fois) s'applique PAR SEMAINE :
-    elle se réinitialise chaque lundi, sinon les activités permanentes ne
-    pourraient pas couvrir plusieurs semaines."""
+    """Exhaustif : TOUS les événements web datés du jour (jusqu'à
+    MAX_EVENEMENTS_WEB, triés par heure). Les activités permanentes ne font
+    que compléter jusqu'à MIN_PAR_SOIR, sans répétition dans la semaine."""
     lundi = date.today() - timedelta(days=date.today().weekday())
     permanentes = charger_permanentes()
     planning: dict[date, list[dict]] = {}
 
-    for s in range(NB_SEMAINES):
-        jours = [lundi + timedelta(days=7 * s + i) for i in range(7)]
-        for j in jours:
-            planning[j] = []
-        deja_utilise: set[str] = set()          # remis à zéro chaque semaine
+    for s_ in range(NB_SEMAINES):
+        jours = [lundi + timedelta(days=7 * s_ + i) for i in range(7)]
+        deja_utilise: set[str] = set()
 
-        for _passe in range(4):                 # 4 créneaux par soir
+        # 1. Tous les événements web du jour
+        for jour in jours:
+            retenus, noms = [], set()
+            for ev in sorted([e for e in events_web if e["date"] == jour],
+                             key=lambda e: e["start"] or "20:00"):
+                if ev["name"] in noms:
+                    continue
+                cadre = cadrer_horaire(ev["start"], ev["end"], jour)
+                if not cadre:
+                    continue
+                retenus.append({**ev, "start": cadre[0], "end": cadre[1] or "22:00"})
+                noms.add(ev["name"])
+                if len(retenus) >= MAX_EVENEMENTS_WEB:
+                    break
+            planning[jour] = retenus
+
+        # 2. Compléter les soirs creux avec les permanentes (round-robin)
+        for _passe in range(MIN_PAR_SOIR):
             for jour in jours:
-                if len(planning[jour]) >= 4:
+                if len(planning[jour]) >= MIN_PAR_SOIR:
                     continue
                 noms_du_jour = {e["name"] for e in planning[jour]}
-                for c in candidats_du_jour(jour, events_web, permanentes, deja_utilise):
-                    if c["name"] in noms_du_jour:
+                for p in permanentes:
+                    if (jour.weekday() not in p["days"] or p["name"] in deja_utilise
+                            or p["name"] in noms_du_jour):
                         continue
-                    planning[jour].append(c)
-                    deja_utilise.add(c["name"])
+                    if p.get("from") and jour.isoformat() < p["from"]:
+                        continue
+                    if p.get("to") and jour.isoformat() > p["to"]:
+                        continue
+                    cadre = cadrer_horaire(p["start"], p.get("end"), jour)
+                    if not cadre:
+                        continue
+                    planning[jour].append({**p, "date": jour, "start": cadre[0],
+                                           "end": cadre[1] or cadre[0], "permanent": True})
+                    deja_utilise.add(p["name"])
                     break
 
     return {j: sorted(evts, key=lambda c: c["start"]) for j, evts in planning.items()}
@@ -237,7 +219,7 @@ def generer_ics(planning: dict[date, list[dict]]) -> str:
         for i, ev in enumerate(evts, 1):
             hm = lambda t: t.replace(":", "") + "00"
             fin = ev["end"] if ev.get("end") and ev["end"] > ev["start"] else ev["start"]
-            desc = (f"SCORE : {ev['score']}/20\nBudget : {ev.get('price','?')}\n"
+            desc = (f"Budget : {ev.get('price','?')}\n"
                     f"{ev.get('why','')}\n{ev.get('url','')}")
             L += ["BEGIN:VEVENT",
                   f"UID:der-ia-{ymd}-{i}@gengiscard.github.io",
@@ -263,4 +245,4 @@ if __name__ == "__main__":
     total = sum(len(v) for v in planning.values())
     print(f"OK — {total} activités écrites dans {SORTIE}")
     for jour, evts in planning.items():
-        print(" ", jour.strftime("%a %d/%m"), "→", " | ".join(f"{e['start']} {e['name'][:38]} ({e['score']}/20)" for e in evts))
+        print(" ", jour.strftime("%a %d/%m"), "→", " | ".join(f"{e['start']} {e['name'][:44]}" for e in evts))
