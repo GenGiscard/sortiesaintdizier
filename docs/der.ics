@@ -24,453 +24,453 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:der-ia-20260706-1@gengiscard.github.io
-DTSTAMP:20260712T120948Z
-DTSTART;TZID=Europe/Paris:20260706T173000
-DTEND;TZID=Europe/Paris:20260706T203000
-SUMMARY:Boxe — Cercle Pugilistique de Saint-Dizier (À CONFIRMER)
-LOCATION:Cercle Pugilistique\, 14 Rue de Vergy\, 52100 Saint-Dizier
-DESCRIPTION:SCORE : 12/20\nBudget : Essai / cotisation\nClub de boxe historique bragard (4\,8/5)\, lun/mer/ven 16h-20h30 + dimanche matin.\nhttps://www.google.com/maps/search/?api=1&query=Cercle+Pugilistique+Saint-Dizier
-URL:https://www.google.com/maps/search/?api=1&query=Cercle+Pugilistique+Saint-Dizier
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20260706-2@gengiscard.github.io
-DTSTAMP:20260712T120948Z
+DTSTAMP:20260712T122050Z
 DTSTART;TZID=Europe/Paris:20260706T193000
 DTEND;TZID=Europe/Paris:20260706T210000
 SUMMARY:Entraînement MMA — Fight Camp 52 (À CONFIRMER)
 LOCATION:Fight Camp 52\, 21 Av. du Général Giraud\, 52100 Saint-Dizier
-DESCRIPTION:SCORE : 16/20\nBudget : Essai gratuit / cotisation\nClub MMA noté 5/5\, cours du soir en semaine (mer dès 13h). Confirmer les horaires d'été : 06 27 34 71 56.\nhttps://www.google.com/maps/search/?api=1&query=Fight+Camp+52+Saint-Dizier
+DESCRIPTION:Budget : Essai gratuit / cotisation\nClub MMA noté 5/5\, cours du soir en semaine (mer dès 13h). Confirmer les horaires d'été : 06 27 34 71 56.\nhttps://www.google.com/maps/search/?api=1&query=Fight+Camp+52+Saint-Dizier
 URL:https://www.google.com/maps/search/?api=1&query=Fight+Camp+52+Saint-Dizier
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
+UID:der-ia-20260706-2@gengiscard.github.io
+DTSTAMP:20260712T122050Z
+DTSTART;TZID=Europe/Paris:20260706T200000
+DTEND;TZID=Europe/Paris:20260706T221500
+SUMMARY:Ciné du soir — Ciné Quai
+LOCATION:Ciné Quai\, 36 Rue Lamartine\, 52100 Saint-Dizier
+DESCRIPTION:Budget : ~7-11€\nMultiplexe du centre — consulter la séance du jour (avant-premières et séances spéciales régulières).\nhttps://www.google.com/maps/search/?api=1&query=Cine+Quai+Saint-Dizier
+URL:https://www.google.com/maps/search/?api=1&query=Cine+Quai+Saint-Dizier
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
 UID:der-ia-20260707-1@gengiscard.github.io
-DTSTAMP:20260712T120948Z
+DTSTAMP:20260712T122050Z
 DTSTART;TZID=Europe/Paris:20260707T180000
 DTEND;TZID=Europe/Paris:20260707T220000
 SUMMARY:Soirée arcade & bar — Arcadia
 LOCATION:Arcadia\, 34 Rue Gambetta\, 52100 Saint-Dizier
-DESCRIPTION:SCORE : 20/20\nBudget : ~10€ illimité + conso\nBar-arcade rétro (4\,8/5)\, bornes classiques en illimité\, ambiance conviviale — LE spot geek de Saint-Dizier.\nhttps://www.google.com/maps/search/?api=1&query=Arcadia+Saint-Dizier
+DESCRIPTION:Budget : ~10€ illimité + conso\nBar-arcade rétro (4\,8/5)\, bornes classiques en illimité\, ambiance conviviale — LE spot geek de Saint-Dizier.\nhttps://www.google.com/maps/search/?api=1&query=Arcadia+Saint-Dizier
 URL:https://www.google.com/maps/search/?api=1&query=Arcadia+Saint-Dizier
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260707-2@gengiscard.github.io
-DTSTAMP:20260712T120948Z
-DTSTART;TZID=Europe/Paris:20260707T200000
-DTEND;TZID=Europe/Paris:20260707T221500
-SUMMARY:Ciné du soir — Ciné Quai
-LOCATION:Ciné Quai\, 36 Rue Lamartine\, 52100 Saint-Dizier
-DESCRIPTION:SCORE : 8/20\nBudget : ~7-11€\nMultiplexe du centre — consulter la séance du jour (avant-premières et séances spéciales régulières).\nhttps://www.google.com/maps/search/?api=1&query=Cine+Quai+Saint-Dizier
-URL:https://www.google.com/maps/search/?api=1&query=Cine+Quai+Saint-Dizier
+DTSTAMP:20260712T122050Z
+DTSTART;TZID=Europe/Paris:20260707T183000
+DTEND;TZID=Europe/Paris:20260707T203000
+SUMMARY:Sushis — Sushi King (Bar-le-Duc\, ~30 min)
+LOCATION:Sushi King\, 8 Rue André Maginot\, 55000 Bar-le-Duc
+DESCRIPTION:Budget : ~15-25€\nLe meilleur japonais du secteur (4\,8/5\, 465 avis)\, mar-dim soir. Tél : 03 29 90 51 88.\nhttps://www.google.com/maps/search/?api=1&query=Sushi+King+Bar-le-Duc
+URL:https://www.google.com/maps/search/?api=1&query=Sushi+King+Bar-le-Duc
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260708-1@gengiscard.github.io
-DTSTAMP:20260712T120948Z
+DTSTAMP:20260712T122050Z
 DTSTART;TZID=Europe/Paris:20260708T173000
-DTEND;TZID=Europe/Paris:20260708T200000
-SUMMARY:Apéro lounge — Le Diable Rouge
-LOCATION:Le Diable Rouge\, 7 Rue Catel\, 52100 Saint-Dizier
-DESCRIPTION:SCORE : 17/20\nBudget : ~10-25€\nLounge bar 4\,6/5\, belles planches et carte des vins\, déco aviation militaire. Ven/sam jusqu'à minuit.\nhttps://www.google.com/maps/search/?api=1&query=Le+Diable+Rouge+Saint-Dizier
-URL:https://www.google.com/maps/search/?api=1&query=Le+Diable+Rouge+Saint-Dizier
+DTEND;TZID=Europe/Paris:20260708T203000
+SUMMARY:Boxe — Cercle Pugilistique de Saint-Dizier (À CONFIRMER)
+LOCATION:Cercle Pugilistique\, 14 Rue de Vergy\, 52100 Saint-Dizier
+DESCRIPTION:Budget : Essai / cotisation\nClub de boxe historique bragard (4\,8/5)\, lun/mer/ven 16h-20h30 + dimanche matin.\nhttps://www.google.com/maps/search/?api=1&query=Cercle+Pugilistique+Saint-Dizier
+URL:https://www.google.com/maps/search/?api=1&query=Cercle+Pugilistique+Saint-Dizier
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260708-2@gengiscard.github.io
-DTSTAMP:20260712T120948Z
-DTSTART;TZID=Europe/Paris:20260708T180000
-DTEND;TZID=Europe/Paris:20260708T203000
-SUMMARY:Dîner asiatique — Jardin d'Asie
-LOCATION:Jardin d'Asie\, 47 Rue Gambetta\, 52100 Saint-Dizier
-DESCRIPTION:SCORE : 12/20\nBudget : ~10-18€\nTraiteur asiatique 4\,7/5 (163 avis)\, mer-dim\, service du soir jusqu'à 21h. Tél : 09 86 40 21 97.\nhttps://www.google.com/maps/search/?api=1&query=Jardin+d+Asie+Saint-Dizier
-URL:https://www.google.com/maps/search/?api=1&query=Jardin+d+Asie+Saint-Dizier
+DTSTAMP:20260712T122050Z
+DTSTART;TZID=Europe/Paris:20260708T203000
+DTEND;TZID=Europe/Paris:20260708T220000
+SUMMARY:Golden hour photo au Der — port de Giffaumont
+LOCATION:Port de Giffaumont / digue du Der\, 51290 Giffaumont-Champaubert (~20 min)
+DESCRIPTION:Budget : GRATUIT\nCouchers de soleil spectaculaires sur 4800 ha d'eau — spot réputé des photographes (et des grues en automne).\nhttps://www.lacduder.com/
+URL:https://www.lacduder.com/
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260709-1@gengiscard.github.io
-DTSTAMP:20260712T120948Z
+DTSTAMP:20260712T122050Z
 DTSTART;TZID=Europe/Paris:20260709T173000
 DTEND;TZID=Europe/Paris:20260709T200000
-SUMMARY:Marché estival d'Éclaron (à confirmer) (À CONFIRMER)
-LOCATION:Centre d'Éclaron\, 52290 Éclaron-Braucourt-Sainte-Livière (~10 min)
-DESCRIPTION:SCORE : 17/20\nBudget : Entrée libre\nMarché de producteurs en fin de journée\, souvent animé de concerts — vérifier le jour exact : 03 25 04 11 62.\nhttps://www.lacduder.com/sorganiser/agenda/tout-lagenda/
-URL:https://www.lacduder.com/sorganiser/agenda/tout-lagenda/
+SUMMARY:Apéro lounge — Le Diable Rouge
+LOCATION:Le Diable Rouge\, 7 Rue Catel\, 52100 Saint-Dizier
+DESCRIPTION:Budget : ~10-25€\nLounge bar 4\,6/5\, belles planches et carte des vins\, déco aviation militaire. Ven/sam jusqu'à minuit.\nhttps://www.google.com/maps/search/?api=1&query=Le+Diable+Rouge+Saint-Dizier
+URL:https://www.google.com/maps/search/?api=1&query=Le+Diable+Rouge+Saint-Dizier
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260709-2@gengiscard.github.io
-DTSTAMP:20260712T120948Z
+DTSTAMP:20260712T122050Z
+DTSTART;TZID=Europe/Paris:20260709T173000
+DTEND;TZID=Europe/Paris:20260709T200000
+SUMMARY:Marché estival d'Éclaron (à confirmer) (À CONFIRMER)
+LOCATION:Centre d'Éclaron\, 52290 Éclaron-Braucourt-Sainte-Livière (~10 min)
+DESCRIPTION:Budget : Entrée libre\nMarché de producteurs en fin de journée\, souvent animé de concerts — vérifier le jour exact : 03 25 04 11 62.\nhttps://www.lacduder.com/sorganiser/agenda/tout-lagenda/
+URL:https://www.lacduder.com/sorganiser/agenda/tout-lagenda/
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20260709-3@gengiscard.github.io
+DTSTAMP:20260712T122050Z
 DTSTART;TZID=Europe/Paris:20260709T200000
 DTEND;TZID=Europe/Paris:20260709T233000
 SUMMARY:Soirée au Casino JOA du Lac du Der (À CONFIRMER)
 LOCATION:Casino JOA du Lac du Der\, Station Nautique\, 51290 Giffaumont-Champaubert (~20 min)
-DESCRIPTION:SCORE : 17/20\nBudget : Entrée gratuite — se fixer une limite (≤50€ !)\nBar des Sports\, restaurant\, karaokés et soirées à thème régulières (voir programme du mois).\nhttps://www.joa.fr/casinos/lac-du-der
+DESCRIPTION:Budget : Entrée gratuite — se fixer une limite (≤50€ !)\nBar des Sports\, restaurant\, karaokés et soirées à thème régulières (voir programme du mois).\nhttps://www.joa.fr/casinos/lac-du-der
 URL:https://www.joa.fr/casinos/lac-du-der
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260710-1@gengiscard.github.io
-DTSTAMP:20260712T120948Z
+DTSTAMP:20260712T122050Z
 DTSTART;TZID=Europe/Paris:20260710T180000
 DTEND;TZID=Europe/Paris:20260710T220000
 SUMMARY:Soirée du vendredi — Bar de l'Agriculture
 LOCATION:Bar de l'Agriculture\, 3 Place de la Liberté\, 52100 Saint-Dizier
-DESCRIPTION:SCORE : 17/20\nBudget : ~5-15€\nInstitution bragarde : « great atmosphere every Friday night »\, prix doux.\nhttps://www.google.com/maps/search/?api=1&query=Bar+de+l+Agriculture+Saint-Dizier
+DESCRIPTION:Budget : ~5-15€\nInstitution bragarde : « great atmosphere every Friday night »\, prix doux.\nhttps://www.google.com/maps/search/?api=1&query=Bar+de+l+Agriculture+Saint-Dizier
 URL:https://www.google.com/maps/search/?api=1&query=Bar+de+l+Agriculture+Saint-Dizier
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20260710-2@gengiscard.github.io
-DTSTAMP:20260712T120948Z
-DTSTART;TZID=Europe/Paris:20260710T203000
-DTEND;TZID=Europe/Paris:20260710T220000
-SUMMARY:Golden hour photo au Der — port de Giffaumont
-LOCATION:Port de Giffaumont / digue du Der\, 51290 Giffaumont-Champaubert (~20 min)
-DESCRIPTION:SCORE : 6/20\nBudget : GRATUIT\nCouchers de soleil spectaculaires sur 4800 ha d'eau — spot réputé des photographes (et des grues en automne).\nhttps://www.lacduder.com/
-URL:https://www.lacduder.com/
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
 UID:der-ia-20260711-1@gengiscard.github.io
-DTSTAMP:20260712T120948Z
-DTSTART;TZID=Europe/Paris:20260711T083000
-DTEND;TZID=Europe/Paris:20260711T113000
-SUMMARY:Sortie ornitho & photo animalière au Der (LPO) (À CONFIRMER)
-LOCATION:Observatoires du Lac du Der\, Giffaumont / Sainte-Marie-du-Lac (~20-25 min)
-DESCRIPTION:SCORE : 6/20\nBudget : GRATUIT à ~10€\nPlus de 170 espèces d'oiseaux nicheurs/migrateurs en été \; sorties LPO régulières (inscription selon dates).\nhttps://www.jds.fr/saint-dizier/agenda/
-URL:https://www.jds.fr/saint-dizier/agenda/
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20260711-2@gengiscard.github.io
-DTSTAMP:20260712T120948Z
+DTSTAMP:20260712T122050Z
 DTSTART;TZID=Europe/Paris:20260711T100000
 DTEND;TZID=Europe/Paris:20260711T180000
 SUMMARY:Plage & baignade — Giffaumont\, Lac du Der
 LOCATION:Plage de Giffaumont\, 51290 Giffaumont-Champaubert (~20 min)
-DESCRIPTION:SCORE : 14/20\nBudget : GRATUIT\nPlage surveillée en été sur le plus grand lac artificiel de France — baignade\, volley\, paddle à louer.\nhttps://www.lacduder.com/
+DESCRIPTION:Budget : GRATUIT\nPlage surveillée en été sur le plus grand lac artificiel de France — baignade\, volley\, paddle à louer.\nhttps://www.lacduder.com/
 URL:https://www.lacduder.com/
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20260711-3@gengiscard.github.io
-DTSTAMP:20260712T120948Z
-DTSTART;TZID=Europe/Paris:20260711T190000
-DTEND;TZID=Europe/Paris:20260711T213000
-SUMMARY:Buffet wok — Wok 52
-LOCATION:Wok 52\, 20 Av. Pierre Bérégovoy\, 52100 Saint-Dizier
-DESCRIPTION:SCORE : 16/20\nBudget : ~20-25€\nGrand buffet asiatique ouvert 7j/7 le soir (19h-22h30)\, pratique en sortie de groupe.\nhttps://www.google.com/maps/search/?api=1&query=Wok+52+Saint-Dizier
-URL:https://www.google.com/maps/search/?api=1&query=Wok+52+Saint-Dizier
+UID:der-ia-20260711-2@gengiscard.github.io
+DTSTAMP:20260712T122050Z
+DTSTART;TZID=Europe/Paris:20260711T180000
+DTEND;TZID=Europe/Paris:20260711T203000
+SUMMARY:Dîner asiatique — Jardin d'Asie
+LOCATION:Jardin d'Asie\, 47 Rue Gambetta\, 52100 Saint-Dizier
+DESCRIPTION:Budget : ~10-18€\nTraiteur asiatique 4\,7/5 (163 avis)\, mer-dim\, service du soir jusqu'à 21h. Tél : 09 86 40 21 97.\nhttps://www.google.com/maps/search/?api=1&query=Jardin+d+Asie+Saint-Dizier
+URL:https://www.google.com/maps/search/?api=1&query=Jardin+d+Asie+Saint-Dizier
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260712-1@gengiscard.github.io
-DTSTAMP:20260712T120948Z
-DTSTART;TZID=Europe/Paris:20260712T143000
-DTEND;TZID=Europe/Paris:20260712T220000
-SUMMARY:Atelier d’initiation au Crochet
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:SCORE : 6/20\nBudget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/activite-experience/ateliers/atelier-d-initiation-au-crochet-1579406_A
-URL:https://www.jds.fr/saint-dizier/activite-experience/ateliers/atelier-d-initiation-au-crochet-1579406_A
+DTSTAMP:20260712T122050Z
+DTSTART;TZID=Europe/Paris:20260712T083000
+DTEND;TZID=Europe/Paris:20260712T113000
+SUMMARY:Sortie ornitho & photo animalière au Der (LPO) (À CONFIRMER)
+LOCATION:Observatoires du Lac du Der\, Giffaumont / Sainte-Marie-du-Lac (~20-25 min)
+DESCRIPTION:Budget : GRATUIT à ~10€\nPlus de 170 espèces d'oiseaux nicheurs/migrateurs en été \; sorties LPO régulières (inscription selon dates).\nhttps://www.jds.fr/saint-dizier/agenda/
+URL:https://www.jds.fr/saint-dizier/agenda/
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260712-2@gengiscard.github.io
-DTSTAMP:20260712T120948Z
-DTSTART;TZID=Europe/Paris:20260712T183000
-DTEND;TZID=Europe/Paris:20260712T203000
-SUMMARY:Sushis — Sushi King (Bar-le-Duc\, ~30 min)
-LOCATION:Sushi King\, 8 Rue André Maginot\, 55000 Bar-le-Duc
-DESCRIPTION:SCORE : 16/20\nBudget : ~15-25€\nLe meilleur japonais du secteur (4\,8/5\, 465 avis)\, mar-dim soir. Tél : 03 29 90 51 88.\nhttps://www.google.com/maps/search/?api=1&query=Sushi+King+Bar-le-Duc
-URL:https://www.google.com/maps/search/?api=1&query=Sushi+King+Bar-le-Duc
+DTSTAMP:20260712T122050Z
+DTSTART;TZID=Europe/Paris:20260712T143000
+DTEND;TZID=Europe/Paris:20260712T220000
+SUMMARY:Atelier d’initiation au Crochet
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/activite-experience/ateliers/atelier-d-initiation-au-crochet-1579406_A
+URL:https://www.jds.fr/saint-dizier/activite-experience/ateliers/atelier-d-initiation-au-crochet-1579406_A
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260712-3@gengiscard.github.io
-DTSTAMP:20260712T120948Z
+DTSTAMP:20260712T122050Z
+DTSTART;TZID=Europe/Paris:20260712T190000
+DTEND;TZID=Europe/Paris:20260712T213000
+SUMMARY:Buffet wok — Wok 52
+LOCATION:Wok 52\, 20 Av. Pierre Bérégovoy\, 52100 Saint-Dizier
+DESCRIPTION:Budget : ~20-25€\nGrand buffet asiatique ouvert 7j/7 le soir (19h-22h30)\, pratique en sortie de groupe.\nhttps://www.google.com/maps/search/?api=1&query=Wok+52+Saint-Dizier
+URL:https://www.google.com/maps/search/?api=1&query=Wok+52+Saint-Dizier
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20260712-4@gengiscard.github.io
+DTSTAMP:20260712T122050Z
 DTSTART;TZID=Europe/Paris:20260712T200000
 DTEND;TZID=Europe/Paris:20260712T220000
 SUMMARY:La Brocante des Marins (À CONFIRMER)
 LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:SCORE : 6/20\nBudget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/foires-et-salons/brocantes/la-brocante-des-marins-1642995_A
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/foires-et-salons/brocantes/la-brocante-des-marins-1642995_A
 URL:https://www.jds.fr/saint-dizier/foires-et-salons/brocantes/la-brocante-des-marins-1642995_A
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260713-1@gengiscard.github.io
-DTSTAMP:20260712T120948Z
-DTSTART;TZID=Europe/Paris:20260713T173000
-DTEND;TZID=Europe/Paris:20260713T203000
-SUMMARY:Boxe — Cercle Pugilistique de Saint-Dizier (À CONFIRMER)
-LOCATION:Cercle Pugilistique\, 14 Rue de Vergy\, 52100 Saint-Dizier
-DESCRIPTION:SCORE : 12/20\nBudget : Essai / cotisation\nClub de boxe historique bragard (4\,8/5)\, lun/mer/ven 16h-20h30 + dimanche matin.\nhttps://www.google.com/maps/search/?api=1&query=Cercle+Pugilistique+Saint-Dizier
-URL:https://www.google.com/maps/search/?api=1&query=Cercle+Pugilistique+Saint-Dizier
+DTSTAMP:20260712T122050Z
+DTSTART;TZID=Europe/Paris:20260713T190000
+DTEND;TZID=Europe/Paris:20260713T213000
+SUMMARY:Buffet wok — Wok 52
+LOCATION:Wok 52\, 20 Av. Pierre Bérégovoy\, 52100 Saint-Dizier
+DESCRIPTION:Budget : ~20-25€\nGrand buffet asiatique ouvert 7j/7 le soir (19h-22h30)\, pratique en sortie de groupe.\nhttps://www.google.com/maps/search/?api=1&query=Wok+52+Saint-Dizier
+URL:https://www.google.com/maps/search/?api=1&query=Wok+52+Saint-Dizier
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260713-2@gengiscard.github.io
-DTSTAMP:20260712T120948Z
+DTSTAMP:20260712T122050Z
 DTSTART;TZID=Europe/Paris:20260713T193000
 DTEND;TZID=Europe/Paris:20260713T210000
 SUMMARY:Entraînement MMA — Fight Camp 52 (À CONFIRMER)
 LOCATION:Fight Camp 52\, 21 Av. du Général Giraud\, 52100 Saint-Dizier
-DESCRIPTION:SCORE : 16/20\nBudget : Essai gratuit / cotisation\nClub MMA noté 5/5\, cours du soir en semaine (mer dès 13h). Confirmer les horaires d'été : 06 27 34 71 56.\nhttps://www.google.com/maps/search/?api=1&query=Fight+Camp+52+Saint-Dizier
+DESCRIPTION:Budget : Essai gratuit / cotisation\nClub MMA noté 5/5\, cours du soir en semaine (mer dès 13h). Confirmer les horaires d'été : 06 27 34 71 56.\nhttps://www.google.com/maps/search/?api=1&query=Fight+Camp+52+Saint-Dizier
 URL:https://www.google.com/maps/search/?api=1&query=Fight+Camp+52+Saint-Dizier
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260713-3@gengiscard.github.io
-DTSTAMP:20260712T120948Z
+DTSTAMP:20260712T122050Z
 DTSTART;TZID=Europe/Paris:20260713T200000
 DTEND;TZID=Europe/Paris:20260713T220000
 SUMMARY:Feu d'artifice (À CONFIRMER)
 LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:SCORE : 6/20\nBudget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/manifestations/feu-d-artifice/feu-d-artifice-1646303_A
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/manifestations/feu-d-artifice/feu-d-artifice-1646303_A
 URL:https://www.jds.fr/saint-dizier/manifestations/feu-d-artifice/feu-d-artifice-1646303_A
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260713-4@gengiscard.github.io
-DTSTAMP:20260712T120948Z
+DTSTAMP:20260712T122050Z
 DTSTART;TZID=Europe/Paris:20260713T230000
 DTEND;TZID=Europe/Paris:20260713T230000
 SUMMARY:La Fête à Allichamps
 LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:SCORE : 7/20\nBudget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/manifestations/la-fete-a-allichamps-1641472_A
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/manifestations/la-fete-a-allichamps-1641472_A
 URL:https://www.jds.fr/saint-dizier/manifestations/la-fete-a-allichamps-1641472_A
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260714-1@gengiscard.github.io
-DTSTAMP:20260712T120948Z
+DTSTAMP:20260712T122050Z
 DTSTART;TZID=Europe/Paris:20260714T180000
 DTEND;TZID=Europe/Paris:20260714T220000
 SUMMARY:Soirée arcade & bar — Arcadia
 LOCATION:Arcadia\, 34 Rue Gambetta\, 52100 Saint-Dizier
-DESCRIPTION:SCORE : 20/20\nBudget : ~10€ illimité + conso\nBar-arcade rétro (4\,8/5)\, bornes classiques en illimité\, ambiance conviviale — LE spot geek de Saint-Dizier.\nhttps://www.google.com/maps/search/?api=1&query=Arcadia+Saint-Dizier
+DESCRIPTION:Budget : ~10€ illimité + conso\nBar-arcade rétro (4\,8/5)\, bornes classiques en illimité\, ambiance conviviale — LE spot geek de Saint-Dizier.\nhttps://www.google.com/maps/search/?api=1&query=Arcadia+Saint-Dizier
 URL:https://www.google.com/maps/search/?api=1&query=Arcadia+Saint-Dizier
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260714-2@gengiscard.github.io
-DTSTAMP:20260712T120948Z
-DTSTART;TZID=Europe/Paris:20260714T200000
-DTEND;TZID=Europe/Paris:20260714T221500
-SUMMARY:Ciné du soir — Ciné Quai
-LOCATION:Ciné Quai\, 36 Rue Lamartine\, 52100 Saint-Dizier
-DESCRIPTION:SCORE : 8/20\nBudget : ~7-11€\nMultiplexe du centre — consulter la séance du jour (avant-premières et séances spéciales régulières).\nhttps://www.google.com/maps/search/?api=1&query=Cine+Quai+Saint-Dizier
-URL:https://www.google.com/maps/search/?api=1&query=Cine+Quai+Saint-Dizier
+DTSTAMP:20260712T122050Z
+DTSTART;TZID=Europe/Paris:20260714T183000
+DTEND;TZID=Europe/Paris:20260714T203000
+SUMMARY:Sushis — Sushi King (Bar-le-Duc\, ~30 min)
+LOCATION:Sushi King\, 8 Rue André Maginot\, 55000 Bar-le-Duc
+DESCRIPTION:Budget : ~15-25€\nLe meilleur japonais du secteur (4\,8/5\, 465 avis)\, mar-dim soir. Tél : 03 29 90 51 88.\nhttps://www.google.com/maps/search/?api=1&query=Sushi+King+Bar-le-Duc
+URL:https://www.google.com/maps/search/?api=1&query=Sushi+King+Bar-le-Duc
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260714-3@gengiscard.github.io
-DTSTAMP:20260712T120948Z
+DTSTAMP:20260712T122050Z
 DTSTART;TZID=Europe/Paris:20260714T203000
 DTEND;TZID=Europe/Paris:20260714T220000
 SUMMARY:Golden hour photo au Der — port de Giffaumont
 LOCATION:Port de Giffaumont / digue du Der\, 51290 Giffaumont-Champaubert (~20 min)
-DESCRIPTION:SCORE : 6/20\nBudget : GRATUIT\nCouchers de soleil spectaculaires sur 4800 ha d'eau — spot réputé des photographes (et des grues en automne).\nhttps://www.lacduder.com/
+DESCRIPTION:Budget : GRATUIT\nCouchers de soleil spectaculaires sur 4800 ha d'eau — spot réputé des photographes (et des grues en automne).\nhttps://www.lacduder.com/
 URL:https://www.lacduder.com/
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260715-1@gengiscard.github.io
-DTSTAMP:20260712T120948Z
+DTSTAMP:20260712T122050Z
 DTSTART;TZID=Europe/Paris:20260715T173000
-DTEND;TZID=Europe/Paris:20260715T200000
-SUMMARY:Apéro lounge — Le Diable Rouge
-LOCATION:Le Diable Rouge\, 7 Rue Catel\, 52100 Saint-Dizier
-DESCRIPTION:SCORE : 17/20\nBudget : ~10-25€\nLounge bar 4\,6/5\, belles planches et carte des vins\, déco aviation militaire. Ven/sam jusqu'à minuit.\nhttps://www.google.com/maps/search/?api=1&query=Le+Diable+Rouge+Saint-Dizier
-URL:https://www.google.com/maps/search/?api=1&query=Le+Diable+Rouge+Saint-Dizier
+DTEND;TZID=Europe/Paris:20260715T203000
+SUMMARY:Boxe — Cercle Pugilistique de Saint-Dizier (À CONFIRMER)
+LOCATION:Cercle Pugilistique\, 14 Rue de Vergy\, 52100 Saint-Dizier
+DESCRIPTION:Budget : Essai / cotisation\nClub de boxe historique bragard (4\,8/5)\, lun/mer/ven 16h-20h30 + dimanche matin.\nhttps://www.google.com/maps/search/?api=1&query=Cercle+Pugilistique+Saint-Dizier
+URL:https://www.google.com/maps/search/?api=1&query=Cercle+Pugilistique+Saint-Dizier
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260715-2@gengiscard.github.io
-DTSTAMP:20260712T120948Z
-DTSTART;TZID=Europe/Paris:20260715T180000
-DTEND;TZID=Europe/Paris:20260715T203000
-SUMMARY:Dîner asiatique — Jardin d'Asie
-LOCATION:Jardin d'Asie\, 47 Rue Gambetta\, 52100 Saint-Dizier
-DESCRIPTION:SCORE : 12/20\nBudget : ~10-18€\nTraiteur asiatique 4\,7/5 (163 avis)\, mer-dim\, service du soir jusqu'à 21h. Tél : 09 86 40 21 97.\nhttps://www.google.com/maps/search/?api=1&query=Jardin+d+Asie+Saint-Dizier
-URL:https://www.google.com/maps/search/?api=1&query=Jardin+d+Asie+Saint-Dizier
+DTSTAMP:20260712T122050Z
+DTSTART;TZID=Europe/Paris:20260715T200000
+DTEND;TZID=Europe/Paris:20260715T221500
+SUMMARY:Ciné du soir — Ciné Quai
+LOCATION:Ciné Quai\, 36 Rue Lamartine\, 52100 Saint-Dizier
+DESCRIPTION:Budget : ~7-11€\nMultiplexe du centre — consulter la séance du jour (avant-premières et séances spéciales régulières).\nhttps://www.google.com/maps/search/?api=1&query=Cine+Quai+Saint-Dizier
+URL:https://www.google.com/maps/search/?api=1&query=Cine+Quai+Saint-Dizier
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260716-1@gengiscard.github.io
-DTSTAMP:20260712T120948Z
+DTSTAMP:20260712T122050Z
 DTSTART;TZID=Europe/Paris:20260716T173000
 DTEND;TZID=Europe/Paris:20260716T200000
-SUMMARY:Marché estival d'Éclaron (à confirmer) (À CONFIRMER)
-LOCATION:Centre d'Éclaron\, 52290 Éclaron-Braucourt-Sainte-Livière (~10 min)
-DESCRIPTION:SCORE : 17/20\nBudget : Entrée libre\nMarché de producteurs en fin de journée\, souvent animé de concerts — vérifier le jour exact : 03 25 04 11 62.\nhttps://www.lacduder.com/sorganiser/agenda/tout-lagenda/
-URL:https://www.lacduder.com/sorganiser/agenda/tout-lagenda/
+SUMMARY:Apéro lounge — Le Diable Rouge
+LOCATION:Le Diable Rouge\, 7 Rue Catel\, 52100 Saint-Dizier
+DESCRIPTION:Budget : ~10-25€\nLounge bar 4\,6/5\, belles planches et carte des vins\, déco aviation militaire. Ven/sam jusqu'à minuit.\nhttps://www.google.com/maps/search/?api=1&query=Le+Diable+Rouge+Saint-Dizier
+URL:https://www.google.com/maps/search/?api=1&query=Le+Diable+Rouge+Saint-Dizier
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260716-2@gengiscard.github.io
-DTSTAMP:20260712T120948Z
-DTSTART;TZID=Europe/Paris:20260716T200000
-DTEND;TZID=Europe/Paris:20260716T233000
-SUMMARY:Soirée au Casino JOA du Lac du Der (À CONFIRMER)
-LOCATION:Casino JOA du Lac du Der\, Station Nautique\, 51290 Giffaumont-Champaubert (~20 min)
-DESCRIPTION:SCORE : 17/20\nBudget : Entrée gratuite — se fixer une limite (≤50€ !)\nBar des Sports\, restaurant\, karaokés et soirées à thème régulières (voir programme du mois).\nhttps://www.joa.fr/casinos/lac-du-der
-URL:https://www.joa.fr/casinos/lac-du-der
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20260716-3@gengiscard.github.io
-DTSTAMP:20260712T120948Z
+DTSTAMP:20260712T122050Z
 DTSTART;TZID=Europe/Paris:20260716T200000
 DTEND;TZID=Europe/Paris:20260716T220000
 SUMMARY:Escapades : Visite Apéro - Saint-Dizier (À CONFIRMER)
 LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:SCORE : 6/20\nBudget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/activite-experience/visites/escapades-visite-apero-saint-dizier-1274997_A
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/activite-experience/visites/escapades-visite-apero-saint-dizier-1274997_A
 URL:https://www.jds.fr/saint-dizier/activite-experience/visites/escapades-visite-apero-saint-dizier-1274997_A
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20260716-4@gengiscard.github.io
-DTSTAMP:20260712T120948Z
+UID:der-ia-20260716-3@gengiscard.github.io
+DTSTAMP:20260712T122050Z
 DTSTART;TZID=Europe/Paris:20260716T200000
 DTEND;TZID=Europe/Paris:20260716T220000
 SUMMARY:Bureau d'Information Touristique - Saint-Dizier (À CONFIRMER)
 LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:SCORE : 6/20\nBudget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/administration-et-mairie/bureau-d-information-touristique-27444_L
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/administration-et-mairie/bureau-d-information-touristique-27444_L
 URL:https://www.jds.fr/saint-dizier/administration-et-mairie/bureau-d-information-touristique-27444_L
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20260717-1@gengiscard.github.io
-DTSTAMP:20260712T120948Z
-DTSTART;TZID=Europe/Paris:20260717T180000
-DTEND;TZID=Europe/Paris:20260717T220000
-SUMMARY:Soirée du vendredi — Bar de l'Agriculture
-LOCATION:Bar de l'Agriculture\, 3 Place de la Liberté\, 52100 Saint-Dizier
-DESCRIPTION:SCORE : 17/20\nBudget : ~5-15€\nInstitution bragarde : « great atmosphere every Friday night »\, prix doux.\nhttps://www.google.com/maps/search/?api=1&query=Bar+de+l+Agriculture+Saint-Dizier
-URL:https://www.google.com/maps/search/?api=1&query=Bar+de+l+Agriculture+Saint-Dizier
+UID:der-ia-20260716-4@gengiscard.github.io
+DTSTAMP:20260712T122050Z
+DTSTART;TZID=Europe/Paris:20260716T200000
+DTEND;TZID=Europe/Paris:20260716T233000
+SUMMARY:Soirée au Casino JOA du Lac du Der (À CONFIRMER)
+LOCATION:Casino JOA du Lac du Der\, Station Nautique\, 51290 Giffaumont-Champaubert (~20 min)
+DESCRIPTION:Budget : Entrée gratuite — se fixer une limite (≤50€ !)\nBar des Sports\, restaurant\, karaokés et soirées à thème régulières (voir programme du mois).\nhttps://www.joa.fr/casinos/lac-du-der
+URL:https://www.joa.fr/casinos/lac-du-der
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20260717-2@gengiscard.github.io
-DTSTAMP:20260712T120948Z
+UID:der-ia-20260717-1@gengiscard.github.io
+DTSTAMP:20260712T122050Z
 DTSTART;TZID=Europe/Paris:20260717T190000
 DTEND;TZID=Europe/Paris:20260717T220000
 SUMMARY:Concert "LES TAILLE CRAYONS "
 LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:SCORE : 7/20\nBudget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/concerts/concert-les-taille-crayons-1642253_A
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/concerts/concert-les-taille-crayons-1642253_A
 URL:https://www.jds.fr/saint-dizier/concerts/concert-les-taille-crayons-1642253_A
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20260717-3@gengiscard.github.io
-DTSTAMP:20260712T120948Z
+UID:der-ia-20260717-2@gengiscard.github.io
+DTSTAMP:20260712T122050Z
 DTSTART;TZID=Europe/Paris:20260717T200000
 DTEND;TZID=Europe/Paris:20260717T220000
 SUMMARY:Conférence : Les Comètes\, Gardiennes de nos Origines Cosmiques (À CONFIRMER)
 LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:SCORE : 6/20\nBudget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/manifestations/conferences/conference-les-cometes-gardiennes-de-nos-origines-cosmiques-1645213_A
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/manifestations/conferences/conference-les-cometes-gardiennes-de-nos-origines-cosmiques-1645213_A
 URL:https://www.jds.fr/saint-dizier/manifestations/conferences/conference-les-cometes-gardiennes-de-nos-origines-cosmiques-1645213_A
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20260717-4@gengiscard.github.io
-DTSTAMP:20260712T120948Z
+UID:der-ia-20260717-3@gengiscard.github.io
+DTSTAMP:20260712T122050Z
 DTSTART;TZID=Europe/Paris:20260717T200000
 DTEND;TZID=Europe/Paris:20260717T220000
 SUMMARY:Conférence de Roger Sicret  : Les comètes à l'Observatoire de Valcourt (À CONFIRMER)
 LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:SCORE : 6/20\nBudget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/manifestations/conferences/conference-de-roger-sicret-les-cometes-a-l-observatoire-de-valcourt-1642994_A
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/manifestations/conferences/conference-de-roger-sicret-les-cometes-a-l-observatoire-de-valcourt-1642994_A
 URL:https://www.jds.fr/saint-dizier/manifestations/conferences/conference-de-roger-sicret-les-cometes-a-l-observatoire-de-valcourt-1642994_A
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
+UID:der-ia-20260717-4@gengiscard.github.io
+DTSTAMP:20260712T122050Z
+DTSTART;TZID=Europe/Paris:20260717T200000
+DTEND;TZID=Europe/Paris:20260717T220000
+SUMMARY:Les Marchés D'été Au Lac Du Der (À CONFIRMER)
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/manifestations/les-marches-d-ete-au-lac-du-der-1273835_A
+URL:https://www.jds.fr/saint-dizier/manifestations/les-marches-d-ete-au-lac-du-der-1273835_A
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
 UID:der-ia-20260718-1@gengiscard.github.io
-DTSTAMP:20260712T120948Z
-DTSTART;TZID=Europe/Paris:20260718T100000
-DTEND;TZID=Europe/Paris:20260718T180000
-SUMMARY:Plage & baignade — Giffaumont\, Lac du Der
-LOCATION:Plage de Giffaumont\, 51290 Giffaumont-Champaubert (~20 min)
-DESCRIPTION:SCORE : 14/20\nBudget : GRATUIT\nPlage surveillée en été sur le plus grand lac artificiel de France — baignade\, volley\, paddle à louer.\nhttps://www.lacduder.com/
-URL:https://www.lacduder.com/
+DTSTAMP:20260712T122050Z
+DTSTART;TZID=Europe/Paris:20260718T180000
+DTEND;TZID=Europe/Paris:20260718T203000
+SUMMARY:Dîner asiatique — Jardin d'Asie
+LOCATION:Jardin d'Asie\, 47 Rue Gambetta\, 52100 Saint-Dizier
+DESCRIPTION:Budget : ~10-18€\nTraiteur asiatique 4\,7/5 (163 avis)\, mer-dim\, service du soir jusqu'à 21h. Tél : 09 86 40 21 97.\nhttps://www.google.com/maps/search/?api=1&query=Jardin+d+Asie+Saint-Dizier
+URL:https://www.google.com/maps/search/?api=1&query=Jardin+d+Asie+Saint-Dizier
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260718-2@gengiscard.github.io
-DTSTAMP:20260712T120948Z
-DTSTART;TZID=Europe/Paris:20260718T190000
-DTEND;TZID=Europe/Paris:20260718T213000
-SUMMARY:Buffet wok — Wok 52
-LOCATION:Wok 52\, 20 Av. Pierre Bérégovoy\, 52100 Saint-Dizier
-DESCRIPTION:SCORE : 16/20\nBudget : ~20-25€\nGrand buffet asiatique ouvert 7j/7 le soir (19h-22h30)\, pratique en sortie de groupe.\nhttps://www.google.com/maps/search/?api=1&query=Wok+52+Saint-Dizier
-URL:https://www.google.com/maps/search/?api=1&query=Wok+52+Saint-Dizier
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20260718-3@gengiscard.github.io
-DTSTAMP:20260712T120948Z
+DTSTAMP:20260712T122050Z
 DTSTART;TZID=Europe/Paris:20260718T200000
 DTEND;TZID=Europe/Paris:20260718T220000
 SUMMARY:Courses hippiques  en semi-nocturne et Fête de l'hippodrome (À CONFIRMER)
 LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:SCORE : 10/20\nBudget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/sports/balades/courses-hippiques-en-semi-nocturne-et-fete-de-l-hippodrome-1408079_A
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/sports/balades/courses-hippiques-en-semi-nocturne-et-fete-de-l-hippodrome-1408079_A
 URL:https://www.jds.fr/saint-dizier/sports/balades/courses-hippiques-en-semi-nocturne-et-fete-de-l-hippodrome-1408079_A
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
+UID:der-ia-20260718-3@gengiscard.github.io
+DTSTAMP:20260712T122050Z
+DTSTART;TZID=Europe/Paris:20260718T200000
+DTEND;TZID=Europe/Paris:20260718T220000
+SUMMARY:Hippodrome de la Crouée - La Porte du Der (À CONFIRMER)
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/la-porte-du-der/hippodrome/hippodrome-de-la-crouee-26071_L
+URL:https://www.jds.fr/saint-dizier/la-porte-du-der/hippodrome/hippodrome-de-la-crouee-26071_L
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
 UID:der-ia-20260718-4@gengiscard.github.io
-DTSTAMP:20260712T120948Z
+DTSTAMP:20260712T122050Z
 DTSTART;TZID=Europe/Paris:20260718T200000
 DTEND;TZID=Europe/Paris:20260718T220000
 SUMMARY:Place A La Danse (À CONFIRMER)
 LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:SCORE : 7/20\nBudget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/concerts/place-a-la-danse-1642243_A
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/concerts/place-a-la-danse-1642243_A
 URL:https://www.jds.fr/saint-dizier/concerts/place-a-la-danse-1642243_A
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260719-1@gengiscard.github.io
-DTSTAMP:20260712T120948Z
+DTSTAMP:20260712T122050Z
 DTSTART;TZID=Europe/Paris:20260719T100000
 DTEND;TZID=Europe/Paris:20260719T220000
 SUMMARY:Concours de pétanque
 LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:SCORE : 6/20\nBudget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/manifestations/concours-de-petanque-1592689_A
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/manifestations/concours-de-petanque-1592689_A
 URL:https://www.jds.fr/saint-dizier/manifestations/concours-de-petanque-1592689_A
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260719-2@gengiscard.github.io
-DTSTAMP:20260712T120948Z
-DTSTART;TZID=Europe/Paris:20260719T183000
-DTEND;TZID=Europe/Paris:20260719T203000
-SUMMARY:Sushis — Sushi King (Bar-le-Duc\, ~30 min)
-LOCATION:Sushi King\, 8 Rue André Maginot\, 55000 Bar-le-Duc
-DESCRIPTION:SCORE : 16/20\nBudget : ~15-25€\nLe meilleur japonais du secteur (4\,8/5\, 465 avis)\, mar-dim soir. Tél : 03 29 90 51 88.\nhttps://www.google.com/maps/search/?api=1&query=Sushi+King+Bar-le-Duc
-URL:https://www.google.com/maps/search/?api=1&query=Sushi+King+Bar-le-Duc
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20260719-3@gengiscard.github.io
-DTSTAMP:20260712T120948Z
+DTSTAMP:20260712T122050Z
 DTSTART;TZID=Europe/Paris:20260719T200000
 DTEND;TZID=Europe/Paris:20260719T220000
 SUMMARY:Grande Journée à La Ferme Pédagogique du Grand Der (À CONFIRMER)
 LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:SCORE : 6/20\nBudget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/sports/balades/grande-journee-a-la-ferme-pedagogique-du-grand-der-1627314_A
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/sports/balades/grande-journee-a-la-ferme-pedagogique-du-grand-der-1627314_A
 URL:https://www.jds.fr/saint-dizier/sports/balades/grande-journee-a-la-ferme-pedagogique-du-grand-der-1627314_A
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20260719-4@gengiscard.github.io
-DTSTAMP:20260712T120948Z
+UID:der-ia-20260719-3@gengiscard.github.io
+DTSTAMP:20260712T122050Z
 DTSTART;TZID=Europe/Paris:20260719T200000
 DTEND;TZID=Europe/Paris:20260719T220000
 SUMMARY:Visite du Musée de l'Ecole d'Autrefois (À CONFIRMER)
 LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:SCORE : 6/20\nBudget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/activite-experience/visites/visite-du-musee-de-l-ecole-d-autrefois-1506452_A
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/activite-experience/visites/visite-du-musee-de-l-ecole-d-autrefois-1506452_A
 URL:https://www.jds.fr/saint-dizier/activite-experience/visites/visite-du-musee-de-l-ecole-d-autrefois-1506452_A
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20260719-4@gengiscard.github.io
+DTSTAMP:20260712T122050Z
+DTSTART;TZID=Europe/Paris:20260719T200000
+DTEND;TZID=Europe/Paris:20260719T220000
+SUMMARY:Visite guidée de l'abbaye de Trois-Fontaines (À CONFIRMER)
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/activite-experience/visites/visite-guidee-de-l-abbaye-de-trois-fontaines-1610432_A
+URL:https://www.jds.fr/saint-dizier/activite-experience/visites/visite-guidee-de-l-abbaye-de-trois-fontaines-1610432_A
 CATEGORIES:IA
 END:VEVENT
 END:VCALENDAR
