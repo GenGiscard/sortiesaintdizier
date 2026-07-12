@@ -62,9 +62,19 @@ def collecter_flux() -> list[dict]:
 
     # Sources HTML : (url, base pour liens relatifs)
     SOURCES = [
+        # Mairie de Saint-Dizier (agenda officiel)
         ("https://www.saint-dizier.fr/actualites-et-sorties/agenda/", "https://www.saint-dizier.fr"),
+        # Office de tourisme du Lac du Der (Vitry, Montier, Éclaron, Giffaumont…)
         ("https://www.lacduder.com/sorganiser/agenda/tout-lagenda/", "https://www.lacduder.com"),
+        # Agrégateur JDS
         ("https://www.jds.fr/saint-dizier/agenda/", "https://www.jds.fr"),
+        # Les 3 Scènes : Les Fuseaux + Théâtre de Saint-Dizier + La Forgerie (Wassy)
+        ("https://les3scenes.saint-dizier.fr/", "https://les3scenes.saint-dizier.fr"),
+        # Agenda Culturel 52 : fiches datées Fuseaux et Théâtre
+        ("https://52.agendaculturel.fr/les-fuseaux", "https://52.agendaculturel.fr"),
+        ("https://52.agendaculturel.fr/theatre/saint-dizier/", "https://52.agendaculturel.fr"),
+        # Alentoor : agrège aussi les concerts et soirées des bars locaux
+        ("https://www.alentoor.fr/saint-dizier/agenda", "https://www.alentoor.fr"),
     ]
     for url, base in SOURCES:
         try:
@@ -246,3 +256,4 @@ if __name__ == "__main__":
     print(f"OK — {total} activités écrites dans {SORTIE}")
     for jour, evts in planning.items():
         print(" ", jour.strftime("%a %d/%m"), "→", " | ".join(f"{e['start']} {e['name'][:44]}" for e in evts))
+    
