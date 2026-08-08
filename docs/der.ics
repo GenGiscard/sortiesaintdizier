@@ -24,7 +24,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:der-ia-20260803-1@gengiscard.github.io
-DTSTAMP:20260807T052649Z
+DTSTAMP:20260808T044441Z
 DTSTART;TZID=Europe/Paris:20260803T200000
 DTEND;TZID=Europe/Paris:20260803T221500
 SUMMARY:Ciné du soir — Ciné Quai
@@ -35,7 +35,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260803-2@gengiscard.github.io
-DTSTAMP:20260807T052649Z
+DTSTAMP:20260808T044441Z
 DTSTART;TZID=Europe/Paris:20260803T203000
 DTEND;TZID=Europe/Paris:20260803T220000
 SUMMARY:Golden hour photo au Der — port de Giffaumont
@@ -46,7 +46,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260804-1@gengiscard.github.io
-DTSTAMP:20260807T052649Z
+DTSTAMP:20260808T044441Z
 DTSTART;TZID=Europe/Paris:20260804T180000
 DTEND;TZID=Europe/Paris:20260804T220000
 SUMMARY:Soirée arcade & bar — Arcadia
@@ -57,7 +57,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260805-1@gengiscard.github.io
-DTSTAMP:20260807T052649Z
+DTSTAMP:20260808T044441Z
 DTSTART;TZID=Europe/Paris:20260805T173000
 DTEND;TZID=Europe/Paris:20260805T200000
 SUMMARY:Apéro lounge — Le Diable Rouge
@@ -68,7 +68,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260806-1@gengiscard.github.io
-DTSTAMP:20260807T052649Z
+DTSTAMP:20260808T044441Z
 DTSTART;TZID=Europe/Paris:20260806T173000
 DTEND;TZID=Europe/Paris:20260806T200000
 SUMMARY:Marché estival d'Éclaron (à confirmer) (À CONFIRMER)
@@ -79,7 +79,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260806-2@gengiscard.github.io
-DTSTAMP:20260807T052649Z
+DTSTAMP:20260808T044441Z
 DTSTART;TZID=Europe/Paris:20260806T200000
 DTEND;TZID=Europe/Paris:20260806T233000
 SUMMARY:Soirée au Casino JOA du Lac du Der (À CONFIRMER)
@@ -90,51 +90,18 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260807-1@gengiscard.github.io
-DTSTAMP:20260807T052649Z
-DTSTART;TZID=Europe/Paris:20260807T190000
+DTSTAMP:20260808T044441Z
+DTSTART;TZID=Europe/Paris:20260807T180000
 DTEND;TZID=Europe/Paris:20260807T220000
-SUMMARY:Concert de "REWIND"
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/concerts/concert-de-rewind-1642251_A
-URL:https://www.jds.fr/saint-dizier/concerts/concert-de-rewind-1642251_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20260807-2@gengiscard.github.io
-DTSTAMP:20260807T052649Z
-DTSTART;TZID=Europe/Paris:20260807T200000
-DTEND;TZID=Europe/Paris:20260807T220000
-SUMMARY:Les Marchés D'été Au Lac Du Der (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/manifestations/les-marches-d-ete-au-lac-du-der-1273835_A
-URL:https://www.jds.fr/saint-dizier/manifestations/les-marches-d-ete-au-lac-du-der-1273835_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20260807-3@gengiscard.github.io
-DTSTAMP:20260807T052649Z
-DTSTART;TZID=Europe/Paris:20260807T200000
-DTEND;TZID=Europe/Paris:20260807T220000
-SUMMARY:Soirées concert (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/concerts/soirees-concert-1654341_A
-URL:https://www.jds.fr/saint-dizier/concerts/soirees-concert-1654341_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20260807-4@gengiscard.github.io
-DTSTAMP:20260807T052649Z
-DTSTART;TZID=Europe/Paris:20260807T220000
-DTEND;TZID=Europe/Paris:20260807T220000
-SUMMARY:Aller au contenu
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.saint-dizier.fr — recouper l'horaire sur la fiche.\nhttps://www.saint-dizier.fr#main
-URL:https://www.saint-dizier.fr#main
+SUMMARY:Soirée du vendredi — Bar de l'Agriculture
+LOCATION:Bar de l'Agriculture\, 3 Place de la Liberté\, 52100 Saint-Dizier
+DESCRIPTION:Budget : ~5-15€\nInstitution bragarde : « great atmosphere every Friday night »\, prix doux.\nhttps://www.google.com/maps/search/?api=1&query=Bar+de+l+Agriculture+Saint-Dizier
+URL:https://www.google.com/maps/search/?api=1&query=Bar+de+l+Agriculture+Saint-Dizier
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260808-1@gengiscard.github.io
-DTSTAMP:20260807T052649Z
+DTSTAMP:20260808T044441Z
 DTSTART;TZID=Europe/Paris:20260808T083000
 DTEND;TZID=Europe/Paris:20260808T113000
 SUMMARY:Sortie ornitho & photo animalière au Der (LPO) (À CONFIRMER)
@@ -145,7 +112,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260808-2@gengiscard.github.io
-DTSTAMP:20260807T052649Z
+DTSTAMP:20260808T044441Z
 DTSTART;TZID=Europe/Paris:20260808T100000
 DTEND;TZID=Europe/Paris:20260808T180000
 SUMMARY:Plage & baignade — Giffaumont\, Lac du Der
@@ -156,7 +123,18 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260808-3@gengiscard.github.io
-DTSTAMP:20260807T052649Z
+DTSTAMP:20260808T044441Z
+DTSTART;TZID=Europe/Paris:20260808T200000
+DTEND;TZID=Europe/Paris:20260808T220000
+SUMMARY:Aller au contenu (À CONFIRMER)
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.saint-dizier.fr — recouper l'horaire sur la fiche.\nhttps://www.saint-dizier.fr#main
+URL:https://www.saint-dizier.fr#main
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20260808-4@gengiscard.github.io
+DTSTAMP:20260808T044441Z
 DTSTART;TZID=Europe/Paris:20260808T224500
 DTEND;TZID=Europe/Paris:20260808T224500
 SUMMARY:Brocante nocturne et feu d'artifice
@@ -167,7 +145,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260809-1@gengiscard.github.io
-DTSTAMP:20260807T052649Z
+DTSTAMP:20260808T044441Z
 DTSTART;TZID=Europe/Paris:20260809T093000
 DTEND;TZID=Europe/Paris:20260809T220000
 SUMMARY:Place au sport
@@ -178,7 +156,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260809-2@gengiscard.github.io
-DTSTAMP:20260807T052649Z
+DTSTAMP:20260808T044441Z
 DTSTART;TZID=Europe/Paris:20260809T200000
 DTEND;TZID=Europe/Paris:20260809T220000
 SUMMARY:Brocante (À CONFIRMER)
@@ -189,7 +167,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260809-3@gengiscard.github.io
-DTSTAMP:20260807T052649Z
+DTSTAMP:20260808T044441Z
 DTSTART;TZID=Europe/Paris:20260809T200000
 DTEND;TZID=Europe/Paris:20260809T220000
 SUMMARY:Courses hippiques  :  Tout trop (À CONFIRMER)
@@ -200,7 +178,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260809-4@gengiscard.github.io
-DTSTAMP:20260807T052649Z
+DTSTAMP:20260808T044441Z
 DTSTART;TZID=Europe/Paris:20260809T200000
 DTEND;TZID=Europe/Paris:20260809T220000
 SUMMARY:Hippodrome de la Crouée - La Porte du Der (À CONFIRMER)
@@ -211,7 +189,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260810-1@gengiscard.github.io
-DTSTAMP:20260807T052649Z
+DTSTAMP:20260808T044441Z
 DTSTART;TZID=Europe/Paris:20260810T200000
 DTEND;TZID=Europe/Paris:20260810T221500
 SUMMARY:Ciné du soir — Ciné Quai
@@ -222,7 +200,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260811-1@gengiscard.github.io
-DTSTAMP:20260807T052649Z
+DTSTAMP:20260808T044441Z
 DTSTART;TZID=Europe/Paris:20260811T180000
 DTEND;TZID=Europe/Paris:20260811T220000
 SUMMARY:Soirée arcade & bar — Arcadia
@@ -233,7 +211,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260812-1@gengiscard.github.io
-DTSTAMP:20260807T052649Z
+DTSTAMP:20260808T044441Z
 DTSTART;TZID=Europe/Paris:20260812T173000
 DTEND;TZID=Europe/Paris:20260812T200000
 SUMMARY:Apéro lounge — Le Diable Rouge
@@ -243,8 +221,30 @@ URL:https://www.google.com/maps/search/?api=1&query=Le+Diable+Rouge+Saint-Dizier
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
+UID:der-ia-20260812-2@gengiscard.github.io
+DTSTAMP:20260808T044441Z
+DTSTART;TZID=Europe/Paris:20260812T200000
+DTEND;TZID=Europe/Paris:20260812T220000
+SUMMARY:Atelier Broderie au Village Musée du Der (À CONFIRMER)
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/activite-experience/ateliers/atelier-broderie-au-village-musee-du-der-1675323_A
+URL:https://www.jds.fr/saint-dizier/activite-experience/ateliers/atelier-broderie-au-village-musee-du-der-1675323_A
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20260812-3@gengiscard.github.io
+DTSTAMP:20260808T044441Z
+DTSTART;TZID=Europe/Paris:20260812T200000
+DTEND;TZID=Europe/Paris:20260812T220000
+SUMMARY:Atelier Fabrication de Nid d'Hirondelle (À CONFIRMER)
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/activite-experience/ateliers/atelier-fabrication-de-nid-d-hirondelle-1675337_A
+URL:https://www.jds.fr/saint-dizier/activite-experience/ateliers/atelier-fabrication-de-nid-d-hirondelle-1675337_A
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
 UID:der-ia-20260813-1@gengiscard.github.io
-DTSTAMP:20260807T052649Z
+DTSTAMP:20260808T044441Z
 DTSTART;TZID=Europe/Paris:20260813T173000
 DTEND;TZID=Europe/Paris:20260813T200000
 SUMMARY:Marché estival d'Éclaron (à confirmer) (À CONFIRMER)
@@ -255,7 +255,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260813-2@gengiscard.github.io
-DTSTAMP:20260807T052649Z
+DTSTAMP:20260808T044441Z
 DTSTART;TZID=Europe/Paris:20260813T200000
 DTEND;TZID=Europe/Paris:20260813T233000
 SUMMARY:Soirée au Casino JOA du Lac du Der (À CONFIRMER)
@@ -266,7 +266,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260814-1@gengiscard.github.io
-DTSTAMP:20260807T052649Z
+DTSTAMP:20260808T044441Z
 DTSTART;TZID=Europe/Paris:20260814T180000
 DTEND;TZID=Europe/Paris:20260814T220000
 SUMMARY:Soirée du vendredi — Bar de l'Agriculture
@@ -276,8 +276,19 @@ URL:https://www.google.com/maps/search/?api=1&query=Bar+de+l+Agriculture+Saint-D
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
+UID:der-ia-20260814-2@gengiscard.github.io
+DTSTAMP:20260808T044441Z
+DTSTART;TZID=Europe/Paris:20260814T190000
+DTEND;TZID=Europe/Paris:20260814T220000
+SUMMARY:Concert de "THE UNFORGIVEN"
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/concerts/concert-de-the-unforgiven-1642263_A
+URL:https://www.jds.fr/saint-dizier/concerts/concert-de-the-unforgiven-1642263_A
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
 UID:der-ia-20260815-1@gengiscard.github.io
-DTSTAMP:20260807T052649Z
+DTSTAMP:20260808T044441Z
 DTSTART;TZID=Europe/Paris:20260815T083000
 DTEND;TZID=Europe/Paris:20260815T113000
 SUMMARY:Sortie ornitho & photo animalière au Der (LPO) (À CONFIRMER)
@@ -288,7 +299,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260815-2@gengiscard.github.io
-DTSTAMP:20260807T052649Z
+DTSTAMP:20260808T044441Z
 DTSTART;TZID=Europe/Paris:20260815T100000
 DTEND;TZID=Europe/Paris:20260815T180000
 SUMMARY:Plage & baignade — Giffaumont\, Lac du Der
@@ -299,7 +310,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260816-1@gengiscard.github.io
-DTSTAMP:20260807T052649Z
+DTSTAMP:20260808T044441Z
 DTSTART;TZID=Europe/Paris:20260816T203000
 DTEND;TZID=Europe/Paris:20260816T220000
 SUMMARY:Golden hour photo au Der — port de Giffaumont
