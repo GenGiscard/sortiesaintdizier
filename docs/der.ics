@@ -23,129 +23,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:der-ia-20260824-1@gengiscard.github.io
-DTSTAMP:20260830T093131Z
-DTSTART;TZID=Europe/Paris:20260824T200000
-DTEND;TZID=Europe/Paris:20260824T221500
-SUMMARY:Ciné du soir — Ciné Quai
-LOCATION:Ciné Quai\, 36 Rue Lamartine\, 52100 Saint-Dizier
-DESCRIPTION:Budget : ~7-11€\nMultiplexe du centre — consulter la séance du jour (avant-premières et séances spéciales régulières).\nhttps://www.google.com/maps/search/?api=1&query=Cine+Quai+Saint-Dizier
-URL:https://www.google.com/maps/search/?api=1&query=Cine+Quai+Saint-Dizier
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20260825-1@gengiscard.github.io
-DTSTAMP:20260830T093131Z
-DTSTART;TZID=Europe/Paris:20260825T180000
-DTEND;TZID=Europe/Paris:20260825T220000
-SUMMARY:Soirée arcade & bar — Arcadia
-LOCATION:Arcadia\, 34 Rue Gambetta\, 52100 Saint-Dizier
-DESCRIPTION:Budget : ~10€ illimité + conso\nBar-arcade rétro (4\,8/5)\, bornes classiques en illimité\, ambiance conviviale — LE spot geek de Saint-Dizier.\nhttps://www.google.com/maps/search/?api=1&query=Arcadia+Saint-Dizier
-URL:https://www.google.com/maps/search/?api=1&query=Arcadia+Saint-Dizier
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20260826-1@gengiscard.github.io
-DTSTAMP:20260830T093131Z
-DTSTART;TZID=Europe/Paris:20260826T173000
-DTEND;TZID=Europe/Paris:20260826T200000
-SUMMARY:Apéro lounge — Le Diable Rouge
-LOCATION:Le Diable Rouge\, 7 Rue Catel\, 52100 Saint-Dizier
-DESCRIPTION:Budget : ~10-25€\nLounge bar 4\,6/5\, belles planches et carte des vins\, déco aviation militaire. Ven/sam jusqu'à minuit.\nhttps://www.google.com/maps/search/?api=1&query=Le+Diable+Rouge+Saint-Dizier
-URL:https://www.google.com/maps/search/?api=1&query=Le+Diable+Rouge+Saint-Dizier
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20260827-1@gengiscard.github.io
-DTSTAMP:20260830T093131Z
-DTSTART;TZID=Europe/Paris:20260827T173000
-DTEND;TZID=Europe/Paris:20260827T200000
-SUMMARY:Marché estival d'Éclaron (à confirmer) (À CONFIRMER)
-LOCATION:Centre d'Éclaron\, 52290 Éclaron-Braucourt-Sainte-Livière (~10 min)
-DESCRIPTION:Budget : Entrée libre\nMarché de producteurs en fin de journée\, souvent animé de concerts — vérifier le jour exact : 03 25 04 11 62.\nhttps://www.lacduder.com/sorganiser/agenda/tout-lagenda/
-URL:https://www.lacduder.com/sorganiser/agenda/tout-lagenda/
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20260827-2@gengiscard.github.io
-DTSTAMP:20260830T093131Z
-DTSTART;TZID=Europe/Paris:20260827T200000
-DTEND;TZID=Europe/Paris:20260827T233000
-SUMMARY:Soirée au Casino JOA du Lac du Der (À CONFIRMER)
-LOCATION:Casino JOA du Lac du Der\, Station Nautique\, 51290 Giffaumont-Champaubert (~20 min)
-DESCRIPTION:Budget : Entrée gratuite — se fixer une limite (≤50€ !)\nBar des Sports\, restaurant\, karaokés et soirées à thème régulières (voir programme du mois).\nhttps://www.joa.fr/casinos/lac-du-der
-URL:https://www.joa.fr/casinos/lac-du-der
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20260828-1@gengiscard.github.io
-DTSTAMP:20260830T093131Z
-DTSTART;TZID=Europe/Paris:20260828T180000
-DTEND;TZID=Europe/Paris:20260828T220000
-SUMMARY:Soirée du vendredi — Bar de l'Agriculture
-LOCATION:Bar de l'Agriculture\, 3 Place de la Liberté\, 52100 Saint-Dizier
-DESCRIPTION:Budget : ~5-15€\nInstitution bragarde : « great atmosphere every Friday night »\, prix doux.\nhttps://www.google.com/maps/search/?api=1&query=Bar+de+l+Agriculture+Saint-Dizier
-URL:https://www.google.com/maps/search/?api=1&query=Bar+de+l+Agriculture+Saint-Dizier
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20260829-1@gengiscard.github.io
-DTSTAMP:20260830T093131Z
-DTSTART;TZID=Europe/Paris:20260829T083000
-DTEND;TZID=Europe/Paris:20260829T113000
-SUMMARY:Sortie ornitho & photo animalière au Der (LPO) (À CONFIRMER)
-LOCATION:Observatoires du Lac du Der\, Giffaumont / Sainte-Marie-du-Lac (~20-25 min)
-DESCRIPTION:Budget : GRATUIT à ~10€\nPlus de 170 espèces d'oiseaux nicheurs/migrateurs en été \; sorties LPO régulières (inscription selon dates).\nhttps://www.jds.fr/saint-dizier/agenda/
-URL:https://www.jds.fr/saint-dizier/agenda/
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20260829-2@gengiscard.github.io
-DTSTAMP:20260830T093131Z
-DTSTART;TZID=Europe/Paris:20260829T100000
-DTEND;TZID=Europe/Paris:20260829T180000
-SUMMARY:Plage & baignade — Giffaumont\, Lac du Der
-LOCATION:Plage de Giffaumont\, 51290 Giffaumont-Champaubert (~20 min)
-DESCRIPTION:Budget : GRATUIT\nPlage surveillée en été sur le plus grand lac artificiel de France — baignade\, volley\, paddle à louer.\nhttps://www.lacduder.com/
-URL:https://www.lacduder.com/
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20260830-1@gengiscard.github.io
-DTSTAMP:20260830T093131Z
-DTSTART;TZID=Europe/Paris:20260830T200000
-DTEND;TZID=Europe/Paris:20260830T220000
-SUMMARY:L'Aristide Terrasse Géante (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/spectacles/l-aristide-terrasse-geante-1710942_A
-URL:https://www.jds.fr/saint-dizier/spectacles/l-aristide-terrasse-geante-1710942_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20260830-2@gengiscard.github.io
-DTSTAMP:20260830T093131Z
-DTSTART;TZID=Europe/Paris:20260830T200000
-DTEND;TZID=Europe/Paris:20260830T220000
-SUMMARY:Régate " La Rentrée" (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/sports/balades/regate-la-rentree-1275468_A
-URL:https://www.jds.fr/saint-dizier/sports/balades/regate-la-rentree-1275468_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20260830-3@gengiscard.github.io
-DTSTAMP:20260830T093131Z
-DTSTART;TZID=Europe/Paris:20260830T203000
-DTEND;TZID=Europe/Paris:20260830T220000
-SUMMARY:Golden hour photo au Der — port de Giffaumont
-LOCATION:Port de Giffaumont / digue du Der\, 51290 Giffaumont-Champaubert (~20 min)
-DESCRIPTION:Budget : GRATUIT\nCouchers de soleil spectaculaires sur 4800 ha d'eau — spot réputé des photographes (et des grues en automne).\nhttps://www.lacduder.com/
-URL:https://www.lacduder.com/
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
 UID:der-ia-20260831-1@gengiscard.github.io
-DTSTAMP:20260830T093131Z
+DTSTAMP:20260831T101148Z
 DTSTART;TZID=Europe/Paris:20260831T200000
 DTEND;TZID=Europe/Paris:20260831T221500
 SUMMARY:Ciné du soir — Ciné Quai
@@ -156,7 +35,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260901-1@gengiscard.github.io
-DTSTAMP:20260830T093131Z
+DTSTAMP:20260831T101148Z
 DTSTART;TZID=Europe/Paris:20260901T180000
 DTEND;TZID=Europe/Paris:20260901T220000
 SUMMARY:Soirée arcade & bar — Arcadia
@@ -167,7 +46,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260902-1@gengiscard.github.io
-DTSTAMP:20260830T093131Z
+DTSTAMP:20260831T101148Z
 DTSTART;TZID=Europe/Paris:20260902T173000
 DTEND;TZID=Europe/Paris:20260902T200000
 SUMMARY:Apéro lounge — Le Diable Rouge
@@ -178,7 +57,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260903-1@gengiscard.github.io
-DTSTAMP:20260830T093131Z
+DTSTAMP:20260831T101148Z
 DTSTART;TZID=Europe/Paris:20260903T200000
 DTEND;TZID=Europe/Paris:20260903T233000
 SUMMARY:Soirée au Casino JOA du Lac du Der (À CONFIRMER)
@@ -189,7 +68,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260904-1@gengiscard.github.io
-DTSTAMP:20260830T093131Z
+DTSTAMP:20260831T101148Z
 DTSTART;TZID=Europe/Paris:20260904T180000
 DTEND;TZID=Europe/Paris:20260904T220000
 SUMMARY:Soirée du vendredi — Bar de l'Agriculture
@@ -200,7 +79,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260904-2@gengiscard.github.io
-DTSTAMP:20260830T093131Z
+DTSTAMP:20260831T101148Z
 DTSTART;TZID=Europe/Paris:20260904T200000
 DTEND;TZID=Europe/Paris:20260904T220000
 SUMMARY:Escapades : Visite technique du Lac du Der EPTB Seine Grands Lacs (À CONFIRMER)
@@ -211,7 +90,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260904-3@gengiscard.github.io
-DTSTAMP:20260830T093131Z
+DTSTAMP:20260831T101148Z
 DTSTART;TZID=Europe/Paris:20260904T200000
 DTEND;TZID=Europe/Paris:20260904T220000
 SUMMARY:Soirée concerts (À CONFIRMER)
@@ -222,7 +101,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260905-1@gengiscard.github.io
-DTSTAMP:20260830T093131Z
+DTSTAMP:20260831T101148Z
 DTSTART;TZID=Europe/Paris:20260905T100000
 DTEND;TZID=Europe/Paris:20260905T180000
 SUMMARY:Plage & baignade — Giffaumont\, Lac du Der
@@ -233,7 +112,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260905-2@gengiscard.github.io
-DTSTAMP:20260830T093131Z
+DTSTAMP:20260831T101148Z
 DTSTART;TZID=Europe/Paris:20260905T200000
 DTEND;TZID=Europe/Paris:20260905T220000
 SUMMARY:Des mots…juste des mots (À CONFIRMER)
@@ -244,7 +123,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260906-1@gengiscard.github.io
-DTSTAMP:20260830T093131Z
+DTSTAMP:20260831T101148Z
 DTSTART;TZID=Europe/Paris:20260906T200000
 DTEND;TZID=Europe/Paris:20260906T220000
 SUMMARY:A la recherche du Balbuzard et des cigognes (À CONFIRMER)
@@ -255,7 +134,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260906-2@gengiscard.github.io
-DTSTAMP:20260830T093131Z
+DTSTAMP:20260831T101148Z
 DTSTART;TZID=Europe/Paris:20260906T200000
 DTEND;TZID=Europe/Paris:20260906T220000
 SUMMARY:Visite du Musée de l'Ecole d'Autrefois (À CONFIRMER)
@@ -266,9 +145,97 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260906-3@gengiscard.github.io
-DTSTAMP:20260830T093131Z
+DTSTAMP:20260831T101148Z
 DTSTART;TZID=Europe/Paris:20260906T203000
 DTEND;TZID=Europe/Paris:20260906T220000
+SUMMARY:Golden hour photo au Der — port de Giffaumont
+LOCATION:Port de Giffaumont / digue du Der\, 51290 Giffaumont-Champaubert (~20 min)
+DESCRIPTION:Budget : GRATUIT\nCouchers de soleil spectaculaires sur 4800 ha d'eau — spot réputé des photographes (et des grues en automne).\nhttps://www.lacduder.com/
+URL:https://www.lacduder.com/
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20260907-1@gengiscard.github.io
+DTSTAMP:20260831T101148Z
+DTSTART;TZID=Europe/Paris:20260907T200000
+DTEND;TZID=Europe/Paris:20260907T221500
+SUMMARY:Ciné du soir — Ciné Quai
+LOCATION:Ciné Quai\, 36 Rue Lamartine\, 52100 Saint-Dizier
+DESCRIPTION:Budget : ~7-11€\nMultiplexe du centre — consulter la séance du jour (avant-premières et séances spéciales régulières).\nhttps://www.google.com/maps/search/?api=1&query=Cine+Quai+Saint-Dizier
+URL:https://www.google.com/maps/search/?api=1&query=Cine+Quai+Saint-Dizier
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20260908-1@gengiscard.github.io
+DTSTAMP:20260831T101148Z
+DTSTART;TZID=Europe/Paris:20260908T180000
+DTEND;TZID=Europe/Paris:20260908T220000
+SUMMARY:Soirée arcade & bar — Arcadia
+LOCATION:Arcadia\, 34 Rue Gambetta\, 52100 Saint-Dizier
+DESCRIPTION:Budget : ~10€ illimité + conso\nBar-arcade rétro (4\,8/5)\, bornes classiques en illimité\, ambiance conviviale — LE spot geek de Saint-Dizier.\nhttps://www.google.com/maps/search/?api=1&query=Arcadia+Saint-Dizier
+URL:https://www.google.com/maps/search/?api=1&query=Arcadia+Saint-Dizier
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20260909-1@gengiscard.github.io
+DTSTAMP:20260831T101148Z
+DTSTART;TZID=Europe/Paris:20260909T173000
+DTEND;TZID=Europe/Paris:20260909T200000
+SUMMARY:Apéro lounge — Le Diable Rouge
+LOCATION:Le Diable Rouge\, 7 Rue Catel\, 52100 Saint-Dizier
+DESCRIPTION:Budget : ~10-25€\nLounge bar 4\,6/5\, belles planches et carte des vins\, déco aviation militaire. Ven/sam jusqu'à minuit.\nhttps://www.google.com/maps/search/?api=1&query=Le+Diable+Rouge+Saint-Dizier
+URL:https://www.google.com/maps/search/?api=1&query=Le+Diable+Rouge+Saint-Dizier
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20260909-2@gengiscard.github.io
+DTSTAMP:20260831T101148Z
+DTSTART;TZID=Europe/Paris:20260909T200000
+DTEND;TZID=Europe/Paris:20260909T220000
+SUMMARY:Constellation 2.0 (À CONFIRMER)
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/manifestations/constellation-2-0-1706840_A
+URL:https://www.jds.fr/saint-dizier/manifestations/constellation-2-0-1706840_A
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20260910-1@gengiscard.github.io
+DTSTAMP:20260831T101148Z
+DTSTART;TZID=Europe/Paris:20260910T200000
+DTEND;TZID=Europe/Paris:20260910T233000
+SUMMARY:Soirée au Casino JOA du Lac du Der (À CONFIRMER)
+LOCATION:Casino JOA du Lac du Der\, Station Nautique\, 51290 Giffaumont-Champaubert (~20 min)
+DESCRIPTION:Budget : Entrée gratuite — se fixer une limite (≤50€ !)\nBar des Sports\, restaurant\, karaokés et soirées à thème régulières (voir programme du mois).\nhttps://www.joa.fr/casinos/lac-du-der
+URL:https://www.joa.fr/casinos/lac-du-der
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20260911-1@gengiscard.github.io
+DTSTAMP:20260831T101148Z
+DTSTART;TZID=Europe/Paris:20260911T180000
+DTEND;TZID=Europe/Paris:20260911T220000
+SUMMARY:Soirée du vendredi — Bar de l'Agriculture
+LOCATION:Bar de l'Agriculture\, 3 Place de la Liberté\, 52100 Saint-Dizier
+DESCRIPTION:Budget : ~5-15€\nInstitution bragarde : « great atmosphere every Friday night »\, prix doux.\nhttps://www.google.com/maps/search/?api=1&query=Bar+de+l+Agriculture+Saint-Dizier
+URL:https://www.google.com/maps/search/?api=1&query=Bar+de+l+Agriculture+Saint-Dizier
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20260912-1@gengiscard.github.io
+DTSTAMP:20260831T101148Z
+DTSTART;TZID=Europe/Paris:20260912T100000
+DTEND;TZID=Europe/Paris:20260912T180000
+SUMMARY:Plage & baignade — Giffaumont\, Lac du Der
+LOCATION:Plage de Giffaumont\, 51290 Giffaumont-Champaubert (~20 min)
+DESCRIPTION:Budget : GRATUIT\nPlage surveillée en été sur le plus grand lac artificiel de France — baignade\, volley\, paddle à louer.\nhttps://www.lacduder.com/
+URL:https://www.lacduder.com/
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20260913-1@gengiscard.github.io
+DTSTAMP:20260831T101148Z
+DTSTART;TZID=Europe/Paris:20260913T203000
+DTEND;TZID=Europe/Paris:20260913T220000
 SUMMARY:Golden hour photo au Der — port de Giffaumont
 LOCATION:Port de Giffaumont / digue du Der\, 51290 Giffaumont-Champaubert (~20 min)
 DESCRIPTION:Budget : GRATUIT\nCouchers de soleil spectaculaires sur 4800 ha d'eau — spot réputé des photographes (et des grues en automne).\nhttps://www.lacduder.com/
