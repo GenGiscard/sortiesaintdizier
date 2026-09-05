@@ -24,7 +24,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:der-ia-20260831-1@gengiscard.github.io
-DTSTAMP:20260904T081652Z
+DTSTAMP:20260905T075437Z
 DTSTART;TZID=Europe/Paris:20260831T200000
 DTEND;TZID=Europe/Paris:20260831T221500
 SUMMARY:Ciné du soir — Ciné Quai
@@ -34,8 +34,19 @@ URL:https://www.google.com/maps/search/?api=1&query=Cine+Quai+Saint-Dizier
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
+UID:der-ia-20260831-2@gengiscard.github.io
+DTSTAMP:20260905T075437Z
+DTSTART;TZID=Europe/Paris:20260831T203000
+DTEND;TZID=Europe/Paris:20260831T220000
+SUMMARY:Golden hour photo au Der — port de Giffaumont
+LOCATION:Port de Giffaumont / digue du Der\, 51290 Giffaumont-Champaubert (~20 min)
+DESCRIPTION:Budget : GRATUIT\nCouchers de soleil spectaculaires sur 4800 ha d'eau — spot réputé des photographes (et des grues en automne).\nhttps://www.lacduder.com/
+URL:https://www.lacduder.com/
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
 UID:der-ia-20260901-1@gengiscard.github.io
-DTSTAMP:20260904T081652Z
+DTSTAMP:20260905T075437Z
 DTSTART;TZID=Europe/Paris:20260901T180000
 DTEND;TZID=Europe/Paris:20260901T220000
 SUMMARY:Soirée arcade & bar — Arcadia
@@ -46,7 +57,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260902-1@gengiscard.github.io
-DTSTAMP:20260904T081652Z
+DTSTAMP:20260905T075437Z
 DTSTART;TZID=Europe/Paris:20260902T173000
 DTEND;TZID=Europe/Paris:20260902T200000
 SUMMARY:Apéro lounge — Le Diable Rouge
@@ -57,7 +68,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260903-1@gengiscard.github.io
-DTSTAMP:20260904T081652Z
+DTSTAMP:20260905T075437Z
 DTSTART;TZID=Europe/Paris:20260903T200000
 DTEND;TZID=Europe/Paris:20260903T233000
 SUMMARY:Soirée au Casino JOA du Lac du Der (À CONFIRMER)
@@ -68,7 +79,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260904-1@gengiscard.github.io
-DTSTAMP:20260904T081652Z
+DTSTAMP:20260905T075437Z
 DTSTART;TZID=Europe/Paris:20260904T180000
 DTEND;TZID=Europe/Paris:20260904T220000
 SUMMARY:Soirée du vendredi — Bar de l'Agriculture
@@ -78,52 +89,30 @@ URL:https://www.google.com/maps/search/?api=1&query=Bar+de+l+Agriculture+Saint-D
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20260904-2@gengiscard.github.io
-DTSTAMP:20260904T081652Z
-DTSTART;TZID=Europe/Paris:20260904T200000
-DTEND;TZID=Europe/Paris:20260904T220000
-SUMMARY:Soirée Concerts - Montier-En-Der 4 septembre 2026 (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.lacduder.com — recouper l'horaire sur la fiche.\nhttps://www.lacduder.com/offres/soiree-concerts-montier-en-der-4-septembre-2026-la-porte-du-der-fr-6754640/
-URL:https://www.lacduder.com/offres/soiree-concerts-montier-en-der-4-septembre-2026-la-porte-du-der-fr-6754640/
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20260904-3@gengiscard.github.io
-DTSTAMP:20260904T081652Z
-DTSTART;TZID=Europe/Paris:20260904T200000
-DTEND;TZID=Europe/Paris:20260904T220000
-SUMMARY:Escapades : Visite technique du Lac du Der EPTB Seine Grands Lacs (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/activite-experience/visites/escapades-visite-technique-du-lac-du-der-eptb-seine-grands-lacs-1275003_A
-URL:https://www.jds.fr/saint-dizier/activite-experience/visites/escapades-visite-technique-du-lac-du-der-eptb-seine-grands-lacs-1275003_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20260904-4@gengiscard.github.io
-DTSTAMP:20260904T081652Z
-DTSTART;TZID=Europe/Paris:20260904T200000
-DTEND;TZID=Europe/Paris:20260904T220000
-SUMMARY:Soirée concerts (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/manifestations/soiree-concerts-1705831_A
-URL:https://www.jds.fr/saint-dizier/manifestations/soiree-concerts-1705831_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
 UID:der-ia-20260905-1@gengiscard.github.io
-DTSTAMP:20260904T081652Z
+DTSTAMP:20260905T075437Z
 DTSTART;TZID=Europe/Paris:20260905T100000
-DTEND;TZID=Europe/Paris:20260905T180000
-SUMMARY:Plage & baignade — Giffaumont\, Lac du Der
-LOCATION:Plage de Giffaumont\, 51290 Giffaumont-Champaubert (~20 min)
-DESCRIPTION:Budget : GRATUIT\nPlage surveillée en été sur le plus grand lac artificiel de France — baignade\, volley\, paddle à louer.\nhttps://www.lacduder.com/
-URL:https://www.lacduder.com/
+DTEND;TZID=Europe/Paris:20260905T220000
+SUMMARY:Forum des Associations 2026 - Wassy
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/manifestations/forum-des-associations-2026-wassy-1724295_A
+URL:https://www.jds.fr/saint-dizier/manifestations/forum-des-associations-2026-wassy-1724295_A
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260905-2@gengiscard.github.io
-DTSTAMP:20260904T081652Z
+DTSTAMP:20260905T075437Z
+DTSTART;TZID=Europe/Paris:20260905T100000
+DTEND;TZID=Europe/Paris:20260905T220000
+SUMMARY:Portes Ouvertes Sapeurs-Pompiers de Wassy
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/manifestations/portes-ouvertes-sapeurs-pompiers-de-wassy-1724296_A
+URL:https://www.jds.fr/saint-dizier/manifestations/portes-ouvertes-sapeurs-pompiers-de-wassy-1724296_A
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20260905-3@gengiscard.github.io
+DTSTAMP:20260905T075437Z
 DTSTART;TZID=Europe/Paris:20260905T200000
 DTEND;TZID=Europe/Paris:20260905T220000
 SUMMARY:Chasse aux photos 2026 à Saint-Dizier (À CONFIRMER)
@@ -133,8 +122,8 @@ URL:https://www.jds.fr/saint-dizier/spectacles/chasse-aux-photos-2026-a-saint-di
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20260905-3@gengiscard.github.io
-DTSTAMP:20260904T081652Z
+UID:der-ia-20260905-4@gengiscard.github.io
+DTSTAMP:20260905T075437Z
 DTSTART;TZID=Europe/Paris:20260905T200000
 DTEND;TZID=Europe/Paris:20260905T220000
 SUMMARY:Des mots…juste des mots (À CONFIRMER)
@@ -144,8 +133,30 @@ URL:https://www.jds.fr/saint-dizier/manifestations/des-mots-juste-des-mots-17068
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
+UID:der-ia-20260905-5@gengiscard.github.io
+DTSTAMP:20260905T075437Z
+DTSTART;TZID=Europe/Paris:20260905T200000
+DTEND;TZID=Europe/Paris:20260905T220000
+SUMMARY:Salon du Chiot Lannion 2026 05/09/2026 → 06/09/2026 Lannion Foires (À CONFIRMER)
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/lannion/foires-et-salons/foires/salon-du-chiot-lannion-2026-1455387_A
+URL:https://www.jds.fr/lannion/foires-et-salons/foires/salon-du-chiot-lannion-2026-1455387_A
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
 UID:der-ia-20260906-1@gengiscard.github.io
-DTSTAMP:20260904T081652Z
+DTSTAMP:20260905T075437Z
+DTSTART;TZID=Europe/Paris:20260906T100000
+DTEND;TZID=Europe/Paris:20260906T180000
+SUMMARY:Plage & baignade — Giffaumont\, Lac du Der
+LOCATION:Plage de Giffaumont\, 51290 Giffaumont-Champaubert (~20 min)
+DESCRIPTION:Budget : GRATUIT\nPlage surveillée en été sur le plus grand lac artificiel de France — baignade\, volley\, paddle à louer.\nhttps://www.lacduder.com/
+URL:https://www.lacduder.com/
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20260906-2@gengiscard.github.io
+DTSTAMP:20260905T075437Z
 DTSTART;TZID=Europe/Paris:20260906T140000
 DTEND;TZID=Europe/Paris:20260906T220000
 SUMMARY:Visite du musée de l'école d'autrefois à Roches-sur-Marne
@@ -155,19 +166,8 @@ URL:https://www.jds.fr/saint-dizier/activite-experience/visites/visite-du-musee-
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20260906-2@gengiscard.github.io
-DTSTAMP:20260904T081652Z
-DTSTART;TZID=Europe/Paris:20260906T203000
-DTEND;TZID=Europe/Paris:20260906T220000
-SUMMARY:Golden hour photo au Der — port de Giffaumont
-LOCATION:Port de Giffaumont / digue du Der\, 51290 Giffaumont-Champaubert (~20 min)
-DESCRIPTION:Budget : GRATUIT\nCouchers de soleil spectaculaires sur 4800 ha d'eau — spot réputé des photographes (et des grues en automne).\nhttps://www.lacduder.com/
-URL:https://www.lacduder.com/
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
 UID:der-ia-20260907-1@gengiscard.github.io
-DTSTAMP:20260904T081652Z
+DTSTAMP:20260905T075437Z
 DTSTART;TZID=Europe/Paris:20260907T200000
 DTEND;TZID=Europe/Paris:20260907T221500
 SUMMARY:Ciné du soir — Ciné Quai
@@ -178,7 +178,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260908-1@gengiscard.github.io
-DTSTAMP:20260904T081652Z
+DTSTAMP:20260905T075437Z
 DTSTART;TZID=Europe/Paris:20260908T180000
 DTEND;TZID=Europe/Paris:20260908T220000
 SUMMARY:Soirée arcade & bar — Arcadia
@@ -189,7 +189,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260909-1@gengiscard.github.io
-DTSTAMP:20260904T081652Z
+DTSTAMP:20260905T075437Z
 DTSTART;TZID=Europe/Paris:20260909T173000
 DTEND;TZID=Europe/Paris:20260909T200000
 SUMMARY:Apéro lounge — Le Diable Rouge
@@ -200,7 +200,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260910-1@gengiscard.github.io
-DTSTAMP:20260904T081652Z
+DTSTAMP:20260905T075437Z
 DTSTART;TZID=Europe/Paris:20260910T200000
 DTEND;TZID=Europe/Paris:20260910T233000
 SUMMARY:Soirée au Casino JOA du Lac du Der (À CONFIRMER)
@@ -211,7 +211,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260911-1@gengiscard.github.io
-DTSTAMP:20260904T081652Z
+DTSTAMP:20260905T075437Z
 DTSTART;TZID=Europe/Paris:20260911T180000
 DTEND;TZID=Europe/Paris:20260911T220000
 SUMMARY:Soirée du vendredi — Bar de l'Agriculture
@@ -222,7 +222,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260912-1@gengiscard.github.io
-DTSTAMP:20260904T081652Z
+DTSTAMP:20260905T075437Z
 DTSTART;TZID=Europe/Paris:20260912T100000
 DTEND;TZID=Europe/Paris:20260912T180000
 SUMMARY:Plage & baignade — Giffaumont\, Lac du Der
@@ -233,7 +233,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260913-1@gengiscard.github.io
-DTSTAMP:20260904T081652Z
+DTSTAMP:20260905T075437Z
 DTSTART;TZID=Europe/Paris:20260913T203000
 DTEND;TZID=Europe/Paris:20260913T220000
 SUMMARY:Golden hour photo au Der — port de Giffaumont
