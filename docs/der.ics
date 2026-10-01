@@ -24,7 +24,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:der-ia-20260928-1@gengiscard.github.io
-DTSTAMP:20260930T100324Z
+DTSTAMP:20261001T103116Z
 DTSTART;TZID=Europe/Paris:20260928T200000
 DTEND;TZID=Europe/Paris:20260928T221500
 SUMMARY:Ciné du soir — Ciné Quai
@@ -35,7 +35,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260929-1@gengiscard.github.io
-DTSTAMP:20260930T100324Z
+DTSTAMP:20261001T103116Z
 DTSTART;TZID=Europe/Paris:20260929T180000
 DTEND;TZID=Europe/Paris:20260929T220000
 SUMMARY:Soirée arcade & bar — Arcadia
@@ -46,7 +46,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20260930-1@gengiscard.github.io
-DTSTAMP:20260930T100324Z
+DTSTAMP:20261001T103116Z
 DTSTART;TZID=Europe/Paris:20260930T173000
 DTEND;TZID=Europe/Paris:20260930T200000
 SUMMARY:Apéro lounge — Le Diable Rouge
@@ -56,41 +56,8 @@ URL:https://www.google.com/maps/search/?api=1&query=Le+Diable+Rouge+Saint-Dizier
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20260930-2@gengiscard.github.io
-DTSTAMP:20260930T100324Z
-DTSTART;TZID=Europe/Paris:20260930T200000
-DTEND;TZID=Europe/Paris:20260930T220000
-SUMMARY:Conseil communautaire du 30 septembre 2026 à Saint-Dizier (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.saint-dizier.fr — recouper l'horaire sur la fiche.\nhttps://www.saint-dizier.fr/actualites/conseil-communautaire-du-30-septembre-2026-a-saint-dizier/
-URL:https://www.saint-dizier.fr/actualites/conseil-communautaire-du-30-septembre-2026-a-saint-dizier/
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20260930-3@gengiscard.github.io
-DTSTAMP:20260930T100324Z
-DTSTART;TZID=Europe/Paris:20260930T200000
-DTEND;TZID=Europe/Paris:20260930T220000
-SUMMARY:ESCAPADES: Visite du centre aquatique la presqu'ile à Saint-Dizier (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/activite-experience/visites/escapades-visite-du-centre-aquatique-la-presqu-ile-a-saint-dizier-1346434_A
-URL:https://www.jds.fr/saint-dizier/activite-experience/visites/escapades-visite-du-centre-aquatique-la-presqu-ile-a-saint-dizier-1346434_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20260930-4@gengiscard.github.io
-DTSTAMP:20260930T100324Z
-DTSTART;TZID=Europe/Paris:20260930T200000
-DTEND;TZID=Europe/Paris:20260930T220000
-SUMMARY:La science expliquée aux gens\, Cie Attention au(x) chien(s) (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/manifestations/la-science-expliquee-aux-gens-cie-attention-au-x-chien-s-1724280_A
-URL:https://www.jds.fr/saint-dizier/manifestations/la-science-expliquee-aux-gens-cie-attention-au-x-chien-s-1724280_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
 UID:der-ia-20261001-1@gengiscard.github.io
-DTSTAMP:20260930T100324Z
+DTSTAMP:20261001T103116Z
 DTSTART;TZID=Europe/Paris:20261001T200000
 DTEND;TZID=Europe/Paris:20261001T233000
 SUMMARY:Soirée au Casino JOA du Lac du Der (À CONFIRMER)
@@ -101,7 +68,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261002-1@gengiscard.github.io
-DTSTAMP:20260930T100324Z
+DTSTAMP:20261001T103116Z
 DTSTART;TZID=Europe/Paris:20261002T180000
 DTEND;TZID=Europe/Paris:20261002T220000
 SUMMARY:Soirée du vendredi — Bar de l'Agriculture
@@ -112,7 +79,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261002-2@gengiscard.github.io
-DTSTAMP:20260930T100324Z
+DTSTAMP:20261001T103116Z
 DTSTART;TZID=Europe/Paris:20261002T200000
 DTEND;TZID=Europe/Paris:20261002T220000
 SUMMARY:Quiz musical au Bourricot (À CONFIRMER)
@@ -123,7 +90,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261002-3@gengiscard.github.io
-DTSTAMP:20260930T100324Z
+DTSTAMP:20261001T103116Z
 DTSTART;TZID=Europe/Paris:20261002T200000
 DTEND;TZID=Europe/Paris:20261002T220000
 SUMMARY:Théâtre : SAINT-EXUPÉRY\, le commandeur des oiseaux (À CONFIRMER)
@@ -134,7 +101,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261003-1@gengiscard.github.io
-DTSTAMP:20260930T100324Z
+DTSTAMP:20261001T103116Z
 DTSTART;TZID=Europe/Paris:20261003T100000
 DTEND;TZID=Europe/Paris:20261003T180000
 SUMMARY:Plage & baignade — Giffaumont\, Lac du Der
@@ -144,8 +111,19 @@ URL:https://www.lacduder.com/
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
+UID:der-ia-20261003-2@gengiscard.github.io
+DTSTAMP:20261001T103116Z
+DTSTART;TZID=Europe/Paris:20261003T203000
+DTEND;TZID=Europe/Paris:20261003T220000
+SUMMARY:Catch Montier-en-Der
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/sports/balades/catch-montier-en-der-1724285_A
+URL:https://www.jds.fr/saint-dizier/sports/balades/catch-montier-en-der-1724285_A
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
 UID:der-ia-20261004-1@gengiscard.github.io
-DTSTAMP:20260930T100324Z
+DTSTAMP:20261001T103116Z
 DTSTART;TZID=Europe/Paris:20261004T200000
 DTEND;TZID=Europe/Paris:20261004T220000
 SUMMARY:Journées Nationales des Artistes dans le Grand Est : expositions\, ateliers et re (À CONFIRMER)
@@ -156,7 +134,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261004-2@gengiscard.github.io
-DTSTAMP:20260930T100324Z
+DTSTAMP:20261001T103116Z
 DTSTART;TZID=Europe/Paris:20261004T203000
 DTEND;TZID=Europe/Paris:20261004T220000
 SUMMARY:Golden hour photo au Der — port de Giffaumont
@@ -167,7 +145,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261005-1@gengiscard.github.io
-DTSTAMP:20260930T100324Z
+DTSTAMP:20261001T103116Z
 DTSTART;TZID=Europe/Paris:20261005T200000
 DTEND;TZID=Europe/Paris:20261005T221500
 SUMMARY:Ciné du soir — Ciné Quai
@@ -178,7 +156,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261006-1@gengiscard.github.io
-DTSTAMP:20260930T100324Z
+DTSTAMP:20261001T103116Z
 DTSTART;TZID=Europe/Paris:20261006T180000
 DTEND;TZID=Europe/Paris:20261006T220000
 SUMMARY:Soirée arcade & bar — Arcadia
@@ -189,7 +167,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261007-1@gengiscard.github.io
-DTSTAMP:20260930T100324Z
+DTSTAMP:20261001T103116Z
 DTSTART;TZID=Europe/Paris:20261007T173000
 DTEND;TZID=Europe/Paris:20261007T200000
 SUMMARY:Apéro lounge — Le Diable Rouge
@@ -200,7 +178,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261008-1@gengiscard.github.io
-DTSTAMP:20260930T100324Z
+DTSTAMP:20261001T103116Z
 DTSTART;TZID=Europe/Paris:20261008T200000
 DTEND;TZID=Europe/Paris:20261008T233000
 SUMMARY:Soirée au Casino JOA du Lac du Der (À CONFIRMER)
@@ -211,7 +189,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261009-1@gengiscard.github.io
-DTSTAMP:20260930T100324Z
+DTSTAMP:20261001T103116Z
 DTSTART;TZID=Europe/Paris:20261009T180000
 DTEND;TZID=Europe/Paris:20261009T220000
 SUMMARY:Soirée du vendredi — Bar de l'Agriculture
@@ -222,7 +200,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261010-1@gengiscard.github.io
-DTSTAMP:20260930T100324Z
+DTSTAMP:20261001T103116Z
 DTSTART;TZID=Europe/Paris:20261010T100000
 DTEND;TZID=Europe/Paris:20261010T180000
 SUMMARY:Plage & baignade — Giffaumont\, Lac du Der
@@ -233,7 +211,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261011-1@gengiscard.github.io
-DTSTAMP:20260930T100324Z
+DTSTAMP:20261001T103116Z
 DTSTART;TZID=Europe/Paris:20261011T200000
 DTEND;TZID=Europe/Paris:20261011T220000
 SUMMARY:Fête de la Pomme et des Cucurbitacées (À CONFIRMER)
@@ -244,7 +222,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261011-2@gengiscard.github.io
-DTSTAMP:20260930T100324Z
+DTSTAMP:20261001T103116Z
 DTSTART;TZID=Europe/Paris:20261011T203000
 DTEND;TZID=Europe/Paris:20261011T220000
 SUMMARY:Golden hour photo au Der — port de Giffaumont
