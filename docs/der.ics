@@ -24,7 +24,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:der-ia-20261012-1@gengiscard.github.io
-DTSTAMP:20261015T083900Z
+DTSTAMP:20261016T083340Z
 DTSTART;TZID=Europe/Paris:20261012T200000
 DTEND;TZID=Europe/Paris:20261012T221500
 SUMMARY:Ciné du soir — Ciné Quai
@@ -35,7 +35,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261013-1@gengiscard.github.io
-DTSTAMP:20261015T083900Z
+DTSTAMP:20261016T083340Z
 DTSTART;TZID=Europe/Paris:20261013T180000
 DTEND;TZID=Europe/Paris:20261013T220000
 SUMMARY:Soirée arcade & bar — Arcadia
@@ -46,7 +46,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261014-1@gengiscard.github.io
-DTSTAMP:20261015T083900Z
+DTSTAMP:20261016T083340Z
 DTSTART;TZID=Europe/Paris:20261014T173000
 DTEND;TZID=Europe/Paris:20261014T200000
 SUMMARY:Apéro lounge — Le Diable Rouge
@@ -57,40 +57,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261015-1@gengiscard.github.io
-DTSTAMP:20261015T083900Z
-DTSTART;TZID=Europe/Paris:20261015T190000
-DTEND;TZID=Europe/Paris:20261015T220000
-SUMMARY:Judo Pro League
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/sports/balades/judo-pro-league-1780983_A
-URL:https://www.jds.fr/saint-dizier/sports/balades/judo-pro-league-1780983_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261015-2@gengiscard.github.io
-DTSTAMP:20261015T083900Z
-DTSTART;TZID=Europe/Paris:20261015T200000
-DTEND;TZID=Europe/Paris:20261015T220000
-SUMMARY:Collecte de Mémoire du Quartier de la Noue Au Petit Paris (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/manifestations/collecte-de-memoire-du-quartier-de-la-noue-au-petit-paris-1782903_A
-URL:https://www.jds.fr/saint-dizier/manifestations/collecte-de-memoire-du-quartier-de-la-noue-au-petit-paris-1782903_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261015-3@gengiscard.github.io
-DTSTAMP:20261015T083900Z
-DTSTART;TZID=Europe/Paris:20261015T200000
-DTEND;TZID=Europe/Paris:20261015T220000
-SUMMARY:Soirée Jeux de Société Au Petit Paris (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/sports/balades/soiree-jeux-de-societe-au-petit-paris-1782912_A
-URL:https://www.jds.fr/saint-dizier/sports/balades/soiree-jeux-de-societe-au-petit-paris-1782912_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261015-4@gengiscard.github.io
-DTSTAMP:20261015T083900Z
+DTSTAMP:20261016T083340Z
 DTSTART;TZID=Europe/Paris:20261015T200000
 DTEND;TZID=Europe/Paris:20261015T233000
 SUMMARY:Soirée au Casino JOA du Lac du Der (À CONFIRMER)
@@ -101,7 +68,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261016-1@gengiscard.github.io
-DTSTAMP:20261015T083900Z
+DTSTAMP:20261016T083340Z
 DTSTART;TZID=Europe/Paris:20261016T180000
 DTEND;TZID=Europe/Paris:20261016T220000
 SUMMARY:Soirée du vendredi — Bar de l'Agriculture
@@ -111,8 +78,30 @@ URL:https://www.google.com/maps/search/?api=1&query=Bar+de+l+Agriculture+Saint-D
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
+UID:der-ia-20261016-2@gengiscard.github.io
+DTSTAMP:20261016T083340Z
+DTSTART;TZID=Europe/Paris:20261016T200000
+DTEND;TZID=Europe/Paris:20261016T220000
+SUMMARY:Conférence : L’héliocentrisme …Alors … On Tourne ? (À CONFIRMER)
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/manifestations/conferences/conference-l-heliocentrisme-alors-on-tourne-1778071_A
+URL:https://www.jds.fr/saint-dizier/manifestations/conferences/conference-l-heliocentrisme-alors-on-tourne-1778071_A
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20261016-3@gengiscard.github.io
+DTSTAMP:20261016T083340Z
+DTSTART;TZID=Europe/Paris:20261016T200000
+DTEND;TZID=Europe/Paris:20261016T220000
+SUMMARY:Soirée Karaoké au Bourricot (À CONFIRMER)
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/foires-et-salons/marches/soiree-karaoke-au-bourricot-1757805_A
+URL:https://www.jds.fr/saint-dizier/foires-et-salons/marches/soiree-karaoke-au-bourricot-1757805_A
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
 UID:der-ia-20261017-1@gengiscard.github.io
-DTSTAMP:20261015T083900Z
+DTSTAMP:20261016T083340Z
 DTSTART;TZID=Europe/Paris:20261017T100000
 DTEND;TZID=Europe/Paris:20261017T180000
 SUMMARY:Plage & baignade — Giffaumont\, Lac du Der
@@ -122,8 +111,30 @@ URL:https://www.lacduder.com/
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
+UID:der-ia-20261017-2@gengiscard.github.io
+DTSTAMP:20261016T083340Z
+DTSTART;TZID=Europe/Paris:20261017T200000
+DTEND;TZID=Europe/Paris:20261017T220000
+SUMMARY:19ème Fête de la Grue et de la Migration (À CONFIRMER)
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/sports/balades/19eme-fete-de-la-grue-et-de-la-migration-1594325_A
+URL:https://www.jds.fr/saint-dizier/sports/balades/19eme-fete-de-la-grue-et-de-la-migration-1594325_A
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20261017-3@gengiscard.github.io
+DTSTAMP:20261016T083340Z
+DTSTART;TZID=Europe/Paris:20261017T200000
+DTEND;TZID=Europe/Paris:20261017T220000
+SUMMARY:Concert d'Automne (À CONFIRMER)
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/concerts/concert-d-automne-1788397_A
+URL:https://www.jds.fr/saint-dizier/concerts/concert-d-automne-1788397_A
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
 UID:der-ia-20261018-1@gengiscard.github.io
-DTSTAMP:20261015T083900Z
+DTSTAMP:20261016T083340Z
 DTSTART;TZID=Europe/Paris:20261018T200000
 DTEND;TZID=Europe/Paris:20261018T220000
 SUMMARY:Journées Nationales de la Réparation dans la région Grand Est (À CONFIRMER)
@@ -134,18 +145,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261018-2@gengiscard.github.io
-DTSTAMP:20261015T083900Z
-DTSTART;TZID=Europe/Paris:20261018T200000
-DTEND;TZID=Europe/Paris:20261018T220000
-SUMMARY:Brunch à volonté tous les dimanches et animation musicale Le 18/10/2026 L'Atelie (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/mulhouse/activite-experience/gastronomie/brunch-anime-a-l-atelier-1315936_A
-URL:https://www.jds.fr/mulhouse/activite-experience/gastronomie/brunch-anime-a-l-atelier-1315936_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261018-3@gengiscard.github.io
-DTSTAMP:20261015T083900Z
+DTSTAMP:20261016T083340Z
 DTSTART;TZID=Europe/Paris:20261018T203000
 DTEND;TZID=Europe/Paris:20261018T220000
 SUMMARY:Golden hour photo au Der — port de Giffaumont
@@ -156,18 +156,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261019-1@gengiscard.github.io
-DTSTAMP:20261015T083900Z
-DTSTART;TZID=Europe/Paris:20261019T200000
-DTEND;TZID=Europe/Paris:20261019T220000
-SUMMARY:Des stages sportifs pour les enfants qui ont besoin de se défouler 19/10/2026 →  (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/mulhouse/actu/vos-enfants-ont-besoin-de-se-defouler-ces-stages-sportifs-reviennent-a-wittenheim-pour-la-toussaint-1752470_A
-URL:https://www.jds.fr/mulhouse/actu/vos-enfants-ont-besoin-de-se-defouler-ces-stages-sportifs-reviennent-a-wittenheim-pour-la-toussaint-1752470_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261019-2@gengiscard.github.io
-DTSTAMP:20261015T083900Z
+DTSTAMP:20261016T083340Z
 DTSTART;TZID=Europe/Paris:20261019T200000
 DTEND;TZID=Europe/Paris:20261019T221500
 SUMMARY:Ciné du soir — Ciné Quai
@@ -178,7 +167,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261020-1@gengiscard.github.io
-DTSTAMP:20261015T083900Z
+DTSTAMP:20261016T083340Z
 DTSTART;TZID=Europe/Paris:20261020T180000
 DTEND;TZID=Europe/Paris:20261020T220000
 SUMMARY:Soirée arcade & bar — Arcadia
@@ -189,7 +178,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261021-1@gengiscard.github.io
-DTSTAMP:20261015T083900Z
+DTSTAMP:20261016T083340Z
 DTSTART;TZID=Europe/Paris:20261021T173000
 DTEND;TZID=Europe/Paris:20261021T200000
 SUMMARY:Apéro lounge — Le Diable Rouge
@@ -200,7 +189,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261022-1@gengiscard.github.io
-DTSTAMP:20261015T083900Z
+DTSTAMP:20261016T083340Z
 DTSTART;TZID=Europe/Paris:20261022T200000
 DTEND;TZID=Europe/Paris:20261022T233000
 SUMMARY:Soirée au Casino JOA du Lac du Der (À CONFIRMER)
@@ -211,7 +200,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261023-1@gengiscard.github.io
-DTSTAMP:20261015T083900Z
+DTSTAMP:20261016T083340Z
 DTSTART;TZID=Europe/Paris:20261023T180000
 DTEND;TZID=Europe/Paris:20261023T220000
 SUMMARY:Soirée du vendredi — Bar de l'Agriculture
@@ -222,7 +211,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261024-1@gengiscard.github.io
-DTSTAMP:20261015T083900Z
+DTSTAMP:20261016T083340Z
 DTSTART;TZID=Europe/Paris:20261024T100000
 DTEND;TZID=Europe/Paris:20261024T180000
 SUMMARY:Plage & baignade — Giffaumont\, Lac du Der
@@ -233,7 +222,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261025-1@gengiscard.github.io
-DTSTAMP:20261015T083900Z
+DTSTAMP:20261016T083340Z
 DTSTART;TZID=Europe/Paris:20261025T203000
 DTEND;TZID=Europe/Paris:20261025T220000
 SUMMARY:Golden hour photo au Der — port de Giffaumont
