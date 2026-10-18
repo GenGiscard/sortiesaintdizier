@@ -24,7 +24,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:der-ia-20261012-1@gengiscard.github.io
-DTSTAMP:20261017T080557Z
+DTSTAMP:20261018T082252Z
 DTSTART;TZID=Europe/Paris:20261012T200000
 DTEND;TZID=Europe/Paris:20261012T221500
 SUMMARY:Ciné du soir — Ciné Quai
@@ -34,19 +34,8 @@ URL:https://www.google.com/maps/search/?api=1&query=Cine+Quai+Saint-Dizier
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20261012-2@gengiscard.github.io
-DTSTAMP:20261017T080557Z
-DTSTART;TZID=Europe/Paris:20261012T203000
-DTEND;TZID=Europe/Paris:20261012T220000
-SUMMARY:Golden hour photo au Der — port de Giffaumont
-LOCATION:Port de Giffaumont / digue du Der\, 51290 Giffaumont-Champaubert (~20 min)
-DESCRIPTION:Budget : GRATUIT\nCouchers de soleil spectaculaires sur 4800 ha d'eau — spot réputé des photographes (et des grues en automne).\nhttps://www.lacduder.com/
-URL:https://www.lacduder.com/
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
 UID:der-ia-20261013-1@gengiscard.github.io
-DTSTAMP:20261017T080557Z
+DTSTAMP:20261018T082252Z
 DTSTART;TZID=Europe/Paris:20261013T180000
 DTEND;TZID=Europe/Paris:20261013T220000
 SUMMARY:Soirée arcade & bar — Arcadia
@@ -57,7 +46,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261014-1@gengiscard.github.io
-DTSTAMP:20261017T080557Z
+DTSTAMP:20261018T082252Z
 DTSTART;TZID=Europe/Paris:20261014T173000
 DTEND;TZID=Europe/Paris:20261014T200000
 SUMMARY:Apéro lounge — Le Diable Rouge
@@ -68,7 +57,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261015-1@gengiscard.github.io
-DTSTAMP:20261017T080557Z
+DTSTAMP:20261018T082252Z
 DTSTART;TZID=Europe/Paris:20261015T200000
 DTEND;TZID=Europe/Paris:20261015T233000
 SUMMARY:Soirée au Casino JOA du Lac du Der (À CONFIRMER)
@@ -79,7 +68,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261016-1@gengiscard.github.io
-DTSTAMP:20261017T080557Z
+DTSTAMP:20261018T082252Z
 DTSTART;TZID=Europe/Paris:20261016T180000
 DTEND;TZID=Europe/Paris:20261016T220000
 SUMMARY:Soirée du vendredi — Bar de l'Agriculture
@@ -90,64 +79,9 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261017-1@gengiscard.github.io
-DTSTAMP:20261017T080557Z
-DTSTART;TZID=Europe/Paris:20261017T200000
-DTEND;TZID=Europe/Paris:20261017T220000
-SUMMARY:19ème Fête de la Grue et de la Migration (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/sports/balades/19eme-fete-de-la-grue-et-de-la-migration-1594325_A
-URL:https://www.jds.fr/saint-dizier/sports/balades/19eme-fete-de-la-grue-et-de-la-migration-1594325_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261017-2@gengiscard.github.io
-DTSTAMP:20261017T080557Z
-DTSTART;TZID=Europe/Paris:20261017T200000
-DTEND;TZID=Europe/Paris:20261017T220000
-SUMMARY:Concert d'Automne (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/concerts/concert-d-automne-1788397_A
-URL:https://www.jds.fr/saint-dizier/concerts/concert-d-automne-1788397_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261017-3@gengiscard.github.io
-DTSTAMP:20261017T080557Z
-DTSTART;TZID=Europe/Paris:20261017T200000
-DTEND;TZID=Europe/Paris:20261017T220000
-SUMMARY:Fête foraine de Voillecomte (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/manifestations/fete-foraine/fete-foraine-de-voillecomte-1793198_A
-URL:https://www.jds.fr/saint-dizier/manifestations/fete-foraine/fete-foraine-de-voillecomte-1793198_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261017-4@gengiscard.github.io
-DTSTAMP:20261017T080557Z
-DTSTART;TZID=Europe/Paris:20261017T200000
-DTEND;TZID=Europe/Paris:20261017T220000
-SUMMARY:Montier en jeu (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/manifestations/montier-en-jeu-1762366_A
-URL:https://www.jds.fr/saint-dizier/manifestations/montier-en-jeu-1762366_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261017-5@gengiscard.github.io
-DTSTAMP:20261017T080557Z
-DTSTART;TZID=Europe/Paris:20261017T200000
-DTEND;TZID=Europe/Paris:20261017T220000
-SUMMARY:Le Sanctuaire des Brumes\, un jeu d'enquête inédit pendant les vacances 17/10/202 (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/mulhouse/activite-experience/jeux/le-sanctuaire-des-brumes-1759535_A
-URL:https://www.jds.fr/mulhouse/activite-experience/jeux/le-sanctuaire-des-brumes-1759535_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261018-1@gengiscard.github.io
-DTSTAMP:20261017T080557Z
-DTSTART;TZID=Europe/Paris:20261018T100000
-DTEND;TZID=Europe/Paris:20261018T180000
+DTSTAMP:20261018T082252Z
+DTSTART;TZID=Europe/Paris:20261017T100000
+DTEND;TZID=Europe/Paris:20261017T180000
 SUMMARY:Plage & baignade — Giffaumont\, Lac du Der
 LOCATION:Plage de Giffaumont\, 51290 Giffaumont-Champaubert (~20 min)
 DESCRIPTION:Budget : GRATUIT\nPlage surveillée en été sur le plus grand lac artificiel de France — baignade\, volley\, paddle à louer.\nhttps://www.lacduder.com/
@@ -155,8 +89,8 @@ URL:https://www.lacduder.com/
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20261018-2@gengiscard.github.io
-DTSTAMP:20261017T080557Z
+UID:der-ia-20261018-1@gengiscard.github.io
+DTSTAMP:20261018T082252Z
 DTSTART;TZID=Europe/Paris:20261018T200000
 DTEND;TZID=Europe/Paris:20261018T220000
 SUMMARY:Journées Nationales de la Réparation dans la région Grand Est (À CONFIRMER)
@@ -166,8 +100,52 @@ URL:https://www.jds.fr/grand-est/manifestations/journees-nationales-de-la-repara
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
+UID:der-ia-20261018-2@gengiscard.github.io
+DTSTAMP:20261018T082252Z
+DTSTART;TZID=Europe/Paris:20261018T200000
+DTEND;TZID=Europe/Paris:20261018T220000
+SUMMARY:Bourse aux Jouet et Puériculture (À CONFIRMER)
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/foires-et-salons/bourses/bourse-aux-jouet-et-puericulture-1797184_A
+URL:https://www.jds.fr/saint-dizier/foires-et-salons/bourses/bourse-aux-jouet-et-puericulture-1797184_A
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20261018-3@gengiscard.github.io
+DTSTAMP:20261018T082252Z
+DTSTART;TZID=Europe/Paris:20261018T200000
+DTEND;TZID=Europe/Paris:20261018T220000
+SUMMARY:Octobre Rose avec Sports en Der (À CONFIRMER)
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/manifestations/octobre-rose-avec-sports-en-der-1767520_A
+URL:https://www.jds.fr/saint-dizier/manifestations/octobre-rose-avec-sports-en-der-1767520_A
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20261018-4@gengiscard.github.io
+DTSTAMP:20261018T082252Z
+DTSTART;TZID=Europe/Paris:20261018T203000
+DTEND;TZID=Europe/Paris:20261018T220000
+SUMMARY:Golden hour photo au Der — port de Giffaumont
+LOCATION:Port de Giffaumont / digue du Der\, 51290 Giffaumont-Champaubert (~20 min)
+DESCRIPTION:Budget : GRATUIT\nCouchers de soleil spectaculaires sur 4800 ha d'eau — spot réputé des photographes (et des grues en automne).\nhttps://www.lacduder.com/
+URL:https://www.lacduder.com/
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
 UID:der-ia-20261019-1@gengiscard.github.io
-DTSTAMP:20261017T080557Z
+DTSTAMP:20261018T082252Z
+DTSTART;TZID=Europe/Paris:20261019T200000
+DTEND;TZID=Europe/Paris:20261019T220000
+SUMMARY:Fête foraine de Voillecomte (À CONFIRMER)
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/manifestations/fete-foraine/fete-foraine-de-voillecomte-1793198_A
+URL:https://www.jds.fr/saint-dizier/manifestations/fete-foraine/fete-foraine-de-voillecomte-1793198_A
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20261019-2@gengiscard.github.io
+DTSTAMP:20261018T082252Z
 DTSTART;TZID=Europe/Paris:20261019T200000
 DTEND;TZID=Europe/Paris:20261019T221500
 SUMMARY:Ciné du soir — Ciné Quai
@@ -178,7 +156,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261020-1@gengiscard.github.io
-DTSTAMP:20261017T080557Z
+DTSTAMP:20261018T082252Z
 DTSTART;TZID=Europe/Paris:20261020T180000
 DTEND;TZID=Europe/Paris:20261020T220000
 SUMMARY:Soirée arcade & bar — Arcadia
@@ -189,7 +167,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261021-1@gengiscard.github.io
-DTSTAMP:20261017T080557Z
+DTSTAMP:20261018T082252Z
 DTSTART;TZID=Europe/Paris:20261021T173000
 DTEND;TZID=Europe/Paris:20261021T200000
 SUMMARY:Apéro lounge — Le Diable Rouge
@@ -200,7 +178,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261022-1@gengiscard.github.io
-DTSTAMP:20261017T080557Z
+DTSTAMP:20261018T082252Z
 DTSTART;TZID=Europe/Paris:20261022T200000
 DTEND;TZID=Europe/Paris:20261022T233000
 SUMMARY:Soirée au Casino JOA du Lac du Der (À CONFIRMER)
@@ -211,7 +189,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261023-1@gengiscard.github.io
-DTSTAMP:20261017T080557Z
+DTSTAMP:20261018T082252Z
 DTSTART;TZID=Europe/Paris:20261023T180000
 DTEND;TZID=Europe/Paris:20261023T220000
 SUMMARY:Soirée du vendredi — Bar de l'Agriculture
@@ -222,7 +200,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261024-1@gengiscard.github.io
-DTSTAMP:20261017T080557Z
+DTSTAMP:20261018T082252Z
 DTSTART;TZID=Europe/Paris:20261024T100000
 DTEND;TZID=Europe/Paris:20261024T180000
 SUMMARY:Plage & baignade — Giffaumont\, Lac du Der
@@ -233,7 +211,18 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261025-1@gengiscard.github.io
-DTSTAMP:20261017T080557Z
+DTSTAMP:20261018T082252Z
+DTSTART;TZID=Europe/Paris:20261025T200000
+DTEND;TZID=Europe/Paris:20261025T220000
+SUMMARY:19ème Fête de la Grue et de la Migration (À CONFIRMER)
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/sports/balades/19eme-fete-de-la-grue-et-de-la-migration-1594325_A
+URL:https://www.jds.fr/saint-dizier/sports/balades/19eme-fete-de-la-grue-et-de-la-migration-1594325_A
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20261025-2@gengiscard.github.io
+DTSTAMP:20261018T082252Z
 DTSTART;TZID=Europe/Paris:20261025T203000
 DTEND;TZID=Europe/Paris:20261025T220000
 SUMMARY:Golden hour photo au Der — port de Giffaumont
