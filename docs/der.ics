@@ -24,7 +24,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:der-ia-20261019-1@gengiscard.github.io
-DTSTAMP:20261022T090417Z
+DTSTAMP:20261023T085346Z
 DTSTART;TZID=Europe/Paris:20261019T200000
 DTEND;TZID=Europe/Paris:20261019T221500
 SUMMARY:Ciné du soir — Ciné Quai
@@ -35,7 +35,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261020-1@gengiscard.github.io
-DTSTAMP:20261022T090417Z
+DTSTAMP:20261023T085346Z
 DTSTART;TZID=Europe/Paris:20261020T180000
 DTEND;TZID=Europe/Paris:20261020T220000
 SUMMARY:Soirée arcade & bar — Arcadia
@@ -46,7 +46,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261021-1@gengiscard.github.io
-DTSTAMP:20261022T090417Z
+DTSTAMP:20261023T085346Z
 DTSTART;TZID=Europe/Paris:20261021T173000
 DTEND;TZID=Europe/Paris:20261021T200000
 SUMMARY:Apéro lounge — Le Diable Rouge
@@ -57,40 +57,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261022-1@gengiscard.github.io
-DTSTAMP:20261022T090417Z
-DTSTART;TZID=Europe/Paris:20261022T200000
-DTEND;TZID=Europe/Paris:20261022T220000
-SUMMARY:Afterwork Au Petit Paris (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/spectacles/afterwork-au-petit-paris-1782907_A
-URL:https://www.jds.fr/saint-dizier/spectacles/afterwork-au-petit-paris-1782907_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261022-2@gengiscard.github.io
-DTSTAMP:20261022T090417Z
-DTSTART;TZID=Europe/Paris:20261022T200000
-DTEND;TZID=Europe/Paris:20261022T220000
-SUMMARY:Sortie "Vélo Ornitho" (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/sports/balades/sortie-velo-ornitho-1813455_A
-URL:https://www.jds.fr/saint-dizier/sports/balades/sortie-velo-ornitho-1813455_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261022-3@gengiscard.github.io
-DTSTAMP:20261022T090417Z
-DTSTART;TZID=Europe/Paris:20261022T200000
-DTEND;TZID=Europe/Paris:20261022T220000
-SUMMARY:Train aux oiseaux (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/sports/balades/train-aux-oiseaux-1757769_A
-URL:https://www.jds.fr/saint-dizier/sports/balades/train-aux-oiseaux-1757769_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261022-4@gengiscard.github.io
-DTSTAMP:20261022T090417Z
+DTSTAMP:20261023T085346Z
 DTSTART;TZID=Europe/Paris:20261022T200000
 DTEND;TZID=Europe/Paris:20261022T233000
 SUMMARY:Soirée au Casino JOA du Lac du Der (À CONFIRMER)
@@ -101,7 +68,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261023-1@gengiscard.github.io
-DTSTAMP:20261022T090417Z
+DTSTAMP:20261023T085346Z
 DTSTART;TZID=Europe/Paris:20261023T180000
 DTEND;TZID=Europe/Paris:20261023T220000
 SUMMARY:Soirée du vendredi — Bar de l'Agriculture
@@ -111,8 +78,30 @@ URL:https://www.google.com/maps/search/?api=1&query=Bar+de+l+Agriculture+Saint-D
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
+UID:der-ia-20261023-2@gengiscard.github.io
+DTSTAMP:20261023T085346Z
+DTSTART;TZID=Europe/Paris:20261023T200000
+DTEND;TZID=Europe/Paris:20261023T220000
+SUMMARY:Concert Au Petit Paris : Tom Stagaddon (À CONFIRMER)
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/concerts/concert-au-petit-paris-tom-stagaddon-1782914_A
+URL:https://www.jds.fr/saint-dizier/concerts/concert-au-petit-paris-tom-stagaddon-1782914_A
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20261023-3@gengiscard.github.io
+DTSTAMP:20261023T085346Z
+DTSTART;TZID=Europe/Paris:20261023T200000
+DTEND;TZID=Europe/Paris:20261023T220000
+SUMMARY:Théâtre : Le Manteau d'Arlequin Wasseyen (À CONFIRMER)
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/spectacles/theatre/theatre-le-manteau-d-arlequin-wasseyen-1790789_A
+URL:https://www.jds.fr/saint-dizier/spectacles/theatre/theatre-le-manteau-d-arlequin-wasseyen-1790789_A
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
 UID:der-ia-20261024-1@gengiscard.github.io
-DTSTAMP:20261022T090417Z
+DTSTAMP:20261023T085346Z
 DTSTART;TZID=Europe/Paris:20261024T100000
 DTEND;TZID=Europe/Paris:20261024T180000
 SUMMARY:Plage & baignade — Giffaumont\, Lac du Der
@@ -122,8 +111,30 @@ URL:https://www.lacduder.com/
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
+UID:der-ia-20261024-2@gengiscard.github.io
+DTSTAMP:20261023T085346Z
+DTSTART;TZID=Europe/Paris:20261024T200000
+DTEND;TZID=Europe/Paris:20261024T220000
+SUMMARY:Concert "Reprises Pop Rock" au Bourricot (À CONFIRMER)
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/concerts/concert-reprises-pop-rock-au-bourricot-1757833_A
+URL:https://www.jds.fr/saint-dizier/concerts/concert-reprises-pop-rock-au-bourricot-1757833_A
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20261024-3@gengiscard.github.io
+DTSTAMP:20261023T085346Z
+DTSTART;TZID=Europe/Paris:20261024T200000
+DTEND;TZID=Europe/Paris:20261024T220000
+SUMMARY:Concert Scream Tribute #2 (À CONFIRMER)
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/concerts/concert-scream-tribute-2-1782908_A
+URL:https://www.jds.fr/saint-dizier/concerts/concert-scream-tribute-2-1782908_A
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
 UID:der-ia-20261025-1@gengiscard.github.io
-DTSTAMP:20261022T090417Z
+DTSTAMP:20261023T085346Z
 DTSTART;TZID=Europe/Paris:20261025T200000
 DTEND;TZID=Europe/Paris:20261025T220000
 SUMMARY:19ème Fête de la Grue et de la Migration (À CONFIRMER)
@@ -134,7 +145,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261025-2@gengiscard.github.io
-DTSTAMP:20261022T090417Z
+DTSTAMP:20261023T085346Z
 DTSTART;TZID=Europe/Paris:20261025T203000
 DTEND;TZID=Europe/Paris:20261025T220000
 SUMMARY:Golden hour photo au Der — port de Giffaumont
@@ -145,7 +156,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261026-1@gengiscard.github.io
-DTSTAMP:20261022T090417Z
+DTSTAMP:20261023T085346Z
 DTSTART;TZID=Europe/Paris:20261026T200000
 DTEND;TZID=Europe/Paris:20261026T221500
 SUMMARY:Ciné du soir — Ciné Quai
@@ -156,7 +167,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261027-1@gengiscard.github.io
-DTSTAMP:20261022T090417Z
+DTSTAMP:20261023T085346Z
 DTSTART;TZID=Europe/Paris:20261027T180000
 DTEND;TZID=Europe/Paris:20261027T220000
 SUMMARY:Soirée arcade & bar — Arcadia
@@ -167,7 +178,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261028-1@gengiscard.github.io
-DTSTAMP:20261022T090417Z
+DTSTAMP:20261023T085346Z
 DTSTART;TZID=Europe/Paris:20261028T173000
 DTEND;TZID=Europe/Paris:20261028T200000
 SUMMARY:Apéro lounge — Le Diable Rouge
@@ -178,7 +189,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261029-1@gengiscard.github.io
-DTSTAMP:20261022T090417Z
+DTSTAMP:20261023T085346Z
 DTSTART;TZID=Europe/Paris:20261029T200000
 DTEND;TZID=Europe/Paris:20261029T233000
 SUMMARY:Soirée au Casino JOA du Lac du Der (À CONFIRMER)
@@ -189,7 +200,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261030-1@gengiscard.github.io
-DTSTAMP:20261022T090417Z
+DTSTAMP:20261023T085346Z
 DTSTART;TZID=Europe/Paris:20261030T180000
 DTEND;TZID=Europe/Paris:20261030T220000
 SUMMARY:Soirée du vendredi — Bar de l'Agriculture
@@ -200,7 +211,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261030-2@gengiscard.github.io
-DTSTAMP:20261022T090417Z
+DTSTAMP:20261023T085346Z
 DTSTART;TZID=Europe/Paris:20261030T200000
 DTEND;TZID=Europe/Paris:20261030T220000
 SUMMARY:Cluedo Géant : le cirque maudit (À CONFIRMER)
@@ -211,7 +222,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261031-1@gengiscard.github.io
-DTSTAMP:20261022T090417Z
+DTSTAMP:20261023T085346Z
 DTSTART;TZID=Europe/Paris:20261031T100000
 DTEND;TZID=Europe/Paris:20261031T180000
 SUMMARY:Plage & baignade — Giffaumont\, Lac du Der
@@ -222,7 +233,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261031-2@gengiscard.github.io
-DTSTAMP:20261022T090417Z
+DTSTAMP:20261023T085346Z
 DTSTART;TZID=Europe/Paris:20261031T200000
 DTEND;TZID=Europe/Paris:20261031T220000
 SUMMARY:Drôle de magicien (À CONFIRMER)
@@ -233,7 +244,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261031-3@gengiscard.github.io
-DTSTAMP:20261022T090417Z
+DTSTAMP:20261023T085346Z
 DTSTART;TZID=Europe/Paris:20261031T200000
 DTEND;TZID=Europe/Paris:20261031T220000
 SUMMARY:Théâtre Municipal - Saint-Dizier (À CONFIRMER)
@@ -244,7 +255,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261031-4@gengiscard.github.io
-DTSTAMP:20261022T090417Z
+DTSTAMP:20261023T085346Z
 DTSTART;TZID=Europe/Paris:20261031T200000
 DTEND;TZID=Europe/Paris:20261031T220000
 SUMMARY:Les Colocs (À CONFIRMER)
@@ -255,7 +266,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261101-1@gengiscard.github.io
-DTSTAMP:20261022T090417Z
+DTSTAMP:20261023T085346Z
 DTSTART;TZID=Europe/Paris:20261101T203000
 DTEND;TZID=Europe/Paris:20261101T220000
 SUMMARY:Golden hour photo au Der — port de Giffaumont
