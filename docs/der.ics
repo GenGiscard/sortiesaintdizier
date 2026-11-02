@@ -23,96 +23,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:der-ia-20261026-1@gengiscard.github.io
-DTSTAMP:20261101T105118Z
-DTSTART;TZID=Europe/Paris:20261026T200000
-DTEND;TZID=Europe/Paris:20261026T221500
-SUMMARY:Ciné du soir — Ciné Quai
-LOCATION:Ciné Quai\, 36 Rue Lamartine\, 52100 Saint-Dizier
-DESCRIPTION:Budget : ~7-11€\nMultiplexe du centre — consulter la séance du jour (avant-premières et séances spéciales régulières).\nhttps://www.google.com/maps/search/?api=1&query=Cine+Quai+Saint-Dizier
-URL:https://www.google.com/maps/search/?api=1&query=Cine+Quai+Saint-Dizier
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261027-1@gengiscard.github.io
-DTSTAMP:20261101T105118Z
-DTSTART;TZID=Europe/Paris:20261027T180000
-DTEND;TZID=Europe/Paris:20261027T220000
-SUMMARY:Soirée arcade & bar — Arcadia
-LOCATION:Arcadia\, 34 Rue Gambetta\, 52100 Saint-Dizier
-DESCRIPTION:Budget : ~10€ illimité + conso\nBar-arcade rétro (4\,8/5)\, bornes classiques en illimité\, ambiance conviviale — LE spot geek de Saint-Dizier.\nhttps://www.google.com/maps/search/?api=1&query=Arcadia+Saint-Dizier
-URL:https://www.google.com/maps/search/?api=1&query=Arcadia+Saint-Dizier
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261028-1@gengiscard.github.io
-DTSTAMP:20261101T105118Z
-DTSTART;TZID=Europe/Paris:20261028T173000
-DTEND;TZID=Europe/Paris:20261028T200000
-SUMMARY:Apéro lounge — Le Diable Rouge
-LOCATION:Le Diable Rouge\, 7 Rue Catel\, 52100 Saint-Dizier
-DESCRIPTION:Budget : ~10-25€\nLounge bar 4\,6/5\, belles planches et carte des vins\, déco aviation militaire. Ven/sam jusqu'à minuit.\nhttps://www.google.com/maps/search/?api=1&query=Le+Diable+Rouge+Saint-Dizier
-URL:https://www.google.com/maps/search/?api=1&query=Le+Diable+Rouge+Saint-Dizier
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261029-1@gengiscard.github.io
-DTSTAMP:20261101T105118Z
-DTSTART;TZID=Europe/Paris:20261029T200000
-DTEND;TZID=Europe/Paris:20261029T233000
-SUMMARY:Soirée au Casino JOA du Lac du Der (À CONFIRMER)
-LOCATION:Casino JOA du Lac du Der\, Station Nautique\, 51290 Giffaumont-Champaubert (~20 min)
-DESCRIPTION:Budget : Entrée gratuite — se fixer une limite (≤50€ !)\nBar des Sports\, restaurant\, karaokés et soirées à thème régulières (voir programme du mois).\nhttps://www.joa.fr/casinos/lac-du-der
-URL:https://www.joa.fr/casinos/lac-du-der
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261030-1@gengiscard.github.io
-DTSTAMP:20261101T105118Z
-DTSTART;TZID=Europe/Paris:20261030T180000
-DTEND;TZID=Europe/Paris:20261030T220000
-SUMMARY:Soirée du vendredi — Bar de l'Agriculture
-LOCATION:Bar de l'Agriculture\, 3 Place de la Liberté\, 52100 Saint-Dizier
-DESCRIPTION:Budget : ~5-15€\nInstitution bragarde : « great atmosphere every Friday night »\, prix doux.\nhttps://www.google.com/maps/search/?api=1&query=Bar+de+l+Agriculture+Saint-Dizier
-URL:https://www.google.com/maps/search/?api=1&query=Bar+de+l+Agriculture+Saint-Dizier
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261031-1@gengiscard.github.io
-DTSTAMP:20261101T105118Z
-DTSTART;TZID=Europe/Paris:20261031T100000
-DTEND;TZID=Europe/Paris:20261031T180000
-SUMMARY:Plage & baignade — Giffaumont\, Lac du Der
-LOCATION:Plage de Giffaumont\, 51290 Giffaumont-Champaubert (~20 min)
-DESCRIPTION:Budget : GRATUIT\nPlage surveillée en été sur le plus grand lac artificiel de France — baignade\, volley\, paddle à louer.\nhttps://www.lacduder.com/
-URL:https://www.lacduder.com/
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261101-1@gengiscard.github.io
-DTSTAMP:20261101T105118Z
-DTSTART;TZID=Europe/Paris:20261101T200000
-DTEND;TZID=Europe/Paris:20261101T220000
-SUMMARY:Cluedo Géant : le cirque maudit (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/manifestations/halloween/cluedo-geant-le-cirque-maudit-1799618_A
-URL:https://www.jds.fr/saint-dizier/manifestations/halloween/cluedo-geant-le-cirque-maudit-1799618_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261101-2@gengiscard.github.io
-DTSTAMP:20261101T105118Z
-DTSTART;TZID=Europe/Paris:20261101T203000
-DTEND;TZID=Europe/Paris:20261101T220000
-SUMMARY:Golden hour photo au Der — port de Giffaumont
-LOCATION:Port de Giffaumont / digue du Der\, 51290 Giffaumont-Champaubert (~20 min)
-DESCRIPTION:Budget : GRATUIT\nCouchers de soleil spectaculaires sur 4800 ha d'eau — spot réputé des photographes (et des grues en automne).\nhttps://www.lacduder.com/
-URL:https://www.lacduder.com/
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
 UID:der-ia-20261102-1@gengiscard.github.io
-DTSTAMP:20261101T105118Z
+DTSTAMP:20261102T114511Z
 DTSTART;TZID=Europe/Paris:20261102T200000
 DTEND;TZID=Europe/Paris:20261102T221500
 SUMMARY:Ciné du soir — Ciné Quai
@@ -123,7 +35,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261102-2@gengiscard.github.io
-DTSTAMP:20261101T105118Z
+DTSTAMP:20261102T114511Z
 DTSTART;TZID=Europe/Paris:20261102T203000
 DTEND;TZID=Europe/Paris:20261102T220000
 SUMMARY:Golden hour photo au Der — port de Giffaumont
@@ -134,7 +46,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261103-1@gengiscard.github.io
-DTSTAMP:20261101T105118Z
+DTSTAMP:20261102T114511Z
 DTSTART;TZID=Europe/Paris:20261103T180000
 DTEND;TZID=Europe/Paris:20261103T220000
 SUMMARY:Soirée arcade & bar — Arcadia
@@ -145,7 +57,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261103-2@gengiscard.github.io
-DTSTAMP:20261101T105118Z
+DTSTAMP:20261102T114511Z
 DTSTART;TZID=Europe/Paris:20261103T200000
 DTEND;TZID=Europe/Paris:20261103T220000
 SUMMARY:Les élus à votre rencontre le 3 novembre à Saint-Dizier (À CONFIRMER)
@@ -156,7 +68,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261103-3@gengiscard.github.io
-DTSTAMP:20261101T105118Z
+DTSTAMP:20261102T114511Z
 DTSTART;TZID=Europe/Paris:20261103T200000
 DTEND;TZID=Europe/Paris:20261103T220000
 SUMMARY:Observation coucher des grues (À CONFIRMER)
@@ -167,7 +79,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261104-1@gengiscard.github.io
-DTSTAMP:20261101T105118Z
+DTSTAMP:20261102T114511Z
 DTSTART;TZID=Europe/Paris:20261104T173000
 DTEND;TZID=Europe/Paris:20261104T200000
 SUMMARY:Apéro lounge — Le Diable Rouge
@@ -178,7 +90,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261104-2@gengiscard.github.io
-DTSTAMP:20261101T105118Z
+DTSTAMP:20261102T114511Z
 DTSTART;TZID=Europe/Paris:20261104T200000
 DTEND;TZID=Europe/Paris:20261104T220000
 SUMMARY:Constellation 2.0 (À CONFIRMER)
@@ -189,7 +101,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261104-3@gengiscard.github.io
-DTSTAMP:20261101T105118Z
+DTSTAMP:20261102T114511Z
 DTSTART;TZID=Europe/Paris:20261104T200000
 DTEND;TZID=Europe/Paris:20261104T220000
 SUMMARY:Projection débat autour du film: KERKINI LE SANCTUAIRE DES OISEAUX (À CONFIRMER)
@@ -199,8 +111,30 @@ URL:https://www.jds.fr/saint-dizier/spectacles/cinema/projection-debat-autour-du
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
+UID:der-ia-20261104-4@gengiscard.github.io
+DTSTAMP:20261102T114511Z
+DTSTART;TZID=Europe/Paris:20261104T200000
+DTEND;TZID=Europe/Paris:20261104T220000
+SUMMARY:Randonnée "Grues" (À CONFIRMER)
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/sports/balades/randonnee-grues-1813461_A
+URL:https://www.jds.fr/saint-dizier/sports/balades/randonnee-grues-1813461_A
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
 UID:der-ia-20261105-1@gengiscard.github.io
-DTSTAMP:20261101T105118Z
+DTSTAMP:20261102T114511Z
+DTSTART;TZID=Europe/Paris:20261105T200000
+DTEND;TZID=Europe/Paris:20261105T220000
+SUMMARY:Autour Du Fil (À CONFIRMER)
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/manifestations/autour-du-fil-1804625_A
+URL:https://www.jds.fr/saint-dizier/manifestations/autour-du-fil-1804625_A
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20261105-2@gengiscard.github.io
+DTSTAMP:20261102T114511Z
 DTSTART;TZID=Europe/Paris:20261105T200000
 DTEND;TZID=Europe/Paris:20261105T220000
 SUMMARY:Stephan Eicher - Poussière D’or Tour Le 05/11/2026 Les Fuseaux - Saint-Dizier Po (À CONFIRMER)
@@ -210,8 +144,8 @@ URL:https://www.jds.fr/saint-dizier/concerts/pop-folk/stephan-eicher-poussiere-d
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20261105-2@gengiscard.github.io
-DTSTAMP:20261101T105118Z
+UID:der-ia-20261105-3@gengiscard.github.io
+DTSTAMP:20261102T114511Z
 DTSTART;TZID=Europe/Paris:20261105T200000
 DTEND;TZID=Europe/Paris:20261105T220000
 SUMMARY:Stephan Eicher\, Poussière d'Or Tour (À CONFIRMER)
@@ -221,8 +155,8 @@ URL:https://52.agendaculturel.fr/concert/saint-dizier/stephan-eicher-poussiere-d
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20261105-3@gengiscard.github.io
-DTSTAMP:20261101T105118Z
+UID:der-ia-20261105-4@gengiscard.github.io
+DTSTAMP:20261102T114511Z
 DTSTART;TZID=Europe/Paris:20261105T200000
 DTEND;TZID=Europe/Paris:20261105T220000
 SUMMARY:Voir les 13 concerts et spectacles arrow_downward (À CONFIRMER)
@@ -232,8 +166,8 @@ URL:https://52.agendaculturel.fr#programmation
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20261105-4@gengiscard.github.io
-DTSTAMP:20261101T105118Z
+UID:der-ia-20261105-5@gengiscard.github.io
+DTSTAMP:20261102T114511Z
 DTSTART;TZID=Europe/Paris:20261105T200000
 DTEND;TZID=Europe/Paris:20261105T220000
 SUMMARY:En savoir plus sur le lieu (À CONFIRMER)
@@ -243,8 +177,8 @@ URL:https://52.agendaculturel.fr#infos
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20261105-5@gengiscard.github.io
-DTSTAMP:20261101T105118Z
+UID:der-ia-20261105-6@gengiscard.github.io
+DTSTAMP:20261102T114511Z
 DTSTART;TZID=Europe/Paris:20261105T203000
 DTEND;TZID=Europe/Paris:20261105T220000
 SUMMARY:Stephan Eicher - Poussière D’or Tour
@@ -254,8 +188,8 @@ URL:https://www.jds.fr/saint-dizier/concerts/pop-folk/stephan-eicher-poussiere-d
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20261105-6@gengiscard.github.io
-DTSTAMP:20261101T105118Z
+UID:der-ia-20261105-7@gengiscard.github.io
+DTSTAMP:20261102T114511Z
 DTSTART;TZID=Europe/Paris:20261105T203000
 DTEND;TZID=Europe/Paris:20261105T220000
 SUMMARY:Les Fuseaux - Saint-Dizier
@@ -266,7 +200,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261106-1@gengiscard.github.io
-DTSTAMP:20261101T105118Z
+DTSTAMP:20261102T114511Z
 DTSTART;TZID=Europe/Paris:20261106T180000
 DTEND;TZID=Europe/Paris:20261106T220000
 SUMMARY:Soirée du vendredi — Bar de l'Agriculture
@@ -277,7 +211,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261107-1@gengiscard.github.io
-DTSTAMP:20261101T105118Z
+DTSTAMP:20261102T114511Z
 DTSTART;TZID=Europe/Paris:20261107T193000
 DTEND;TZID=Europe/Paris:20261107T220000
 SUMMARY:Punk Fest - Tagada Jones / Opium du Peuple / Darcy
@@ -288,7 +222,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261107-2@gengiscard.github.io
-DTSTAMP:20261101T105118Z
+DTSTAMP:20261102T114511Z
 DTSTART;TZID=Europe/Paris:20261107T200000
 DTEND;TZID=Europe/Paris:20261107T220000
 SUMMARY:Punk Fest - Tagada Jones / Opium du Peuple / Darcy Le 07/11/2026 Les Fuseaux - S (À CONFIRMER)
@@ -299,7 +233,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261107-3@gengiscard.github.io
-DTSTAMP:20261101T105118Z
+DTSTAMP:20261102T114511Z
 DTSTART;TZID=Europe/Paris:20261107T200000
 DTEND;TZID=Europe/Paris:20261107T233000
 SUMMARY:Soirée au Casino JOA du Lac du Der (À CONFIRMER)
@@ -310,7 +244,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261108-1@gengiscard.github.io
-DTSTAMP:20261101T105118Z
+DTSTAMP:20261102T114511Z
 DTSTART;TZID=Europe/Paris:20261108T100000
 DTEND;TZID=Europe/Paris:20261108T180000
 SUMMARY:Plage & baignade — Giffaumont\, Lac du Der
@@ -320,14 +254,135 @@ URL:https://www.lacduder.com/
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20261108-2@gengiscard.github.io
-DTSTAMP:20261101T105118Z
-DTSTART;TZID=Europe/Paris:20261108T200000
-DTEND;TZID=Europe/Paris:20261108T220000
-SUMMARY:Peur sur le Parc 2026 : le Parc Astérix en mode Halloween Jusqu'au 08/11/2026 Pa (À CONFIRMER)
+UID:der-ia-20261109-1@gengiscard.github.io
+DTSTAMP:20261102T114511Z
+DTSTART;TZID=Europe/Paris:20261109T200000
+DTEND;TZID=Europe/Paris:20261109T221500
+SUMMARY:Ciné du soir — Ciné Quai
+LOCATION:Ciné Quai\, 36 Rue Lamartine\, 52100 Saint-Dizier
+DESCRIPTION:Budget : ~7-11€\nMultiplexe du centre — consulter la séance du jour (avant-premières et séances spéciales régulières).\nhttps://www.google.com/maps/search/?api=1&query=Cine+Quai+Saint-Dizier
+URL:https://www.google.com/maps/search/?api=1&query=Cine+Quai+Saint-Dizier
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20261110-1@gengiscard.github.io
+DTSTAMP:20261102T114511Z
+DTSTART;TZID=Europe/Paris:20261110T180000
+DTEND;TZID=Europe/Paris:20261110T220000
+SUMMARY:Soirée arcade & bar — Arcadia
+LOCATION:Arcadia\, 34 Rue Gambetta\, 52100 Saint-Dizier
+DESCRIPTION:Budget : ~10€ illimité + conso\nBar-arcade rétro (4\,8/5)\, bornes classiques en illimité\, ambiance conviviale — LE spot geek de Saint-Dizier.\nhttps://www.google.com/maps/search/?api=1&query=Arcadia+Saint-Dizier
+URL:https://www.google.com/maps/search/?api=1&query=Arcadia+Saint-Dizier
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20261111-1@gengiscard.github.io
+DTSTAMP:20261102T114511Z
+DTSTART;TZID=Europe/Paris:20261111T173000
+DTEND;TZID=Europe/Paris:20261111T200000
+SUMMARY:Apéro lounge — Le Diable Rouge
+LOCATION:Le Diable Rouge\, 7 Rue Catel\, 52100 Saint-Dizier
+DESCRIPTION:Budget : ~10-25€\nLounge bar 4\,6/5\, belles planches et carte des vins\, déco aviation militaire. Ven/sam jusqu'à minuit.\nhttps://www.google.com/maps/search/?api=1&query=Le+Diable+Rouge+Saint-Dizier
+URL:https://www.google.com/maps/search/?api=1&query=Le+Diable+Rouge+Saint-Dizier
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20261112-1@gengiscard.github.io
+DTSTAMP:20261102T114511Z
+DTSTART;TZID=Europe/Paris:20261112T200000
+DTEND;TZID=Europe/Paris:20261112T233000
+SUMMARY:Soirée au Casino JOA du Lac du Der (À CONFIRMER)
+LOCATION:Casino JOA du Lac du Der\, Station Nautique\, 51290 Giffaumont-Champaubert (~20 min)
+DESCRIPTION:Budget : Entrée gratuite — se fixer une limite (≤50€ !)\nBar des Sports\, restaurant\, karaokés et soirées à thème régulières (voir programme du mois).\nhttps://www.joa.fr/casinos/lac-du-der
+URL:https://www.joa.fr/casinos/lac-du-der
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20261113-1@gengiscard.github.io
+DTSTAMP:20261102T114511Z
+DTSTART;TZID=Europe/Paris:20261113T180000
+DTEND;TZID=Europe/Paris:20261113T220000
+SUMMARY:Soirée du vendredi — Bar de l'Agriculture
+LOCATION:Bar de l'Agriculture\, 3 Place de la Liberté\, 52100 Saint-Dizier
+DESCRIPTION:Budget : ~5-15€\nInstitution bragarde : « great atmosphere every Friday night »\, prix doux.\nhttps://www.google.com/maps/search/?api=1&query=Bar+de+l+Agriculture+Saint-Dizier
+URL:https://www.google.com/maps/search/?api=1&query=Bar+de+l+Agriculture+Saint-Dizier
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20261113-2@gengiscard.github.io
+DTSTAMP:20261102T114511Z
+DTSTART;TZID=Europe/Paris:20261113T200000
+DTEND;TZID=Europe/Paris:20261113T220000
+SUMMARY:Portes ouvertes des structures d'insertion par l'activité économique en Alsace (À CONFIRMER)
 LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/paris/manifestations/halloween/peur-sur-le-parc-1195601_A
-URL:https://www.jds.fr/paris/manifestations/halloween/peur-sur-le-parc-1195601_A
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/grand-est/activite-experience/visites/portes-ouvertes-des-structures-d-insertion-par-l-activite-economique-en-alsace-1824112_A
+URL:https://www.jds.fr/grand-est/activite-experience/visites/portes-ouvertes-des-structures-d-insertion-par-l-activite-economique-en-alsace-1824112_A
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20261113-3@gengiscard.github.io
+DTSTAMP:20261102T114511Z
+DTSTART;TZID=Europe/Paris:20261113T200000
+DTEND;TZID=Europe/Paris:20261113T220000
+SUMMARY:C'Est Décidé\, Je Deviens Une Connasse ! - Tournée (À CONFIRMER)
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/spectacles/humour/c-est-decide-je-deviens-une-connasse-tournee-1457400_A
+URL:https://www.jds.fr/saint-dizier/spectacles/humour/c-est-decide-je-deviens-une-connasse-tournee-1457400_A
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20261113-4@gengiscard.github.io
+DTSTAMP:20261102T114511Z
+DTSTART;TZID=Europe/Paris:20261113T200000
+DTEND;TZID=Europe/Paris:20261113T220000
+SUMMARY:Théâtre Municipal - Saint-Dizier (À CONFIRMER)
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/salle-de-concert-spectacle/theatre-municipal-17422_L
+URL:https://www.jds.fr/saint-dizier/salle-de-concert-spectacle/theatre-municipal-17422_L
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20261114-1@gengiscard.github.io
+DTSTAMP:20261102T114511Z
+DTSTART;TZID=Europe/Paris:20261114T100000
+DTEND;TZID=Europe/Paris:20261114T180000
+SUMMARY:Plage & baignade — Giffaumont\, Lac du Der
+LOCATION:Plage de Giffaumont\, 51290 Giffaumont-Champaubert (~20 min)
+DESCRIPTION:Budget : GRATUIT\nPlage surveillée en été sur le plus grand lac artificiel de France — baignade\, volley\, paddle à louer.\nhttps://www.lacduder.com/
+URL:https://www.lacduder.com/
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20261114-2@gengiscard.github.io
+DTSTAMP:20261102T114511Z
+DTSTART;TZID=Europe/Paris:20261114T180000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:Metalfest / Sidilarsen / Praetor / Ianwill...
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/concerts/rock/metalfest-sidilarsen-praetor-ianwill-1664625_A
+URL:https://www.jds.fr/saint-dizier/concerts/rock/metalfest-sidilarsen-praetor-ianwill-1664625_A
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20261114-3@gengiscard.github.io
+DTSTAMP:20261102T114511Z
+DTSTART;TZID=Europe/Paris:20261114T200000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:Metalfest / Sidilarsen / Praetor / Ianwill... Le 14/11/2026 Les Fuseaux - Saint- (À CONFIRMER)
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/concerts/rock/metalfest-sidilarsen-praetor-ianwill-1664625_A
+URL:https://www.jds.fr/saint-dizier/concerts/rock/metalfest-sidilarsen-praetor-ianwill-1664625_A
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20261115-1@gengiscard.github.io
+DTSTAMP:20261102T114511Z
+DTSTART;TZID=Europe/Paris:20261115T203000
+DTEND;TZID=Europe/Paris:20261115T220000
+SUMMARY:Golden hour photo au Der — port de Giffaumont
+LOCATION:Port de Giffaumont / digue du Der\, 51290 Giffaumont-Champaubert (~20 min)
+DESCRIPTION:Budget : GRATUIT\nCouchers de soleil spectaculaires sur 4800 ha d'eau — spot réputé des photographes (et des grues en automne).\nhttps://www.lacduder.com/
+URL:https://www.lacduder.com/
 CATEGORIES:IA
 END:VEVENT
 END:VCALENDAR
