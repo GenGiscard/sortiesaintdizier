@@ -24,7 +24,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:der-ia-20261109-1@gengiscard.github.io
-DTSTAMP:20261112T115706Z
+DTSTAMP:20261113T114007Z
 DTSTART;TZID=Europe/Paris:20261109T200000
 DTEND;TZID=Europe/Paris:20261109T221500
 SUMMARY:Ciné du soir — Ciné Quai
@@ -35,7 +35,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261109-2@gengiscard.github.io
-DTSTAMP:20261112T115706Z
+DTSTAMP:20261113T114007Z
 DTSTART;TZID=Europe/Paris:20261109T203000
 DTEND;TZID=Europe/Paris:20261109T220000
 SUMMARY:Golden hour photo au Der — port de Giffaumont
@@ -46,7 +46,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261110-1@gengiscard.github.io
-DTSTAMP:20261112T115706Z
+DTSTAMP:20261113T114007Z
 DTSTART;TZID=Europe/Paris:20261110T180000
 DTEND;TZID=Europe/Paris:20261110T220000
 SUMMARY:Soirée arcade & bar — Arcadia
@@ -57,7 +57,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261111-1@gengiscard.github.io
-DTSTAMP:20261112T115706Z
+DTSTAMP:20261113T114007Z
 DTSTART;TZID=Europe/Paris:20261111T173000
 DTEND;TZID=Europe/Paris:20261111T200000
 SUMMARY:Apéro lounge — Le Diable Rouge
@@ -68,29 +68,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261112-1@gengiscard.github.io
-DTSTAMP:20261112T115706Z
-DTSTART;TZID=Europe/Paris:20261112T200000
-DTEND;TZID=Europe/Paris:20261112T220000
-SUMMARY:Les Conférences du jeudi (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/manifestations/les-conferences-du-jeudi-1788394_A
-URL:https://www.jds.fr/saint-dizier/manifestations/les-conferences-du-jeudi-1788394_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261112-2@gengiscard.github.io
-DTSTAMP:20261112T115706Z
-DTSTART;TZID=Europe/Paris:20261112T200000
-DTEND;TZID=Europe/Paris:20261112T220000
-SUMMARY:Sortie "Vélo Ornitho" (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/sports/balades/sortie-velo-ornitho-1813455_A
-URL:https://www.jds.fr/saint-dizier/sports/balades/sortie-velo-ornitho-1813455_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261112-3@gengiscard.github.io
-DTSTAMP:20261112T115706Z
+DTSTAMP:20261113T114007Z
 DTSTART;TZID=Europe/Paris:20261112T200000
 DTEND;TZID=Europe/Paris:20261112T233000
 SUMMARY:Soirée au Casino JOA du Lac du Der (À CONFIRMER)
@@ -101,18 +79,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261113-1@gengiscard.github.io
-DTSTAMP:20261112T115706Z
-DTSTART;TZID=Europe/Paris:20261113T200000
-DTEND;TZID=Europe/Paris:20261113T220000
-SUMMARY:Portes ouvertes des structures d'insertion par l'activité économique en Alsace (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/grand-est/activite-experience/visites/portes-ouvertes-des-structures-d-insertion-par-l-activite-economique-en-alsace-1824112_A
-URL:https://www.jds.fr/grand-est/activite-experience/visites/portes-ouvertes-des-structures-d-insertion-par-l-activite-economique-en-alsace-1824112_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261113-2@gengiscard.github.io
-DTSTAMP:20261112T115706Z
+DTSTAMP:20261113T114007Z
 DTSTART;TZID=Europe/Paris:20261113T200000
 DTEND;TZID=Europe/Paris:20261113T220000
 SUMMARY:C'Est Décidé\, Je Deviens Une Connasse ! - Tournée (À CONFIRMER)
@@ -122,8 +89,8 @@ URL:https://www.jds.fr/saint-dizier/spectacles/humour/c-est-decide-je-deviens-un
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20261113-3@gengiscard.github.io
-DTSTAMP:20261112T115706Z
+UID:der-ia-20261113-2@gengiscard.github.io
+DTSTAMP:20261113T114007Z
 DTSTART;TZID=Europe/Paris:20261113T200000
 DTEND;TZID=Europe/Paris:20261113T220000
 SUMMARY:Théâtre Municipal - Saint-Dizier (À CONFIRMER)
@@ -133,8 +100,19 @@ URL:https://www.jds.fr/saint-dizier/salle-de-concert-spectacle/theatre-municipal
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
+UID:der-ia-20261113-3@gengiscard.github.io
+DTSTAMP:20261113T114007Z
+DTSTART;TZID=Europe/Paris:20261113T200000
+DTEND;TZID=Europe/Paris:20261113T220000
+SUMMARY:Portes ouvertes des structures d'insertion par l'activité économique en Alsace (À CONFIRMER)
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/grand-est/activite-experience/visites/portes-ouvertes-des-structures-d-insertion-par-l-activite-economique-en-alsace-1824112_A
+URL:https://www.jds.fr/grand-est/activite-experience/visites/portes-ouvertes-des-structures-d-insertion-par-l-activite-economique-en-alsace-1824112_A
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
 UID:der-ia-20261113-4@gengiscard.github.io
-DTSTAMP:20261112T115706Z
+DTSTAMP:20261113T114007Z
 DTSTART;TZID=Europe/Paris:20261113T200000
 DTEND;TZID=Europe/Paris:20261113T220000
 SUMMARY:Concerts au Bourricot (À CONFIRMER)
@@ -145,7 +123,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261113-5@gengiscard.github.io
-DTSTAMP:20261112T115706Z
+DTSTAMP:20261113T114007Z
 DTSTART;TZID=Europe/Paris:20261113T200000
 DTEND;TZID=Europe/Paris:20261113T220000
 SUMMARY:Observation coucher des grues (À CONFIRMER)
@@ -156,7 +134,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261113-6@gengiscard.github.io
-DTSTAMP:20261112T115706Z
+DTSTAMP:20261113T114007Z
 DTSTART;TZID=Europe/Paris:20261113T200000
 DTEND;TZID=Europe/Paris:20261113T220000
 SUMMARY:Une Action pour la Trame Verte et Bleue: La HAie à tous les étages (À CONFIRMER)
@@ -167,7 +145,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261114-1@gengiscard.github.io
-DTSTAMP:20261112T115706Z
+DTSTAMP:20261113T114007Z
 DTSTART;TZID=Europe/Paris:20261114T180000
 DTEND;TZID=Europe/Paris:20261114T220000
 SUMMARY:Metalfest / Sidilarsen / Praetor / Ianwill...
@@ -178,7 +156,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261114-2@gengiscard.github.io
-DTSTAMP:20261112T115706Z
+DTSTAMP:20261113T114007Z
 DTSTART;TZID=Europe/Paris:20261114T180000
 DTEND;TZID=Europe/Paris:20261114T220000
 SUMMARY:Les Fuseaux - Saint-Dizier
@@ -189,7 +167,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261114-3@gengiscard.github.io
-DTSTAMP:20261112T115706Z
+DTSTAMP:20261113T114007Z
 DTSTART;TZID=Europe/Paris:20261114T200000
 DTEND;TZID=Europe/Paris:20261114T220000
 SUMMARY:Marché de Noël et bourse aux jouets (À CONFIRMER)
@@ -200,7 +178,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261114-4@gengiscard.github.io
-DTSTAMP:20261112T115706Z
+DTSTAMP:20261113T114007Z
 DTSTART;TZID=Europe/Paris:20261114T200000
 DTEND;TZID=Europe/Paris:20261114T220000
 SUMMARY:Randonnée "Grues" (À CONFIRMER)
@@ -211,7 +189,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261114-5@gengiscard.github.io
-DTSTAMP:20261112T115706Z
+DTSTAMP:20261113T114007Z
 DTSTART;TZID=Europe/Paris:20261114T200000
 DTEND;TZID=Europe/Paris:20261114T220000
 SUMMARY:Metalfest / Sidilarsen / Praetor / Ianwill... Le 14/11/2026 Les Fuseaux - Saint- (À CONFIRMER)
@@ -222,7 +200,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261114-6@gengiscard.github.io
-DTSTAMP:20261112T115706Z
+DTSTAMP:20261113T114007Z
 DTSTART;TZID=Europe/Paris:20261114T200000
 DTEND;TZID=Europe/Paris:20261114T220000
 SUMMARY:Festival Eclectik Rock (À CONFIRMER)
@@ -233,7 +211,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261114-7@gengiscard.github.io
-DTSTAMP:20261112T115706Z
+DTSTAMP:20261113T114007Z
 DTSTART;TZID=Europe/Paris:20261114T200000
 DTEND;TZID=Europe/Paris:20261114T220000
 SUMMARY:Voir les 35 spectacles et concerts arrow_downward (À CONFIRMER)
@@ -244,7 +222,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261114-8@gengiscard.github.io
-DTSTAMP:20261112T115706Z
+DTSTAMP:20261113T114007Z
 DTSTART;TZID=Europe/Paris:20261114T200000
 DTEND;TZID=Europe/Paris:20261114T220000
 SUMMARY:En savoir plus sur le lieu (À CONFIRMER)
@@ -255,7 +233,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261115-1@gengiscard.github.io
-DTSTAMP:20261112T115706Z
+DTSTAMP:20261113T114007Z
 DTSTART;TZID=Europe/Paris:20261115T100000
 DTEND;TZID=Europe/Paris:20261115T180000
 SUMMARY:Plage & baignade — Giffaumont\, Lac du Der
@@ -266,7 +244,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261116-1@gengiscard.github.io
-DTSTAMP:20261112T115706Z
+DTSTAMP:20261113T114007Z
 DTSTART;TZID=Europe/Paris:20261116T200000
 DTEND;TZID=Europe/Paris:20261116T221500
 SUMMARY:Ciné du soir — Ciné Quai
@@ -277,7 +255,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261117-1@gengiscard.github.io
-DTSTAMP:20261112T115706Z
+DTSTAMP:20261113T114007Z
 DTSTART;TZID=Europe/Paris:20261117T180000
 DTEND;TZID=Europe/Paris:20261117T220000
 SUMMARY:Soirée arcade & bar — Arcadia
@@ -288,7 +266,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261118-1@gengiscard.github.io
-DTSTAMP:20261112T115706Z
+DTSTAMP:20261113T114007Z
 DTSTART;TZID=Europe/Paris:20261118T173000
 DTEND;TZID=Europe/Paris:20261118T200000
 SUMMARY:Apéro lounge — Le Diable Rouge
@@ -299,7 +277,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261119-1@gengiscard.github.io
-DTSTAMP:20261112T115706Z
+DTSTAMP:20261113T114007Z
 DTSTART;TZID=Europe/Paris:20261119T200000
 DTEND;TZID=Europe/Paris:20261119T220000
 SUMMARY:Les Echappées Blues - Noa Carmignat (À CONFIRMER)
@@ -310,7 +288,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261119-2@gengiscard.github.io
-DTSTAMP:20261112T115706Z
+DTSTAMP:20261113T114007Z
 DTSTART;TZID=Europe/Paris:20261119T200000
 DTEND;TZID=Europe/Paris:20261119T220000
 SUMMARY:Festival de photo animalière à Montier en Der 2026 19/11/2026 → 22/11/2026 Monti (À CONFIRMER)
@@ -321,7 +299,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261119-3@gengiscard.github.io
-DTSTAMP:20261112T115706Z
+DTSTAMP:20261113T114007Z
 DTSTART;TZID=Europe/Paris:20261119T200000
 DTEND;TZID=Europe/Paris:20261119T233000
 SUMMARY:Soirée au Casino JOA du Lac du Der (À CONFIRMER)
@@ -332,7 +310,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261120-1@gengiscard.github.io
-DTSTAMP:20261112T115706Z
+DTSTAMP:20261113T114007Z
 DTSTART;TZID=Europe/Paris:20261120T180000
 DTEND;TZID=Europe/Paris:20261120T220000
 SUMMARY:Soirée du vendredi — Bar de l'Agriculture
@@ -343,7 +321,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261121-1@gengiscard.github.io
-DTSTAMP:20261112T115706Z
+DTSTAMP:20261113T114007Z
 DTSTART;TZID=Europe/Paris:20261121T100000
 DTEND;TZID=Europe/Paris:20261121T180000
 SUMMARY:Plage & baignade — Giffaumont\, Lac du Der
@@ -354,7 +332,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261121-2@gengiscard.github.io
-DTSTAMP:20261112T115706Z
+DTSTAMP:20261113T114007Z
 DTSTART;TZID=Europe/Paris:20261121T200000
 DTEND;TZID=Europe/Paris:20261121T220000
 SUMMARY:Les Echappées Blues - Julian The Drifter (À CONFIRMER)
@@ -365,7 +343,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261122-1@gengiscard.github.io
-DTSTAMP:20261112T115706Z
+DTSTAMP:20261113T114007Z
 DTSTART;TZID=Europe/Paris:20261122T200000
 DTEND;TZID=Europe/Paris:20261122T220000
 SUMMARY:Festival de photo animalière à Montier en Der 2026 (À CONFIRMER)
@@ -376,7 +354,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261122-2@gengiscard.github.io
-DTSTAMP:20261112T115706Z
+DTSTAMP:20261113T114007Z
 DTSTART;TZID=Europe/Paris:20261122T200000
 DTEND;TZID=Europe/Paris:20261122T220000
 SUMMARY:Toutes les sorties à venir à Saint-Dizier (À CONFIRMER)
@@ -387,7 +365,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261122-3@gengiscard.github.io
-DTSTAMP:20261112T115706Z
+DTSTAMP:20261113T114007Z
 DTSTART;TZID=Europe/Paris:20261122T203000
 DTEND;TZID=Europe/Paris:20261122T220000
 SUMMARY:Golden hour photo au Der — port de Giffaumont
