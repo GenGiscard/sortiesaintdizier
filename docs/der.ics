@@ -24,7 +24,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:der-ia-20261116-1@gengiscard.github.io
-DTSTAMP:20261117T123424Z
+DTSTAMP:20261118T122327Z
 DTSTART;TZID=Europe/Paris:20261116T200000
 DTEND;TZID=Europe/Paris:20261116T221500
 SUMMARY:Ciné du soir — Ciné Quai
@@ -35,7 +35,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261116-2@gengiscard.github.io
-DTSTAMP:20261117T123424Z
+DTSTAMP:20261118T122327Z
 DTSTART;TZID=Europe/Paris:20261116T203000
 DTEND;TZID=Europe/Paris:20261116T220000
 SUMMARY:Golden hour photo au Der — port de Giffaumont
@@ -46,7 +46,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261117-1@gengiscard.github.io
-DTSTAMP:20261117T123424Z
+DTSTAMP:20261118T122327Z
 DTSTART;TZID=Europe/Paris:20261117T180000
 DTEND;TZID=Europe/Paris:20261117T220000
 SUMMARY:Soirée arcade & bar — Arcadia
@@ -56,19 +56,8 @@ URL:https://www.google.com/maps/search/?api=1&query=Arcadia+Saint-Dizier
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20261117-2@gengiscard.github.io
-DTSTAMP:20261117T123424Z
-DTSTART;TZID=Europe/Paris:20261117T200000
-DTEND;TZID=Europe/Paris:20261117T220000
-SUMMARY:Observation coucher des grues (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/sports/balades/observation-coucher-des-grues-1823114_A
-URL:https://www.jds.fr/saint-dizier/sports/balades/observation-coucher-des-grues-1823114_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
 UID:der-ia-20261118-1@gengiscard.github.io
-DTSTAMP:20261117T123424Z
+DTSTAMP:20261118T122327Z
 DTSTART;TZID=Europe/Paris:20261118T173000
 DTEND;TZID=Europe/Paris:20261118T200000
 SUMMARY:Apéro lounge — Le Diable Rouge
@@ -79,7 +68,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261118-2@gengiscard.github.io
-DTSTAMP:20261117T123424Z
+DTSTAMP:20261118T122327Z
 DTSTART;TZID=Europe/Paris:20261118T200000
 DTEND;TZID=Europe/Paris:20261118T220000
 SUMMARY:Randonnée "Grues" (À CONFIRMER)
@@ -90,7 +79,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261119-1@gengiscard.github.io
-DTSTAMP:20261117T123424Z
+DTSTAMP:20261118T122327Z
 DTSTART;TZID=Europe/Paris:20261119T200000
 DTEND;TZID=Europe/Paris:20261119T220000
 SUMMARY:Les Echappées Blues - Noa Carmignat (À CONFIRMER)
@@ -101,7 +90,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261119-2@gengiscard.github.io
-DTSTAMP:20261117T123424Z
+DTSTAMP:20261118T122327Z
 DTSTART;TZID=Europe/Paris:20261119T200000
 DTEND;TZID=Europe/Paris:20261119T220000
 SUMMARY:Autour Du Fil (À CONFIRMER)
@@ -112,7 +101,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261119-3@gengiscard.github.io
-DTSTAMP:20261117T123424Z
+DTSTAMP:20261118T122327Z
 DTSTART;TZID=Europe/Paris:20261119T200000
 DTEND;TZID=Europe/Paris:20261119T220000
 SUMMARY:Festival international de la photo animalière et de Nature (À CONFIRMER)
@@ -123,7 +112,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261119-4@gengiscard.github.io
-DTSTAMP:20261117T123424Z
+DTSTAMP:20261118T122327Z
 DTSTART;TZID=Europe/Paris:20261119T200000
 DTEND;TZID=Europe/Paris:20261119T220000
 SUMMARY:Sortie "Vélo Ornitho" (À CONFIRMER)
@@ -134,18 +123,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261119-5@gengiscard.github.io
-DTSTAMP:20261117T123424Z
-DTSTART;TZID=Europe/Paris:20261119T200000
-DTEND;TZID=Europe/Paris:20261119T220000
-SUMMARY:Théâtre gestuel et marionnette : Dimanche (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/spectacles/theatre/theatre-gestuel-et-marionnette-dimanche-1675731_A
-URL:https://www.jds.fr/saint-dizier/spectacles/theatre/theatre-gestuel-et-marionnette-dimanche-1675731_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261119-6@gengiscard.github.io
-DTSTAMP:20261117T123424Z
+DTSTAMP:20261118T122327Z
 DTSTART;TZID=Europe/Paris:20261119T200000
 DTEND;TZID=Europe/Paris:20261119T220000
 SUMMARY:Festival de photo animalière à Montier en Der 2026 19/11/2026 → 22/11/2026 Monti (À CONFIRMER)
@@ -155,8 +133,8 @@ URL:https://www.jds.fr/saint-dizier/manifestations/festival/festival-photo-monti
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20261119-7@gengiscard.github.io
-DTSTAMP:20261117T123424Z
+UID:der-ia-20261119-6@gengiscard.github.io
+DTSTAMP:20261118T122327Z
 DTSTART;TZID=Europe/Paris:20261119T200000
 DTEND;TZID=Europe/Paris:20261119T220000
 SUMMARY:Dimanche (À CONFIRMER)
@@ -166,8 +144,8 @@ URL:https://52.agendaculturel.fr/theatre/saint-dizier/dimanche.html
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20261119-8@gengiscard.github.io
-DTSTAMP:20261117T123424Z
+UID:der-ia-20261119-7@gengiscard.github.io
+DTSTAMP:20261118T122327Z
 DTSTART;TZID=Europe/Paris:20261119T200000
 DTEND;TZID=Europe/Paris:20261119T220000
 SUMMARY:Voir les 34 spectacles et concerts arrow_downward (À CONFIRMER)
@@ -177,8 +155,19 @@ URL:https://52.agendaculturel.fr#programmation
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
+UID:der-ia-20261119-8@gengiscard.github.io
+DTSTAMP:20261118T122327Z
+DTSTART;TZID=Europe/Paris:20261119T200000
+DTEND;TZID=Europe/Paris:20261119T220000
+SUMMARY:En savoir plus sur le lieu (À CONFIRMER)
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur 52.agendaculturel.fr — recouper l'horaire sur la fiche.\nhttps://52.agendaculturel.fr#infos
+URL:https://52.agendaculturel.fr#infos
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
 UID:der-ia-20261120-1@gengiscard.github.io
-DTSTAMP:20261117T123424Z
+DTSTAMP:20261118T122327Z
 DTSTART;TZID=Europe/Paris:20261120T180000
 DTEND;TZID=Europe/Paris:20261120T220000
 SUMMARY:Soirée du vendredi — Bar de l'Agriculture
@@ -189,7 +178,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261121-1@gengiscard.github.io
-DTSTAMP:20261117T123424Z
+DTSTAMP:20261118T122327Z
 DTSTART;TZID=Europe/Paris:20261121T200000
 DTEND;TZID=Europe/Paris:20261121T220000
 SUMMARY:Les Echappées Blues - Julian The Drifter (À CONFIRMER)
@@ -200,7 +189,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261121-2@gengiscard.github.io
-DTSTAMP:20261117T123424Z
+DTSTAMP:20261118T122327Z
 DTSTART;TZID=Europe/Paris:20261121T200000
 DTEND;TZID=Europe/Paris:20261121T233000
 SUMMARY:Soirée au Casino JOA du Lac du Der (À CONFIRMER)
@@ -211,7 +200,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261122-1@gengiscard.github.io
-DTSTAMP:20261117T123424Z
+DTSTAMP:20261118T122327Z
 DTSTART;TZID=Europe/Paris:20261122T100000
 DTEND;TZID=Europe/Paris:20261122T180000
 SUMMARY:Plage & baignade — Giffaumont\, Lac du Der
@@ -222,7 +211,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261122-2@gengiscard.github.io
-DTSTAMP:20261117T123424Z
+DTSTAMP:20261118T122327Z
 DTSTART;TZID=Europe/Paris:20261122T200000
 DTEND;TZID=Europe/Paris:20261122T220000
 SUMMARY:Festival de photo animalière à Montier en Der 2026 (À CONFIRMER)
@@ -233,7 +222,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261122-3@gengiscard.github.io
-DTSTAMP:20261117T123424Z
+DTSTAMP:20261118T122327Z
 DTSTART;TZID=Europe/Paris:20261122T200000
 DTEND;TZID=Europe/Paris:20261122T220000
 SUMMARY:Toutes les sorties à venir à Saint-Dizier (À CONFIRMER)
@@ -244,7 +233,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261123-1@gengiscard.github.io
-DTSTAMP:20261117T123424Z
+DTSTAMP:20261118T122327Z
 DTSTART;TZID=Europe/Paris:20261123T200000
 DTEND;TZID=Europe/Paris:20261123T221500
 SUMMARY:Ciné du soir — Ciné Quai
@@ -254,19 +243,8 @@ URL:https://www.google.com/maps/search/?api=1&query=Cine+Quai+Saint-Dizier
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20261123-2@gengiscard.github.io
-DTSTAMP:20261117T123424Z
-DTSTART;TZID=Europe/Paris:20261123T203000
-DTEND;TZID=Europe/Paris:20261123T220000
-SUMMARY:Golden hour photo au Der — port de Giffaumont
-LOCATION:Port de Giffaumont / digue du Der\, 51290 Giffaumont-Champaubert (~20 min)
-DESCRIPTION:Budget : GRATUIT\nCouchers de soleil spectaculaires sur 4800 ha d'eau — spot réputé des photographes (et des grues en automne).\nhttps://www.lacduder.com/
-URL:https://www.lacduder.com/
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
 UID:der-ia-20261124-1@gengiscard.github.io
-DTSTAMP:20261117T123424Z
+DTSTAMP:20261118T122327Z
 DTSTART;TZID=Europe/Paris:20261124T180000
 DTEND;TZID=Europe/Paris:20261124T220000
 SUMMARY:Soirée arcade & bar — Arcadia
@@ -277,7 +255,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261125-1@gengiscard.github.io
-DTSTAMP:20261117T123424Z
+DTSTAMP:20261118T122327Z
 DTSTART;TZID=Europe/Paris:20261125T173000
 DTEND;TZID=Europe/Paris:20261125T200000
 SUMMARY:Apéro lounge — Le Diable Rouge
@@ -288,7 +266,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261126-1@gengiscard.github.io
-DTSTAMP:20261117T123424Z
+DTSTAMP:20261118T122327Z
 DTSTART;TZID=Europe/Paris:20261126T200000
 DTEND;TZID=Europe/Paris:20261126T233000
 SUMMARY:Soirée au Casino JOA du Lac du Der (À CONFIRMER)
@@ -299,7 +277,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261127-1@gengiscard.github.io
-DTSTAMP:20261117T123424Z
+DTSTAMP:20261118T122327Z
 DTSTART;TZID=Europe/Paris:20261127T180000
 DTEND;TZID=Europe/Paris:20261127T220000
 SUMMARY:Soirée du vendredi — Bar de l'Agriculture
@@ -310,7 +288,18 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261128-1@gengiscard.github.io
-DTSTAMP:20261117T123424Z
+DTSTAMP:20261118T122327Z
+DTSTART;TZID=Europe/Paris:20261128T100000
+DTEND;TZID=Europe/Paris:20261128T180000
+SUMMARY:Plage & baignade — Giffaumont\, Lac du Der
+LOCATION:Plage de Giffaumont\, 51290 Giffaumont-Champaubert (~20 min)
+DESCRIPTION:Budget : GRATUIT\nPlage surveillée en été sur le plus grand lac artificiel de France — baignade\, volley\, paddle à louer.\nhttps://www.lacduder.com/
+URL:https://www.lacduder.com/
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20261128-2@gengiscard.github.io
+DTSTAMP:20261118T122327Z
 DTSTART;TZID=Europe/Paris:20261128T200000
 DTEND;TZID=Europe/Paris:20261128T220000
 SUMMARY:Michel Jonasz et Jean-Yves D’angelo - Saison 5 - Tournée Le 28/11/2026 Les Fusea (À CONFIRMER)
@@ -320,19 +309,8 @@ URL:https://www.jds.fr/saint-dizier/concerts/jazz/michel-jonasz-et-jean-yves-d-a
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20261128-2@gengiscard.github.io
-DTSTAMP:20261117T123424Z
-DTSTART;TZID=Europe/Paris:20261128T200000
-DTEND;TZID=Europe/Paris:20261128T220000
-SUMMARY:La Fééria Barisienne 2026 Le 28/11/2026 Bar-le-Duc Courses (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/bar-le-duc/sports/courses/course-la-feeria-barisienne-bar-le-duc-114478_A
-URL:https://www.jds.fr/bar-le-duc/sports/courses/course-la-feeria-barisienne-bar-le-duc-114478_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
 UID:der-ia-20261128-3@gengiscard.github.io
-DTSTAMP:20261117T123424Z
+DTSTAMP:20261118T122327Z
 DTSTART;TZID=Europe/Paris:20261128T203000
 DTEND;TZID=Europe/Paris:20261128T220000
 SUMMARY:Michel Jonasz et Jean-Yves D’angelo - Saison 5 - Tournée
@@ -343,7 +321,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261128-4@gengiscard.github.io
-DTSTAMP:20261117T123424Z
+DTSTAMP:20261118T122327Z
 DTSTART;TZID=Europe/Paris:20261128T203000
 DTEND;TZID=Europe/Paris:20261128T220000
 SUMMARY:Les Fuseaux - Saint-Dizier
@@ -354,12 +332,12 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261129-1@gengiscard.github.io
-DTSTAMP:20261117T123424Z
-DTSTART;TZID=Europe/Paris:20261129T100000
-DTEND;TZID=Europe/Paris:20261129T180000
-SUMMARY:Plage & baignade — Giffaumont\, Lac du Der
-LOCATION:Plage de Giffaumont\, 51290 Giffaumont-Champaubert (~20 min)
-DESCRIPTION:Budget : GRATUIT\nPlage surveillée en été sur le plus grand lac artificiel de France — baignade\, volley\, paddle à louer.\nhttps://www.lacduder.com/
+DTSTAMP:20261118T122327Z
+DTSTART;TZID=Europe/Paris:20261129T203000
+DTEND;TZID=Europe/Paris:20261129T220000
+SUMMARY:Golden hour photo au Der — port de Giffaumont
+LOCATION:Port de Giffaumont / digue du Der\, 51290 Giffaumont-Champaubert (~20 min)
+DESCRIPTION:Budget : GRATUIT\nCouchers de soleil spectaculaires sur 4800 ha d'eau — spot réputé des photographes (et des grues en automne).\nhttps://www.lacduder.com/
 URL:https://www.lacduder.com/
 CATEGORIES:IA
 END:VEVENT
