@@ -24,7 +24,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:der-ia-20261123-1@gengiscard.github.io
-DTSTAMP:20261126T131807Z
+DTSTAMP:20261127T131509Z
 DTSTART;TZID=Europe/Paris:20261123T200000
 DTEND;TZID=Europe/Paris:20261123T221500
 SUMMARY:Ciné du soir — Ciné Quai
@@ -35,7 +35,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261123-2@gengiscard.github.io
-DTSTAMP:20261126T131807Z
+DTSTAMP:20261127T131509Z
 DTSTART;TZID=Europe/Paris:20261123T203000
 DTEND;TZID=Europe/Paris:20261123T220000
 SUMMARY:Golden hour photo au Der — port de Giffaumont
@@ -46,7 +46,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261124-1@gengiscard.github.io
-DTSTAMP:20261126T131807Z
+DTSTAMP:20261127T131509Z
 DTSTART;TZID=Europe/Paris:20261124T180000
 DTEND;TZID=Europe/Paris:20261124T220000
 SUMMARY:Soirée arcade & bar — Arcadia
@@ -57,7 +57,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261125-1@gengiscard.github.io
-DTSTAMP:20261126T131807Z
+DTSTAMP:20261127T131509Z
 DTSTART;TZID=Europe/Paris:20261125T173000
 DTEND;TZID=Europe/Paris:20261125T200000
 SUMMARY:Apéro lounge — Le Diable Rouge
@@ -68,29 +68,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261126-1@gengiscard.github.io
-DTSTAMP:20261126T131807Z
-DTSTART;TZID=Europe/Paris:20261126T200000
-DTEND;TZID=Europe/Paris:20261126T220000
-SUMMARY:Animales – Pourquoi sommes-nous sortis de la forêt ? (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/manifestations/animales-pourquoi-sommes-nous-sortis-de-la-foret-1804638_A
-URL:https://www.jds.fr/saint-dizier/manifestations/animales-pourquoi-sommes-nous-sortis-de-la-foret-1804638_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261126-2@gengiscard.github.io
-DTSTAMP:20261126T131807Z
-DTSTART;TZID=Europe/Paris:20261126T200000
-DTEND;TZID=Europe/Paris:20261126T220000
-SUMMARY:Sortie "Vélo Ornitho" (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/sports/balades/sortie-velo-ornitho-1813455_A
-URL:https://www.jds.fr/saint-dizier/sports/balades/sortie-velo-ornitho-1813455_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261126-3@gengiscard.github.io
-DTSTAMP:20261126T131807Z
+DTSTAMP:20261127T131509Z
 DTSTART;TZID=Europe/Paris:20261126T200000
 DTEND;TZID=Europe/Paris:20261126T233000
 SUMMARY:Soirée au Casino JOA du Lac du Der (À CONFIRMER)
@@ -101,7 +79,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261127-1@gengiscard.github.io
-DTSTAMP:20261126T131807Z
+DTSTAMP:20261127T131509Z
 DTSTART;TZID=Europe/Paris:20261127T180000
 DTEND;TZID=Europe/Paris:20261127T220000
 SUMMARY:Soirée du vendredi — Bar de l'Agriculture
@@ -112,7 +90,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261127-2@gengiscard.github.io
-DTSTAMP:20261126T131807Z
+DTSTAMP:20261127T131509Z
 DTSTART;TZID=Europe/Paris:20261127T200000
 DTEND;TZID=Europe/Paris:20261127T220000
 SUMMARY:Le Concert du Mois (À CONFIRMER)
@@ -123,7 +101,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261127-3@gengiscard.github.io
-DTSTAMP:20261126T131807Z
+DTSTAMP:20261127T131509Z
 DTSTART;TZID=Europe/Paris:20261127T200000
 DTEND;TZID=Europe/Paris:20261127T220000
 SUMMARY:Observation coucher des grues (À CONFIRMER)
@@ -134,7 +112,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261127-4@gengiscard.github.io
-DTSTAMP:20261126T131807Z
+DTSTAMP:20261127T131509Z
 DTSTART;TZID=Europe/Paris:20261127T200000
 DTEND;TZID=Europe/Paris:20261127T220000
 SUMMARY:Soirée Karaoké au Bourricot (À CONFIRMER)
@@ -145,40 +123,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261128-1@gengiscard.github.io
-DTSTAMP:20261126T131807Z
-DTSTART;TZID=Europe/Paris:20261128T200000
-DTEND;TZID=Europe/Paris:20261128T220000
-SUMMARY:Blind Test au Casino JOA (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/foires-et-salons/marches/blind-test-au-casino-joa-1834577_A
-URL:https://www.jds.fr/saint-dizier/foires-et-salons/marches/blind-test-au-casino-joa-1834577_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261128-2@gengiscard.github.io
-DTSTAMP:20261126T131807Z
-DTSTART;TZID=Europe/Paris:20261128T200000
-DTEND;TZID=Europe/Paris:20261128T220000
-SUMMARY:Ateliers enfants pour découvrir l'univers du cirque 🤹🏻 Le 28/11/2026 La Comète - (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-louis/activite-experience/ateliers/ateliers-cirque-1350959_A
-URL:https://www.jds.fr/saint-louis/activite-experience/ateliers/ateliers-cirque-1350959_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261128-3@gengiscard.github.io
-DTSTAMP:20261126T131807Z
-DTSTART;TZID=Europe/Paris:20261128T200000
-DTEND;TZID=Europe/Paris:20261128T220000
-SUMMARY:FreiBow : nouveautés\, expertise et animations autour du tir à l'arc 28/11/2026 → (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/foires-et-salons/foires/3-edition-de-freibow-2026-nouveautes-expertise-et-animations-autour-du-tir-a-l-arc-1864471_A
-URL:https://www.jds.fr/foires-et-salons/foires/3-edition-de-freibow-2026-nouveautes-expertise-et-animations-autour-du-tir-a-l-arc-1864471_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261128-4@gengiscard.github.io
-DTSTAMP:20261126T131807Z
+DTSTAMP:20261127T131509Z
 DTSTART;TZID=Europe/Paris:20261128T200000
 DTEND;TZID=Europe/Paris:20261128T220000
 SUMMARY:Michel Jonasz (À CONFIRMER)
@@ -188,8 +133,8 @@ URL:https://52.agendaculturel.fr/concert/saint-dizier/michel-jonasz.html
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20261128-5@gengiscard.github.io
-DTSTAMP:20261126T131807Z
+UID:der-ia-20261128-2@gengiscard.github.io
+DTSTAMP:20261127T131509Z
 DTSTART;TZID=Europe/Paris:20261128T200000
 DTEND;TZID=Europe/Paris:20261128T220000
 SUMMARY:Voir les 34 spectacles et concerts arrow_downward (À CONFIRMER)
@@ -199,8 +144,8 @@ URL:https://52.agendaculturel.fr#programmation
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20261128-6@gengiscard.github.io
-DTSTAMP:20261126T131807Z
+UID:der-ia-20261128-3@gengiscard.github.io
+DTSTAMP:20261127T131509Z
 DTSTART;TZID=Europe/Paris:20261128T200000
 DTEND;TZID=Europe/Paris:20261128T220000
 SUMMARY:En savoir plus sur le lieu (À CONFIRMER)
@@ -210,8 +155,8 @@ URL:https://52.agendaculturel.fr#infos
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20261128-7@gengiscard.github.io
-DTSTAMP:20261126T131807Z
+UID:der-ia-20261128-4@gengiscard.github.io
+DTSTAMP:20261127T131509Z
 DTSTART;TZID=Europe/Paris:20261128T203000
 DTEND;TZID=Europe/Paris:20261128T220000
 SUMMARY:Michel Jonasz et Jean-Yves D’angelo - Saison 5 - Tournée
@@ -222,7 +167,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261129-1@gengiscard.github.io
-DTSTAMP:20261126T131807Z
+DTSTAMP:20261127T131509Z
 DTSTART;TZID=Europe/Paris:20261129T100000
 DTEND;TZID=Europe/Paris:20261129T180000
 SUMMARY:Plage & baignade — Giffaumont\, Lac du Der
@@ -233,18 +178,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261130-1@gengiscard.github.io
-DTSTAMP:20261126T131807Z
-DTSTART;TZID=Europe/Paris:20261130T200000
-DTEND;TZID=Europe/Paris:20261130T220000
-SUMMARY:Conseil communautaire du 30 novembre 2026 à Saint-Dizier (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.saint-dizier.fr — recouper l'horaire sur la fiche.\nhttps://www.saint-dizier.fr/actualites/conseil-communautaire-du-30-novembre-2026-a-saint-dizier/
-URL:https://www.saint-dizier.fr/actualites/conseil-communautaire-du-30-novembre-2026-a-saint-dizier/
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261130-2@gengiscard.github.io
-DTSTAMP:20261126T131807Z
+DTSTAMP:20261127T131509Z
 DTSTART;TZID=Europe/Paris:20261130T200000
 DTEND;TZID=Europe/Paris:20261130T221500
 SUMMARY:Ciné du soir — Ciné Quai
@@ -254,8 +188,19 @@ URL:https://www.google.com/maps/search/?api=1&query=Cine+Quai+Saint-Dizier
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
+UID:der-ia-20261130-2@gengiscard.github.io
+DTSTAMP:20261127T131509Z
+DTSTART;TZID=Europe/Paris:20261130T203000
+DTEND;TZID=Europe/Paris:20261130T220000
+SUMMARY:Golden hour photo au Der — port de Giffaumont
+LOCATION:Port de Giffaumont / digue du Der\, 51290 Giffaumont-Champaubert (~20 min)
+DESCRIPTION:Budget : GRATUIT\nCouchers de soleil spectaculaires sur 4800 ha d'eau — spot réputé des photographes (et des grues en automne).\nhttps://www.lacduder.com/
+URL:https://www.lacduder.com/
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
 UID:der-ia-20261201-1@gengiscard.github.io
-DTSTAMP:20261126T131807Z
+DTSTAMP:20261127T131509Z
 DTSTART;TZID=Europe/Paris:20261201T180000
 DTEND;TZID=Europe/Paris:20261201T220000
 SUMMARY:Soirée arcade & bar — Arcadia
@@ -265,19 +210,8 @@ URL:https://www.google.com/maps/search/?api=1&query=Arcadia+Saint-Dizier
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20261201-2@gengiscard.github.io
-DTSTAMP:20261126T131807Z
-DTSTART;TZID=Europe/Paris:20261201T200000
-DTEND;TZID=Europe/Paris:20261201T220000
-SUMMARY:Concert de Noël Vivaldi 4 Saisons - Orchestre de Chambre Euroccitanie Le 01/12/2 (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/strasbourg/concerts/musique-classique/concert-de-noel-vivaldi-4-saisons-orchestre-de-chambre-euroccitanie-1842181_A
-URL:https://www.jds.fr/strasbourg/concerts/musique-classique/concert-de-noel-vivaldi-4-saisons-orchestre-de-chambre-euroccitanie-1842181_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
 UID:der-ia-20261202-1@gengiscard.github.io
-DTSTAMP:20261126T131807Z
+DTSTAMP:20261127T131509Z
 DTSTART;TZID=Europe/Paris:20261202T173000
 DTEND;TZID=Europe/Paris:20261202T200000
 SUMMARY:Apéro lounge — Le Diable Rouge
@@ -288,18 +222,18 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261203-1@gengiscard.github.io
-DTSTAMP:20261126T131807Z
+DTSTAMP:20261127T131509Z
 DTSTART;TZID=Europe/Paris:20261203T200000
-DTEND;TZID=Europe/Paris:20261203T233000
-SUMMARY:Soirée au Casino JOA du Lac du Der (À CONFIRMER)
-LOCATION:Casino JOA du Lac du Der\, Station Nautique\, 51290 Giffaumont-Champaubert (~20 min)
-DESCRIPTION:Budget : Entrée gratuite — se fixer une limite (≤50€ !)\nBar des Sports\, restaurant\, karaokés et soirées à thème régulières (voir programme du mois).\nhttps://www.joa.fr/casinos/lac-du-der
-URL:https://www.joa.fr/casinos/lac-du-der
+DTEND;TZID=Europe/Paris:20261203T220000
+SUMMARY:Barbara Pravi Le 03/12/2026 Les Fuseaux - Saint-Dizier Chanson française (À CONFIRMER)
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/concerts/chanson-francaise/barbara-pravi-1668034_A
+URL:https://www.jds.fr/saint-dizier/concerts/chanson-francaise/barbara-pravi-1668034_A
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261203-2@gengiscard.github.io
-DTSTAMP:20261126T131807Z
+DTSTAMP:20261127T131509Z
 DTSTART;TZID=Europe/Paris:20261203T203000
 DTEND;TZID=Europe/Paris:20261203T220000
 SUMMARY:Barbara Pravi
@@ -310,7 +244,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261203-3@gengiscard.github.io
-DTSTAMP:20261126T131807Z
+DTSTAMP:20261127T131509Z
 DTSTART;TZID=Europe/Paris:20261203T203000
 DTEND;TZID=Europe/Paris:20261203T220000
 SUMMARY:Les Fuseaux - Saint-Dizier
@@ -321,7 +255,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261203-4@gengiscard.github.io
-DTSTAMP:20261126T131807Z
+DTSTAMP:20261127T131509Z
 DTSTART;TZID=Europe/Paris:20261203T203000
 DTEND;TZID=Europe/Paris:20261203T220000
 SUMMARY:Toutes les sorties à venir à Saint-Dizier
@@ -332,7 +266,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261204-1@gengiscard.github.io
-DTSTAMP:20261126T131807Z
+DTSTAMP:20261127T131509Z
 DTSTART;TZID=Europe/Paris:20261204T180000
 DTEND;TZID=Europe/Paris:20261204T220000
 SUMMARY:Soirée du vendredi — Bar de l'Agriculture
@@ -342,46 +276,24 @@ URL:https://www.google.com/maps/search/?api=1&query=Bar+de+l+Agriculture+Saint-D
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20261204-2@gengiscard.github.io
-DTSTAMP:20261126T131807Z
-DTSTART;TZID=Europe/Paris:20261204T200000
-DTEND;TZID=Europe/Paris:20261204T220000
-SUMMARY:Petit village de Noël à Huningue 04/12/2026 → 13/12/2026 Place Abbatucci - Hunin (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-louis/manifestations/marche-de-noel/marche-noel-huningue-64956_A
-URL:https://www.jds.fr/saint-louis/manifestations/marche-de-noel/marche-noel-huningue-64956_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261204-3@gengiscard.github.io
-DTSTAMP:20261126T131807Z
-DTSTART;TZID=Europe/Paris:20261204T200000
-DTEND;TZID=Europe/Paris:20261204T220000
-SUMMARY:Marché de Noël à Illzach 2026 04/12/2026 → 06/12/2026 Illzach Marché de Noël (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/mulhouse/manifestations/marche-de-noel/marche-de-noel-illzach-94035_A
-URL:https://www.jds.fr/mulhouse/manifestations/marche-de-noel/marche-de-noel-illzach-94035_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
 UID:der-ia-20261205-1@gengiscard.github.io
-DTSTAMP:20261126T131807Z
-DTSTART;TZID=Europe/Paris:20261205T100000
-DTEND;TZID=Europe/Paris:20261205T180000
-SUMMARY:Plage & baignade — Giffaumont\, Lac du Der
-LOCATION:Plage de Giffaumont\, 51290 Giffaumont-Champaubert (~20 min)
-DESCRIPTION:Budget : GRATUIT\nPlage surveillée en été sur le plus grand lac artificiel de France — baignade\, volley\, paddle à louer.\nhttps://www.lacduder.com/
-URL:https://www.lacduder.com/
+DTSTAMP:20261127T131509Z
+DTSTART;TZID=Europe/Paris:20261205T200000
+DTEND;TZID=Europe/Paris:20261205T233000
+SUMMARY:Soirée au Casino JOA du Lac du Der (À CONFIRMER)
+LOCATION:Casino JOA du Lac du Der\, Station Nautique\, 51290 Giffaumont-Champaubert (~20 min)
+DESCRIPTION:Budget : Entrée gratuite — se fixer une limite (≤50€ !)\nBar des Sports\, restaurant\, karaokés et soirées à thème régulières (voir programme du mois).\nhttps://www.joa.fr/casinos/lac-du-der
+URL:https://www.joa.fr/casinos/lac-du-der
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261206-1@gengiscard.github.io
-DTSTAMP:20261126T131807Z
-DTSTART;TZID=Europe/Paris:20261206T203000
-DTEND;TZID=Europe/Paris:20261206T220000
-SUMMARY:Golden hour photo au Der — port de Giffaumont
-LOCATION:Port de Giffaumont / digue du Der\, 51290 Giffaumont-Champaubert (~20 min)
-DESCRIPTION:Budget : GRATUIT\nCouchers de soleil spectaculaires sur 4800 ha d'eau — spot réputé des photographes (et des grues en automne).\nhttps://www.lacduder.com/
+DTSTAMP:20261127T131509Z
+DTSTART;TZID=Europe/Paris:20261206T100000
+DTEND;TZID=Europe/Paris:20261206T180000
+SUMMARY:Plage & baignade — Giffaumont\, Lac du Der
+LOCATION:Plage de Giffaumont\, 51290 Giffaumont-Champaubert (~20 min)
+DESCRIPTION:Budget : GRATUIT\nPlage surveillée en été sur le plus grand lac artificiel de France — baignade\, volley\, paddle à louer.\nhttps://www.lacduder.com/
 URL:https://www.lacduder.com/
 CATEGORIES:IA
 END:VEVENT
