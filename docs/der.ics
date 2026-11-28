@@ -24,7 +24,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:der-ia-20261123-1@gengiscard.github.io
-DTSTAMP:20261127T131509Z
+DTSTAMP:20261128T123052Z
 DTSTART;TZID=Europe/Paris:20261123T200000
 DTEND;TZID=Europe/Paris:20261123T221500
 SUMMARY:Ciné du soir — Ciné Quai
@@ -35,7 +35,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261123-2@gengiscard.github.io
-DTSTAMP:20261127T131509Z
+DTSTAMP:20261128T123052Z
 DTSTART;TZID=Europe/Paris:20261123T203000
 DTEND;TZID=Europe/Paris:20261123T220000
 SUMMARY:Golden hour photo au Der — port de Giffaumont
@@ -46,7 +46,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261124-1@gengiscard.github.io
-DTSTAMP:20261127T131509Z
+DTSTAMP:20261128T123052Z
 DTSTART;TZID=Europe/Paris:20261124T180000
 DTEND;TZID=Europe/Paris:20261124T220000
 SUMMARY:Soirée arcade & bar — Arcadia
@@ -57,7 +57,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261125-1@gengiscard.github.io
-DTSTAMP:20261127T131509Z
+DTSTAMP:20261128T123052Z
 DTSTART;TZID=Europe/Paris:20261125T173000
 DTEND;TZID=Europe/Paris:20261125T200000
 SUMMARY:Apéro lounge — Le Diable Rouge
@@ -68,7 +68,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261126-1@gengiscard.github.io
-DTSTAMP:20261127T131509Z
+DTSTAMP:20261128T123052Z
 DTSTART;TZID=Europe/Paris:20261126T200000
 DTEND;TZID=Europe/Paris:20261126T233000
 SUMMARY:Soirée au Casino JOA du Lac du Der (À CONFIRMER)
@@ -79,7 +79,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261127-1@gengiscard.github.io
-DTSTAMP:20261127T131509Z
+DTSTAMP:20261128T123052Z
 DTSTART;TZID=Europe/Paris:20261127T180000
 DTEND;TZID=Europe/Paris:20261127T220000
 SUMMARY:Soirée du vendredi — Bar de l'Agriculture
@@ -89,41 +89,41 @@ URL:https://www.google.com/maps/search/?api=1&query=Bar+de+l+Agriculture+Saint-D
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20261127-2@gengiscard.github.io
-DTSTAMP:20261127T131509Z
-DTSTART;TZID=Europe/Paris:20261127T200000
-DTEND;TZID=Europe/Paris:20261127T220000
-SUMMARY:Le Concert du Mois (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/concerts/le-concert-du-mois-1804633_A
-URL:https://www.jds.fr/saint-dizier/concerts/le-concert-du-mois-1804633_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261127-3@gengiscard.github.io
-DTSTAMP:20261127T131509Z
-DTSTART;TZID=Europe/Paris:20261127T200000
-DTEND;TZID=Europe/Paris:20261127T220000
-SUMMARY:Observation coucher des grues (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/sports/balades/observation-coucher-des-grues-1823114_A
-URL:https://www.jds.fr/saint-dizier/sports/balades/observation-coucher-des-grues-1823114_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
-UID:der-ia-20261127-4@gengiscard.github.io
-DTSTAMP:20261127T131509Z
-DTSTART;TZID=Europe/Paris:20261127T200000
-DTEND;TZID=Europe/Paris:20261127T220000
-SUMMARY:Soirée Karaoké au Bourricot (À CONFIRMER)
-LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
-DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/foires-et-salons/marches/soiree-karaoke-au-bourricot-1757780_A
-URL:https://www.jds.fr/saint-dizier/foires-et-salons/marches/soiree-karaoke-au-bourricot-1757780_A
-CATEGORIES:IA
-END:VEVENT
-BEGIN:VEVENT
 UID:der-ia-20261128-1@gengiscard.github.io
-DTSTAMP:20261127T131509Z
+DTSTAMP:20261128T123052Z
+DTSTART;TZID=Europe/Paris:20261128T200000
+DTEND;TZID=Europe/Paris:20261128T220000
+SUMMARY:Blind Test au Casino JOA (À CONFIRMER)
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/foires-et-salons/marches/blind-test-au-casino-joa-1834577_A
+URL:https://www.jds.fr/saint-dizier/foires-et-salons/marches/blind-test-au-casino-joa-1834577_A
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20261128-2@gengiscard.github.io
+DTSTAMP:20261128T123052Z
+DTSTART;TZID=Europe/Paris:20261128T200000
+DTEND;TZID=Europe/Paris:20261128T220000
+SUMMARY:Concert "Tribute Band" au Bourricot (À CONFIRMER)
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/concerts/concert-tribute-band-au-bourricot-1757799_A
+URL:https://www.jds.fr/saint-dizier/concerts/concert-tribute-band-au-bourricot-1757799_A
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20261128-3@gengiscard.github.io
+DTSTAMP:20261128T123052Z
+DTSTART;TZID=Europe/Paris:20261128T200000
+DTEND;TZID=Europe/Paris:20261128T220000
+SUMMARY:Pièce de théâtre: Le Coupable est dans la salle (À CONFIRMER)
+LOCATION:Voir fiche (Saint-Dizier / Lac du Der)
+DESCRIPTION:Budget : voir fiche\nÉvénement daté repéré sur www.jds.fr — recouper l'horaire sur la fiche.\nhttps://www.jds.fr/saint-dizier/manifestations/piece-de-theatre-le-coupable-est-dans-la-salle-1831106_A
+URL:https://www.jds.fr/saint-dizier/manifestations/piece-de-theatre-le-coupable-est-dans-la-salle-1831106_A
+CATEGORIES:IA
+END:VEVENT
+BEGIN:VEVENT
+UID:der-ia-20261128-4@gengiscard.github.io
+DTSTAMP:20261128T123052Z
 DTSTART;TZID=Europe/Paris:20261128T200000
 DTEND;TZID=Europe/Paris:20261128T220000
 SUMMARY:Michel Jonasz (À CONFIRMER)
@@ -133,8 +133,8 @@ URL:https://52.agendaculturel.fr/concert/saint-dizier/michel-jonasz.html
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20261128-2@gengiscard.github.io
-DTSTAMP:20261127T131509Z
+UID:der-ia-20261128-5@gengiscard.github.io
+DTSTAMP:20261128T123052Z
 DTSTART;TZID=Europe/Paris:20261128T200000
 DTEND;TZID=Europe/Paris:20261128T220000
 SUMMARY:Voir les 34 spectacles et concerts arrow_downward (À CONFIRMER)
@@ -144,8 +144,8 @@ URL:https://52.agendaculturel.fr#programmation
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20261128-3@gengiscard.github.io
-DTSTAMP:20261127T131509Z
+UID:der-ia-20261128-6@gengiscard.github.io
+DTSTAMP:20261128T123052Z
 DTSTART;TZID=Europe/Paris:20261128T200000
 DTEND;TZID=Europe/Paris:20261128T220000
 SUMMARY:En savoir plus sur le lieu (À CONFIRMER)
@@ -155,8 +155,8 @@ URL:https://52.agendaculturel.fr#infos
 CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
-UID:der-ia-20261128-4@gengiscard.github.io
-DTSTAMP:20261127T131509Z
+UID:der-ia-20261128-7@gengiscard.github.io
+DTSTAMP:20261128T123052Z
 DTSTART;TZID=Europe/Paris:20261128T203000
 DTEND;TZID=Europe/Paris:20261128T220000
 SUMMARY:Michel Jonasz et Jean-Yves D’angelo - Saison 5 - Tournée
@@ -167,7 +167,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261129-1@gengiscard.github.io
-DTSTAMP:20261127T131509Z
+DTSTAMP:20261128T123052Z
 DTSTART;TZID=Europe/Paris:20261129T100000
 DTEND;TZID=Europe/Paris:20261129T180000
 SUMMARY:Plage & baignade — Giffaumont\, Lac du Der
@@ -178,7 +178,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261130-1@gengiscard.github.io
-DTSTAMP:20261127T131509Z
+DTSTAMP:20261128T123052Z
 DTSTART;TZID=Europe/Paris:20261130T200000
 DTEND;TZID=Europe/Paris:20261130T221500
 SUMMARY:Ciné du soir — Ciné Quai
@@ -189,7 +189,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261130-2@gengiscard.github.io
-DTSTAMP:20261127T131509Z
+DTSTAMP:20261128T123052Z
 DTSTART;TZID=Europe/Paris:20261130T203000
 DTEND;TZID=Europe/Paris:20261130T220000
 SUMMARY:Golden hour photo au Der — port de Giffaumont
@@ -200,7 +200,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261201-1@gengiscard.github.io
-DTSTAMP:20261127T131509Z
+DTSTAMP:20261128T123052Z
 DTSTART;TZID=Europe/Paris:20261201T180000
 DTEND;TZID=Europe/Paris:20261201T220000
 SUMMARY:Soirée arcade & bar — Arcadia
@@ -211,7 +211,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261202-1@gengiscard.github.io
-DTSTAMP:20261127T131509Z
+DTSTAMP:20261128T123052Z
 DTSTART;TZID=Europe/Paris:20261202T173000
 DTEND;TZID=Europe/Paris:20261202T200000
 SUMMARY:Apéro lounge — Le Diable Rouge
@@ -222,7 +222,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261203-1@gengiscard.github.io
-DTSTAMP:20261127T131509Z
+DTSTAMP:20261128T123052Z
 DTSTART;TZID=Europe/Paris:20261203T200000
 DTEND;TZID=Europe/Paris:20261203T220000
 SUMMARY:Barbara Pravi Le 03/12/2026 Les Fuseaux - Saint-Dizier Chanson française (À CONFIRMER)
@@ -233,7 +233,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261203-2@gengiscard.github.io
-DTSTAMP:20261127T131509Z
+DTSTAMP:20261128T123052Z
 DTSTART;TZID=Europe/Paris:20261203T203000
 DTEND;TZID=Europe/Paris:20261203T220000
 SUMMARY:Barbara Pravi
@@ -244,7 +244,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261203-3@gengiscard.github.io
-DTSTAMP:20261127T131509Z
+DTSTAMP:20261128T123052Z
 DTSTART;TZID=Europe/Paris:20261203T203000
 DTEND;TZID=Europe/Paris:20261203T220000
 SUMMARY:Les Fuseaux - Saint-Dizier
@@ -255,7 +255,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261203-4@gengiscard.github.io
-DTSTAMP:20261127T131509Z
+DTSTAMP:20261128T123052Z
 DTSTART;TZID=Europe/Paris:20261203T203000
 DTEND;TZID=Europe/Paris:20261203T220000
 SUMMARY:Toutes les sorties à venir à Saint-Dizier
@@ -266,7 +266,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261204-1@gengiscard.github.io
-DTSTAMP:20261127T131509Z
+DTSTAMP:20261128T123052Z
 DTSTART;TZID=Europe/Paris:20261204T180000
 DTEND;TZID=Europe/Paris:20261204T220000
 SUMMARY:Soirée du vendredi — Bar de l'Agriculture
@@ -277,7 +277,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261205-1@gengiscard.github.io
-DTSTAMP:20261127T131509Z
+DTSTAMP:20261128T123052Z
 DTSTART;TZID=Europe/Paris:20261205T200000
 DTEND;TZID=Europe/Paris:20261205T233000
 SUMMARY:Soirée au Casino JOA du Lac du Der (À CONFIRMER)
@@ -288,7 +288,7 @@ CATEGORIES:IA
 END:VEVENT
 BEGIN:VEVENT
 UID:der-ia-20261206-1@gengiscard.github.io
-DTSTAMP:20261127T131509Z
+DTSTAMP:20261128T123052Z
 DTSTART;TZID=Europe/Paris:20261206T100000
 DTEND;TZID=Europe/Paris:20261206T180000
 SUMMARY:Plage & baignade — Giffaumont\, Lac du Der
